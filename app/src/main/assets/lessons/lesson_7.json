@@ -1,0 +1,427 @@
+{
+  "lesson": {
+    "id": 7,
+    "title": "N で V / N に N を あげます",
+    "description": "Phương tiện, công cụ, cho – nhận đồ vật"
+  },
+  "vocabulary": [
+    {
+      "wordId": 701,
+      "lessonId": 7,
+      "kanji": "",
+      "furigana": "あげます",
+      "romaji": "agemasu",
+      "meaning": "Cho, tặng",
+      "type": "verb"
+    },
+    {
+      "wordId": 702,
+      "lessonId": 7,
+      "kanji": "",
+      "furigana": "もらいます",
+      "romaji": "moraimasu",
+      "meaning": "Nhận",
+      "type": "verb"
+    },
+    {
+      "wordId": 703,
+      "lessonId": 7,
+      "kanji": "教えます",
+      "furigana": "おしえます",
+      "romaji": "oshiemasu",
+      "meaning": "Dạy, chỉ",
+      "type": "verb"
+    },
+    {
+      "wordId": 704,
+      "lessonId": 7,
+      "kanji": "習います",
+      "furigana": "ならいます",
+      "romaji": "naraimasu",
+      "meaning": "Học (từ ai)",
+      "type": "verb"
+    },
+    {
+      "wordId": 705,
+      "lessonId": 7,
+      "kanji": "かけます",
+      "furigana": "かけます",
+      "romaji": "kakemasu",
+      "meaning": "Gọi (điện thoại)",
+      "type": "verb"
+    },
+    {
+      "wordId": 706,
+      "lessonId": 7,
+      "kanji": "貸します",
+      "furigana": "かします",
+      "romaji": "kashimasu",
+      "meaning": "Cho mượn",
+      "type": "verb"
+    },
+    {
+      "wordId": 707,
+      "lessonId": 7,
+      "kanji": "借ります",
+      "furigana": "かります",
+      "romaji": "karimasu",
+      "meaning": "Mượn",
+      "type": "verb"
+    },
+    {
+      "wordId": 708,
+      "lessonId": 7,
+      "kanji": "手",
+      "furigana": "て",
+      "romaji": "te",
+      "meaning": "Tay",
+      "type": "noun"
+    },
+    {
+      "wordId": 709,
+      "lessonId": 7,
+      "kanji": "箸",
+      "furigana": "はし",
+      "romaji": "hashi",
+      "meaning": "Đũa",
+      "type": "noun"
+    },
+    {
+      "wordId": 710,
+      "lessonId": 7,
+      "kanji": "",
+      "furigana": "スプーン",
+      "romaji": "supuun",
+      "meaning": "Thìa",
+      "type": "noun"
+    },
+    {
+      "wordId": 711,
+      "lessonId": 7,
+      "kanji": "",
+      "furigana": "ナイフ",
+      "romaji": "naifu",
+      "meaning": "Dao",
+      "type": "noun"
+    },
+    {
+      "wordId": 712,
+      "lessonId": 7,
+      "kanji": "",
+      "furigana": "フォーク",
+      "romaji": "fooku",
+      "meaning": "Nĩa",
+      "type": "noun"
+    },
+    {
+      "wordId": 713,
+      "lessonId": 7,
+      "kanji": "",
+      "furigana": "はさみ",
+      "romaji": "hasami",
+      "meaning": "Kéo",
+      "type": "noun"
+    },
+    {
+      "wordId": 714,
+      "lessonId": 7,
+      "kanji": "",
+      "furigana": "ファックス",
+      "romaji": "fakkusu",
+      "meaning": "Fax",
+      "type": "noun"
+    },
+    {
+      "wordId": 715,
+      "lessonId": 7,
+      "kanji": "",
+      "furigana": "ワープロ",
+      "romaji": "waapuro",
+      "meaning": "Máy đánh chữ",
+      "type": "noun"
+    },
+    {
+      "wordId": 716,
+      "lessonId": 7,
+      "kanji": "",
+      "furigana": "パソコン",
+      "romaji": "pasokon",
+      "meaning": "Máy tính cá nhân",
+      "type": "noun"
+    },
+    {
+      "wordId": 717,
+      "lessonId": 7,
+      "kanji": "電話",
+      "furigana": "でんわ",
+      "romaji": "denwa",
+      "meaning": "Điện thoại",
+      "type": "noun"
+    },
+    {
+      "wordId": 718,
+      "lessonId": 7,
+      "kanji": "手紙",
+      "furigana": "てがみ",
+      "romaji": "tegami",
+      "meaning": "Thư",
+      "type": "noun"
+    },
+    {
+      "wordId": 719,
+      "lessonId": 7,
+      "kanji": "",
+      "furigana": "メール",
+      "romaji": "meeru",
+      "meaning": "Email",
+      "type": "noun"
+    },
+    {
+      "wordId": 720,
+      "lessonId": 7,
+      "kanji": "荷物",
+      "furigana": "にもつ",
+      "romaji": "nimotsu",
+      "meaning": "Hành lý",
+      "type": "noun"
+    },
+    {
+      "wordId": 721,
+      "lessonId": 7,
+      "kanji": "花",
+      "furigana": "はな",
+      "romaji": "hana",
+      "meaning": "Hoa",
+      "type": "noun"
+    },
+    {
+      "wordId": 722,
+      "lessonId": 7,
+      "kanji": "",
+      "furigana": "プレゼント",
+      "romaji": "purezento",
+      "meaning": "Quà tặng",
+      "type": "noun"
+    },
+    {
+      "wordId": 723,
+      "lessonId": 7,
+      "kanji": "",
+      "furigana": "チョコレート",
+      "romaji": "chokoreeto",
+      "meaning": "Sô cô la",
+      "type": "noun"
+    },
+    {
+      "wordId": 724,
+      "lessonId": 7,
+      "kanji": "",
+      "furigana": "クリスマス",
+      "romaji": "kurisumasu",
+      "meaning": "Giáng sinh",
+      "type": "noun"
+    },
+    {
+      "wordId": 725,
+      "lessonId": 7,
+      "kanji": "父",
+      "furigana": "ちち",
+      "romaji": "chichi",
+      "meaning": "Bố (mình)",
+      "type": "noun"
+    },
+    {
+      "wordId": 726,
+      "lessonId": 7,
+      "kanji": "母",
+      "furigana": "はは",
+      "romaji": "haha",
+      "meaning": "Mẹ (mình)",
+      "type": "noun"
+    },
+    {
+      "wordId": 727,
+      "lessonId": 7,
+      "kanji": "お父さん",
+      "furigana": "おとうさん",
+      "romaji": "otousan",
+      "meaning": "Bố (người khác)",
+      "type": "noun"
+    },
+    {
+      "wordId": 728,
+      "lessonId": 7,
+      "kanji": "お母さん",
+      "furigana": "おかあさん",
+      "romaji": "okaasan",
+      "meaning": "Mẹ (người khác)",
+      "type": "noun"
+    },
+    {
+      "wordId": 729,
+      "lessonId": 7,
+      "kanji": "",
+      "furigana": "もう",
+      "romaji": "mou",
+      "meaning": "Đã (rồi)",
+      "type": "adverb"
+    },
+    {
+      "wordId": 730,
+      "lessonId": 7,
+      "kanji": "",
+      "furigana": "まだ",
+      "romaji": "mada",
+      "meaning": "Chưa, vẫn còn",
+      "type": "adverb"
+    }
+  ],
+  "grammar": [
+    {
+      "grammarId": 701,
+      "lessonId": 7,
+      "title": "N(道具) で V",
+      "structure": "N で V",
+      "explanation": "Trợ từ で chỉ công cụ, phương tiện thực hiện hành động.",
+      "examples": [
+        {
+          "japanese": "箸で ご飯を 食べます。",
+          "vietnamese": "Tôi ăn cơm bằng đũa."
+        },
+        {
+          "japanese": "日本語で レポートを 書きます。",
+          "vietnamese": "Tôi viết báo cáo bằng tiếng Nhật."
+        }
+      ]
+    },
+    {
+      "grammarId": 702,
+      "lessonId": 7,
+      "title": "N(人) に N(物) を あげます",
+      "structure": "N に N を あげます/かします/おしえます",
+      "explanation": "Cho/mượn/dạy ai cái gì. に chỉ người nhận hành động.",
+      "examples": [
+        {
+          "japanese": "わたしは 木村さんに 花を あげます。",
+          "vietnamese": "Tôi tặng hoa cho chị Kimura."
+        },
+        {
+          "japanese": "ミラーさんは 私に 本を 貸して くれました。",
+          "vietnamese": "Anh Miller cho tôi mượn sách."
+        }
+      ]
+    },
+    {
+      "grammarId": 703,
+      "lessonId": 7,
+      "title": "N(人) に/から N を もらいます",
+      "structure": "N に/から N を もらいます/かります/ならいます",
+      "explanation": "Nhận/mượn/học từ ai cái gì. に hoặc から chỉ người cho/dạy.",
+      "examples": [
+        {
+          "japanese": "わたしは 山田さんに 本を もらいました。",
+          "vietnamese": "Tôi đã nhận sách từ anh Yamada."
+        },
+        {
+          "japanese": "母から 手紙を もらいました。",
+          "vietnamese": "Tôi nhận thư từ mẹ."
+        }
+      ]
+    },
+    {
+      "grammarId": 704,
+      "lessonId": 7,
+      "title": "もう V ました / まだ V て いません",
+      "structure": "もう V ました / まだです",
+      "explanation": "Hỏi đã làm chưa. もう = đã. まだ = chưa. Trả lời 'chưa' thường dùng まだです hoặc いいえ、まだ V ていません.",
+      "examples": [
+        {
+          "japanese": "もう 昼ご飯を 食べましたか。",
+          "vietnamese": "Bạn đã ăn trưa chưa?"
+        },
+        {
+          "japanese": "はい、もう 食べました。",
+          "vietnamese": "Vâng, tôi ăn rồi."
+        },
+        {
+          "japanese": "いいえ、まだです。",
+          "vietnamese": "Chưa."
+        }
+      ]
+    }
+  ],
+  "kanji": [
+    {
+      "kanjiId": 701,
+      "lessonId": 7,
+      "character": "花",
+      "onyomi": "カ",
+      "kunyomi": "はな",
+      "meaning": "Hoa",
+      "strokeCount": 7
+    },
+    {
+      "kanjiId": 702,
+      "lessonId": 7,
+      "character": "父",
+      "onyomi": "フ",
+      "kunyomi": "ちち",
+      "meaning": "Bố",
+      "strokeCount": 4
+    },
+    {
+      "kanjiId": 703,
+      "lessonId": 7,
+      "character": "母",
+      "onyomi": "ボ",
+      "kunyomi": "はは",
+      "meaning": "Mẹ",
+      "strokeCount": 5
+    },
+    {
+      "kanjiId": 704,
+      "lessonId": 7,
+      "character": "手",
+      "onyomi": "シュ",
+      "kunyomi": "て",
+      "meaning": "Tay",
+      "strokeCount": 4
+    },
+    {
+      "kanjiId": 705,
+      "lessonId": 7,
+      "character": "紙",
+      "onyomi": "シ",
+      "kunyomi": "かみ",
+      "meaning": "Giấy",
+      "strokeCount": 10
+    },
+    {
+      "kanjiId": 706,
+      "lessonId": 7,
+      "character": "電",
+      "onyomi": "デン",
+      "kunyomi": "",
+      "meaning": "Điện",
+      "strokeCount": 13
+    },
+    {
+      "kanjiId": 707,
+      "lessonId": 7,
+      "character": "話",
+      "onyomi": "ワ",
+      "kunyomi": "はな.す",
+      "meaning": "Nói chuyện",
+      "strokeCount": 13
+    },
+    {
+      "kanjiId": 708,
+      "lessonId": 7,
+      "character": "教",
+      "onyomi": "キョウ",
+      "kunyomi": "おし.える",
+      "meaning": "Dạy",
+      "strokeCount": 11
+    }
+  ]
+}

@@ -1,0 +1,422 @@
+{
+  "lesson": {
+    "id": 2,
+    "title": "これは ～です",
+    "description": "Đại từ chỉ thị, hỏi về đồ vật, sở hữu の"
+  },
+  "vocabulary": [
+    {
+      "wordId": 201,
+      "lessonId": 2,
+      "kanji": "",
+      "furigana": "これ",
+      "romaji": "kore",
+      "meaning": "Cái này",
+      "type": "pronoun"
+    },
+    {
+      "wordId": 202,
+      "lessonId": 2,
+      "kanji": "",
+      "furigana": "それ",
+      "romaji": "sore",
+      "meaning": "Cái đó",
+      "type": "pronoun"
+    },
+    {
+      "wordId": 203,
+      "lessonId": 2,
+      "kanji": "",
+      "furigana": "あれ",
+      "romaji": "are",
+      "meaning": "Cái kia",
+      "type": "pronoun"
+    },
+    {
+      "wordId": 204,
+      "lessonId": 2,
+      "kanji": "",
+      "furigana": "この～",
+      "romaji": "kono~",
+      "meaning": "～ này",
+      "type": "determiner"
+    },
+    {
+      "wordId": 205,
+      "lessonId": 2,
+      "kanji": "",
+      "furigana": "その～",
+      "romaji": "sono~",
+      "meaning": "～ đó",
+      "type": "determiner"
+    },
+    {
+      "wordId": 206,
+      "lessonId": 2,
+      "kanji": "",
+      "furigana": "あの～",
+      "romaji": "ano~",
+      "meaning": "～ kia",
+      "type": "determiner"
+    },
+    {
+      "wordId": 207,
+      "lessonId": 2,
+      "kanji": "本",
+      "furigana": "ほん",
+      "romaji": "hon",
+      "meaning": "Sách",
+      "type": "noun"
+    },
+    {
+      "wordId": 208,
+      "lessonId": 2,
+      "kanji": "辞書",
+      "furigana": "じしょ",
+      "romaji": "jisho",
+      "meaning": "Từ điển",
+      "type": "noun"
+    },
+    {
+      "wordId": 209,
+      "lessonId": 2,
+      "kanji": "雑誌",
+      "furigana": "ざっし",
+      "romaji": "zasshi",
+      "meaning": "Tạp chí",
+      "type": "noun"
+    },
+    {
+      "wordId": 210,
+      "lessonId": 2,
+      "kanji": "新聞",
+      "furigana": "しんぶん",
+      "romaji": "shinbun",
+      "meaning": "Báo",
+      "type": "noun"
+    },
+    {
+      "wordId": 211,
+      "lessonId": 2,
+      "kanji": "",
+      "furigana": "ノート",
+      "romaji": "nooto",
+      "meaning": "Vở, sổ tay",
+      "type": "noun"
+    },
+    {
+      "wordId": 212,
+      "lessonId": 2,
+      "kanji": "手帳",
+      "furigana": "てちょう",
+      "romaji": "techou",
+      "meaning": "Sổ ghi chép",
+      "type": "noun"
+    },
+    {
+      "wordId": 213,
+      "lessonId": 2,
+      "kanji": "名刺",
+      "furigana": "めいし",
+      "romaji": "meishi",
+      "meaning": "Danh thiếp",
+      "type": "noun"
+    },
+    {
+      "wordId": 214,
+      "lessonId": 2,
+      "kanji": "",
+      "furigana": "カード",
+      "romaji": "kaado",
+      "meaning": "Thẻ",
+      "type": "noun"
+    },
+    {
+      "wordId": 215,
+      "lessonId": 2,
+      "kanji": "鉛筆",
+      "furigana": "えんぴつ",
+      "romaji": "enpitsu",
+      "meaning": "Bút chì",
+      "type": "noun"
+    },
+    {
+      "wordId": 216,
+      "lessonId": 2,
+      "kanji": "",
+      "furigana": "ボールペン",
+      "romaji": "boorupen",
+      "meaning": "Bút bi",
+      "type": "noun"
+    },
+    {
+      "wordId": 217,
+      "lessonId": 2,
+      "kanji": "",
+      "furigana": "シャープペンシル",
+      "romaji": "shaapupenshiru",
+      "meaning": "Bút chì bấm",
+      "type": "noun"
+    },
+    {
+      "wordId": 218,
+      "lessonId": 2,
+      "kanji": "鍵",
+      "furigana": "かぎ",
+      "romaji": "kagi",
+      "meaning": "Chìa khoá",
+      "type": "noun"
+    },
+    {
+      "wordId": 219,
+      "lessonId": 2,
+      "kanji": "時計",
+      "furigana": "とけい",
+      "romaji": "tokei",
+      "meaning": "Đồng hồ",
+      "type": "noun"
+    },
+    {
+      "wordId": 220,
+      "lessonId": 2,
+      "kanji": "傘",
+      "furigana": "かさ",
+      "romaji": "kasa",
+      "meaning": "Ô, dù",
+      "type": "noun"
+    },
+    {
+      "wordId": 221,
+      "lessonId": 2,
+      "kanji": "",
+      "furigana": "かばん",
+      "romaji": "kaban",
+      "meaning": "Cặp, túi xách",
+      "type": "noun"
+    },
+    {
+      "wordId": 222,
+      "lessonId": 2,
+      "kanji": "",
+      "furigana": "テレビ",
+      "romaji": "terebi",
+      "meaning": "Ti vi",
+      "type": "noun"
+    },
+    {
+      "wordId": 223,
+      "lessonId": 2,
+      "kanji": "",
+      "furigana": "ラジオ",
+      "romaji": "rajio",
+      "meaning": "Đài radio",
+      "type": "noun"
+    },
+    {
+      "wordId": 224,
+      "lessonId": 2,
+      "kanji": "",
+      "furigana": "カメラ",
+      "romaji": "kamera",
+      "meaning": "Máy ảnh",
+      "type": "noun"
+    },
+    {
+      "wordId": 225,
+      "lessonId": 2,
+      "kanji": "",
+      "furigana": "コンピューター",
+      "romaji": "konpyuutaa",
+      "meaning": "Máy tính",
+      "type": "noun"
+    },
+    {
+      "wordId": 226,
+      "lessonId": 2,
+      "kanji": "自動車",
+      "furigana": "じどうしゃ",
+      "romaji": "jidousha",
+      "meaning": "Ô tô",
+      "type": "noun"
+    },
+    {
+      "wordId": 227,
+      "lessonId": 2,
+      "kanji": "机",
+      "furigana": "つくえ",
+      "romaji": "tsukue",
+      "meaning": "Bàn",
+      "type": "noun"
+    },
+    {
+      "wordId": 228,
+      "lessonId": 2,
+      "kanji": "椅子",
+      "furigana": "いす",
+      "romaji": "isu",
+      "meaning": "Ghế",
+      "type": "noun"
+    },
+    {
+      "wordId": 229,
+      "lessonId": 2,
+      "kanji": "何",
+      "furigana": "なん/なに",
+      "romaji": "nan/nani",
+      "meaning": "Cái gì",
+      "type": "pronoun"
+    },
+    {
+      "wordId": 230,
+      "lessonId": 2,
+      "kanji": "そう",
+      "furigana": "そう",
+      "romaji": "sou",
+      "meaning": "Vâng, đúng",
+      "type": "expression"
+    }
+  ],
+  "grammar": [
+    {
+      "grammarId": 201,
+      "lessonId": 2,
+      "title": "これ/それ/あれ は N です",
+      "structure": "これ / それ / あれ は N です",
+      "explanation": "これ chỉ vật gần người nói. それ chỉ vật gần người nghe. あれ chỉ vật xa cả hai.",
+      "examples": [
+        {
+          "japanese": "これは 本です。",
+          "vietnamese": "Đây là quyển sách."
+        },
+        {
+          "japanese": "それは わたしの 名刺です。",
+          "vietnamese": "Đó là danh thiếp của tôi."
+        },
+        {
+          "japanese": "あれは 何ですか。",
+          "vietnamese": "Cái kia là cái gì?"
+        }
+      ]
+    },
+    {
+      "grammarId": 202,
+      "lessonId": 2,
+      "title": "この / その / あの + N",
+      "structure": "この / その / あの + N",
+      "explanation": "この/その/あの đi liền với danh từ để chỉ rõ vật cụ thể.",
+      "examples": [
+        {
+          "japanese": "この本は わたしのです。",
+          "vietnamese": "Quyển sách này là của tôi."
+        },
+        {
+          "japanese": "あの人は ミラーさんです。",
+          "vietnamese": "Người kia là anh Miller."
+        }
+      ]
+    },
+    {
+      "grammarId": 203,
+      "lessonId": 2,
+      "title": "N1 の N2",
+      "structure": "N1 の N2",
+      "explanation": "Trợ từ の nối hai danh từ. の có thể chỉ sở hữu, nội dung, thuộc tính hoặc xuất xứ.",
+      "examples": [
+        {
+          "japanese": "これは コンピューターの 本です。",
+          "vietnamese": "Đây là sách về máy tính."
+        },
+        {
+          "japanese": "これは わたしの かばんです。",
+          "vietnamese": "Đây là cặp của tôi."
+        },
+        {
+          "japanese": "ミラーさんは IMCの 社員です。",
+          "vietnamese": "Anh Miller là nhân viên của công ty IMC."
+        }
+      ]
+    },
+    {
+      "grammarId": 204,
+      "lessonId": 2,
+      "title": "そう です / そう じゃ ありません",
+      "structure": "はい、そうです / いいえ、そう じゃ ありません",
+      "explanation": "Cách trả lời ngắn cho câu hỏi xác định N1 là N2 phải không? Khi trả lời phủ định cũng có thể dùng いいえ、ちがいます.",
+      "examples": [
+        {
+          "japanese": "それは 辞書ですか。 …はい、そうです。",
+          "vietnamese": "Đó là từ điển phải không? – Vâng, đúng vậy."
+        },
+        {
+          "japanese": "それは ボールペンですか。 …いいえ、そう じゃ ありません。シャープペンシルです。",
+          "vietnamese": "Đó là bút bi phải không? – Không, đó là bút chì bấm."
+        }
+      ]
+    }
+  ],
+  "kanji": [
+    {
+      "kanjiId": 201,
+      "lessonId": 2,
+      "character": "本",
+      "onyomi": "ホン",
+      "kunyomi": "もと",
+      "meaning": "Sách, gốc",
+      "strokeCount": 5
+    },
+    {
+      "kanjiId": 202,
+      "lessonId": 2,
+      "character": "何",
+      "onyomi": "カ",
+      "kunyomi": "なに/なん",
+      "meaning": "Cái gì",
+      "strokeCount": 7
+    },
+    {
+      "kanjiId": 203,
+      "lessonId": 2,
+      "character": "新",
+      "onyomi": "シン",
+      "kunyomi": "あたら.しい",
+      "meaning": "Mới",
+      "strokeCount": 13
+    },
+    {
+      "kanjiId": 204,
+      "lessonId": 2,
+      "character": "聞",
+      "onyomi": "ブン",
+      "kunyomi": "き.く",
+      "meaning": "Nghe, hỏi",
+      "strokeCount": 14
+    },
+    {
+      "kanjiId": 205,
+      "lessonId": 2,
+      "character": "書",
+      "onyomi": "ショ",
+      "kunyomi": "か.く",
+      "meaning": "Viết",
+      "strokeCount": 10
+    },
+    {
+      "kanjiId": 206,
+      "lessonId": 2,
+      "character": "辞",
+      "onyomi": "ジ",
+      "kunyomi": "",
+      "meaning": "Từ (điển)",
+      "strokeCount": 13
+    },
+    {
+      "kanjiId": 207,
+      "lessonId": 2,
+      "character": "雑",
+      "onyomi": "ザツ",
+      "kunyomi": "",
+      "meaning": "Tạp",
+      "strokeCount": 14
+    }
+  ]
+}

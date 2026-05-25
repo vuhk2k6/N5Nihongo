@@ -1,0 +1,423 @@
+{
+  "lesson": {
+    "id": 10,
+    "title": "あります・います",
+    "description": "Sự tồn tại, vị trí của đồ vật và sinh vật"
+  },
+  "vocabulary": [
+    {
+      "wordId": 1001,
+      "lessonId": 10,
+      "kanji": "あります",
+      "furigana": "あります",
+      "romaji": "arimasu",
+      "meaning": "Có (đồ vật)",
+      "type": "verb"
+    },
+    {
+      "wordId": 1002,
+      "lessonId": 10,
+      "kanji": "います",
+      "furigana": "います",
+      "romaji": "imasu",
+      "meaning": "Có (người, động vật)",
+      "type": "verb"
+    },
+    {
+      "wordId": 1003,
+      "lessonId": 10,
+      "kanji": "上",
+      "furigana": "うえ",
+      "romaji": "ue",
+      "meaning": "Trên",
+      "type": "noun"
+    },
+    {
+      "wordId": 1004,
+      "lessonId": 10,
+      "kanji": "下",
+      "furigana": "した",
+      "romaji": "shita",
+      "meaning": "Dưới",
+      "type": "noun"
+    },
+    {
+      "wordId": 1005,
+      "lessonId": 10,
+      "kanji": "前",
+      "furigana": "まえ",
+      "romaji": "mae",
+      "meaning": "Trước",
+      "type": "noun"
+    },
+    {
+      "wordId": 1006,
+      "lessonId": 10,
+      "kanji": "後ろ",
+      "furigana": "うしろ",
+      "romaji": "ushiro",
+      "meaning": "Sau",
+      "type": "noun"
+    },
+    {
+      "wordId": 1007,
+      "lessonId": 10,
+      "kanji": "右",
+      "furigana": "みぎ",
+      "romaji": "migi",
+      "meaning": "Phải",
+      "type": "noun"
+    },
+    {
+      "wordId": 1008,
+      "lessonId": 10,
+      "kanji": "左",
+      "furigana": "ひだり",
+      "romaji": "hidari",
+      "meaning": "Trái",
+      "type": "noun"
+    },
+    {
+      "wordId": 1009,
+      "lessonId": 10,
+      "kanji": "中",
+      "furigana": "なか",
+      "romaji": "naka",
+      "meaning": "Trong",
+      "type": "noun"
+    },
+    {
+      "wordId": 1010,
+      "lessonId": 10,
+      "kanji": "外",
+      "furigana": "そと",
+      "romaji": "soto",
+      "meaning": "Ngoài",
+      "type": "noun"
+    },
+    {
+      "wordId": 1011,
+      "lessonId": 10,
+      "kanji": "隣",
+      "furigana": "となり",
+      "romaji": "tonari",
+      "meaning": "Bên cạnh (cùng loại)",
+      "type": "noun"
+    },
+    {
+      "wordId": 1012,
+      "lessonId": 10,
+      "kanji": "近く",
+      "furigana": "ちかく",
+      "romaji": "chikaku",
+      "meaning": "Gần",
+      "type": "noun"
+    },
+    {
+      "wordId": 1013,
+      "lessonId": 10,
+      "kanji": "間",
+      "furigana": "あいだ",
+      "romaji": "aida",
+      "meaning": "Giữa",
+      "type": "noun"
+    },
+    {
+      "wordId": 1014,
+      "lessonId": 10,
+      "kanji": "そば",
+      "furigana": "そば",
+      "romaji": "soba",
+      "meaning": "Cạnh, bên",
+      "type": "noun"
+    },
+    {
+      "wordId": 1015,
+      "lessonId": 10,
+      "kanji": "机",
+      "furigana": "つくえ",
+      "romaji": "tsukue",
+      "meaning": "Bàn",
+      "type": "noun"
+    },
+    {
+      "wordId": 1016,
+      "lessonId": 10,
+      "kanji": "椅子",
+      "furigana": "いす",
+      "romaji": "isu",
+      "meaning": "Ghế",
+      "type": "noun"
+    },
+    {
+      "wordId": 1017,
+      "lessonId": 10,
+      "kanji": "箱",
+      "furigana": "はこ",
+      "romaji": "hako",
+      "meaning": "Hộp",
+      "type": "noun"
+    },
+    {
+      "wordId": 1018,
+      "lessonId": 10,
+      "kanji": "猫",
+      "furigana": "ねこ",
+      "romaji": "neko",
+      "meaning": "Mèo",
+      "type": "noun"
+    },
+    {
+      "wordId": 1019,
+      "lessonId": 10,
+      "kanji": "犬",
+      "furigana": "いぬ",
+      "romaji": "inu",
+      "meaning": "Chó",
+      "type": "noun"
+    },
+    {
+      "wordId": 1020,
+      "lessonId": 10,
+      "kanji": "象",
+      "furigana": "ぞう",
+      "romaji": "zou",
+      "meaning": "Voi",
+      "type": "noun"
+    },
+    {
+      "wordId": 1021,
+      "lessonId": 10,
+      "kanji": "鳥",
+      "furigana": "とり",
+      "romaji": "tori",
+      "meaning": "Chim",
+      "type": "noun"
+    },
+    {
+      "wordId": 1022,
+      "lessonId": 10,
+      "kanji": "魚",
+      "furigana": "さかな",
+      "romaji": "sakana",
+      "meaning": "Cá",
+      "type": "noun"
+    },
+    {
+      "wordId": 1023,
+      "lessonId": 10,
+      "kanji": "木",
+      "furigana": "き",
+      "romaji": "ki",
+      "meaning": "Cây",
+      "type": "noun"
+    },
+    {
+      "wordId": 1024,
+      "lessonId": 10,
+      "kanji": "公園",
+      "furigana": "こうえん",
+      "romaji": "kouen",
+      "meaning": "Công viên",
+      "type": "noun"
+    },
+    {
+      "wordId": 1025,
+      "lessonId": 10,
+      "kanji": "郵便局",
+      "furigana": "ゆうびんきょく",
+      "romaji": "yuubinkyoku",
+      "meaning": "Bưu điện",
+      "type": "noun"
+    },
+    {
+      "wordId": 1026,
+      "lessonId": 10,
+      "kanji": "病院",
+      "furigana": "びょういん",
+      "romaji": "byouin",
+      "meaning": "Bệnh viện",
+      "type": "noun"
+    },
+    {
+      "wordId": 1027,
+      "lessonId": 10,
+      "kanji": "",
+      "furigana": "コンビニ",
+      "romaji": "konbini",
+      "meaning": "Cửa hàng tiện lợi",
+      "type": "noun"
+    },
+    {
+      "wordId": 1028,
+      "lessonId": 10,
+      "kanji": "",
+      "furigana": "いろいろ（な）",
+      "romaji": "iroiro (na)",
+      "meaning": "Đa dạng",
+      "type": "na-adj"
+    },
+    {
+      "wordId": 1029,
+      "lessonId": 10,
+      "kanji": "男の人",
+      "furigana": "おとこのひと",
+      "romaji": "otoko no hito",
+      "meaning": "Đàn ông",
+      "type": "noun"
+    },
+    {
+      "wordId": 1030,
+      "lessonId": 10,
+      "kanji": "女の人",
+      "furigana": "おんなのひと",
+      "romaji": "onna no hito",
+      "meaning": "Phụ nữ",
+      "type": "noun"
+    }
+  ],
+  "grammar": [
+    {
+      "grammarId": 1001,
+      "lessonId": 10,
+      "title": "N(場所) に N が あります/います",
+      "structure": "N に N が あります/います",
+      "explanation": "Có cái gì ở đâu. あります dùng cho đồ vật, います dùng cho người/động vật.",
+      "examples": [
+        {
+          "japanese": "机の 上に 本が あります。",
+          "vietnamese": "Trên bàn có quyển sách."
+        },
+        {
+          "japanese": "部屋に 猫が います。",
+          "vietnamese": "Trong phòng có con mèo."
+        }
+      ]
+    },
+    {
+      "grammarId": 1002,
+      "lessonId": 10,
+      "title": "N は N(場所) に あります/います",
+      "structure": "N は N に あります/います",
+      "explanation": "Diễn đạt vị trí. ~ ở đâu? Chủ thể N được nhấn mạnh nên đặt trước は.",
+      "examples": [
+        {
+          "japanese": "銀行は 駅の 近くに あります。",
+          "vietnamese": "Ngân hàng ở gần ga."
+        },
+        {
+          "japanese": "ミラーさんは 事務所に います。",
+          "vietnamese": "Anh Miller đang ở văn phòng."
+        }
+      ]
+    },
+    {
+      "grammarId": 1003,
+      "lessonId": 10,
+      "title": "N1 の (vị trí) に",
+      "structure": "N の うえ/した/まえ/うしろ… に",
+      "explanation": "Dùng の để nối danh từ với từ chỉ vị trí.",
+      "examples": [
+        {
+          "japanese": "椅子の 下に かばんが あります。",
+          "vietnamese": "Có cái cặp ở dưới ghế."
+        },
+        {
+          "japanese": "銀行と 郵便局の 間に 花屋が あります。",
+          "vietnamese": "Giữa ngân hàng và bưu điện có tiệm hoa."
+        }
+      ]
+    },
+    {
+      "grammarId": 1004,
+      "lessonId": 10,
+      "title": "N1 や N2 (など)",
+      "structure": "N1 や N2 (など)",
+      "explanation": "Liệt kê không đầy đủ. や = và, など = vân vân.",
+      "examples": [
+        {
+          "japanese": "箱の 中に 手紙や 写真などが あります。",
+          "vietnamese": "Trong hộp có thư, ảnh, vv..."
+        },
+        {
+          "japanese": "ロビーに 男の人や 女の人が います。",
+          "vietnamese": "Trong sảnh có cả đàn ông và phụ nữ."
+        }
+      ]
+    }
+  ],
+  "kanji": [
+    {
+      "kanjiId": 1001,
+      "lessonId": 10,
+      "character": "上",
+      "onyomi": "ジョウ",
+      "kunyomi": "うえ",
+      "meaning": "Trên",
+      "strokeCount": 3
+    },
+    {
+      "kanjiId": 1002,
+      "lessonId": 10,
+      "character": "下",
+      "onyomi": "カ",
+      "kunyomi": "した",
+      "meaning": "Dưới",
+      "strokeCount": 3
+    },
+    {
+      "kanjiId": 1003,
+      "lessonId": 10,
+      "character": "右",
+      "onyomi": "ウ",
+      "kunyomi": "みぎ",
+      "meaning": "Phải",
+      "strokeCount": 5
+    },
+    {
+      "kanjiId": 1004,
+      "lessonId": 10,
+      "character": "左",
+      "onyomi": "サ",
+      "kunyomi": "ひだり",
+      "meaning": "Trái",
+      "strokeCount": 5
+    },
+    {
+      "kanjiId": 1005,
+      "lessonId": 10,
+      "character": "中",
+      "onyomi": "チュウ",
+      "kunyomi": "なか",
+      "meaning": "Trong",
+      "strokeCount": 4
+    },
+    {
+      "kanjiId": 1006,
+      "lessonId": 10,
+      "character": "外",
+      "onyomi": "ガイ",
+      "kunyomi": "そと",
+      "meaning": "Ngoài",
+      "strokeCount": 5
+    },
+    {
+      "kanjiId": 1007,
+      "lessonId": 10,
+      "character": "前",
+      "onyomi": "ゼン",
+      "kunyomi": "まえ",
+      "meaning": "Trước",
+      "strokeCount": 9
+    },
+    {
+      "kanjiId": 1008,
+      "lessonId": 10,
+      "character": "後",
+      "onyomi": "ゴ/コウ",
+      "kunyomi": "うし.ろ",
+      "meaning": "Sau",
+      "strokeCount": 9
+    }
+  ]
+}

@@ -1,0 +1,423 @@
+{
+  "lesson": {
+    "id": 11,
+    "title": "助数詞",
+    "description": "Bộ đếm, số lượng, tần suất"
+  },
+  "vocabulary": [
+    {
+      "wordId": 1101,
+      "lessonId": 11,
+      "kanji": "",
+      "furigana": "ひとつ",
+      "romaji": "hitotsu",
+      "meaning": "1 cái",
+      "type": "counter"
+    },
+    {
+      "wordId": 1102,
+      "lessonId": 11,
+      "kanji": "",
+      "furigana": "ふたつ",
+      "romaji": "futatsu",
+      "meaning": "2 cái",
+      "type": "counter"
+    },
+    {
+      "wordId": 1103,
+      "lessonId": 11,
+      "kanji": "",
+      "furigana": "みっつ",
+      "romaji": "mittsu",
+      "meaning": "3 cái",
+      "type": "counter"
+    },
+    {
+      "wordId": 1104,
+      "lessonId": 11,
+      "kanji": "",
+      "furigana": "よっつ",
+      "romaji": "yottsu",
+      "meaning": "4 cái",
+      "type": "counter"
+    },
+    {
+      "wordId": 1105,
+      "lessonId": 11,
+      "kanji": "",
+      "furigana": "いつつ",
+      "romaji": "itsutsu",
+      "meaning": "5 cái",
+      "type": "counter"
+    },
+    {
+      "wordId": 1106,
+      "lessonId": 11,
+      "kanji": "",
+      "furigana": "いくつ",
+      "romaji": "ikutsu",
+      "meaning": "Mấy cái",
+      "type": "counter"
+    },
+    {
+      "wordId": 1107,
+      "lessonId": 11,
+      "kanji": "一人",
+      "furigana": "ひとり",
+      "romaji": "hitori",
+      "meaning": "1 người",
+      "type": "counter"
+    },
+    {
+      "wordId": 1108,
+      "lessonId": 11,
+      "kanji": "二人",
+      "furigana": "ふたり",
+      "romaji": "futari",
+      "meaning": "2 người",
+      "type": "counter"
+    },
+    {
+      "wordId": 1109,
+      "lessonId": 11,
+      "kanji": "",
+      "furigana": "～人",
+      "romaji": "~nin",
+      "meaning": "～ người",
+      "type": "counter"
+    },
+    {
+      "wordId": 1110,
+      "lessonId": 11,
+      "kanji": "",
+      "furigana": "～台",
+      "romaji": "~dai",
+      "meaning": "～ chiếc (máy móc)",
+      "type": "counter"
+    },
+    {
+      "wordId": 1111,
+      "lessonId": 11,
+      "kanji": "",
+      "furigana": "～枚",
+      "romaji": "~mai",
+      "meaning": "～ tờ, tấm (mỏng)",
+      "type": "counter"
+    },
+    {
+      "wordId": 1112,
+      "lessonId": 11,
+      "kanji": "",
+      "furigana": "～回",
+      "romaji": "~kai",
+      "meaning": "～ lần",
+      "type": "counter"
+    },
+    {
+      "wordId": 1113,
+      "lessonId": 11,
+      "kanji": "",
+      "furigana": "～分",
+      "romaji": "~fun/pun",
+      "meaning": "～ phút",
+      "type": "counter"
+    },
+    {
+      "wordId": 1114,
+      "lessonId": 11,
+      "kanji": "",
+      "furigana": "～時間",
+      "romaji": "~jikan",
+      "meaning": "～ giờ (đếm)",
+      "type": "counter"
+    },
+    {
+      "wordId": 1115,
+      "lessonId": 11,
+      "kanji": "",
+      "furigana": "～週間",
+      "romaji": "~shuukan",
+      "meaning": "～ tuần",
+      "type": "counter"
+    },
+    {
+      "wordId": 1116,
+      "lessonId": 11,
+      "kanji": "",
+      "furigana": "～か月",
+      "romaji": "~kagetsu",
+      "meaning": "～ tháng",
+      "type": "counter"
+    },
+    {
+      "wordId": 1117,
+      "lessonId": 11,
+      "kanji": "",
+      "furigana": "～年",
+      "romaji": "~nen",
+      "meaning": "～ năm",
+      "type": "counter"
+    },
+    {
+      "wordId": 1118,
+      "lessonId": 11,
+      "kanji": "子供",
+      "furigana": "こども",
+      "romaji": "kodomo",
+      "meaning": "Trẻ con",
+      "type": "noun"
+    },
+    {
+      "wordId": 1119,
+      "lessonId": 11,
+      "kanji": "家族",
+      "furigana": "かぞく",
+      "romaji": "kazoku",
+      "meaning": "Gia đình",
+      "type": "noun"
+    },
+    {
+      "wordId": 1120,
+      "lessonId": 11,
+      "kanji": "兄弟",
+      "furigana": "きょうだい",
+      "romaji": "kyoudai",
+      "meaning": "Anh chị em",
+      "type": "noun"
+    },
+    {
+      "wordId": 1121,
+      "lessonId": 11,
+      "kanji": "兄",
+      "furigana": "あに",
+      "romaji": "ani",
+      "meaning": "Anh trai (mình)",
+      "type": "noun"
+    },
+    {
+      "wordId": 1122,
+      "lessonId": 11,
+      "kanji": "姉",
+      "furigana": "あね",
+      "romaji": "ane",
+      "meaning": "Chị gái (mình)",
+      "type": "noun"
+    },
+    {
+      "wordId": 1123,
+      "lessonId": 11,
+      "kanji": "弟",
+      "furigana": "おとうと",
+      "romaji": "otouto",
+      "meaning": "Em trai",
+      "type": "noun"
+    },
+    {
+      "wordId": 1124,
+      "lessonId": 11,
+      "kanji": "妹",
+      "furigana": "いもうと",
+      "romaji": "imouto",
+      "meaning": "Em gái",
+      "type": "noun"
+    },
+    {
+      "wordId": 1125,
+      "lessonId": 11,
+      "kanji": "外国",
+      "furigana": "がいこく",
+      "romaji": "gaikoku",
+      "meaning": "Nước ngoài",
+      "type": "noun"
+    },
+    {
+      "wordId": 1126,
+      "lessonId": 11,
+      "kanji": "切手",
+      "furigana": "きって",
+      "romaji": "kitte",
+      "meaning": "Tem",
+      "type": "noun"
+    },
+    {
+      "wordId": 1127,
+      "lessonId": 11,
+      "kanji": "葉書",
+      "furigana": "はがき",
+      "romaji": "hagaki",
+      "meaning": "Bưu thiếp",
+      "type": "noun"
+    },
+    {
+      "wordId": 1128,
+      "lessonId": 11,
+      "kanji": "りんご",
+      "furigana": "りんご",
+      "romaji": "ringo",
+      "meaning": "Quả táo",
+      "type": "noun"
+    },
+    {
+      "wordId": 1129,
+      "lessonId": 11,
+      "kanji": "",
+      "furigana": "みかん",
+      "romaji": "mikan",
+      "meaning": "Quýt",
+      "type": "noun"
+    },
+    {
+      "wordId": 1130,
+      "lessonId": 11,
+      "kanji": "",
+      "furigana": "ぐらい",
+      "romaji": "gurai",
+      "meaning": "Khoảng",
+      "type": "particle"
+    }
+  ],
+  "grammar": [
+    {
+      "grammarId": 1101,
+      "lessonId": 11,
+      "title": "N が ～つ / ～人 あります/います",
+      "structure": "N が (số đếm) あります/います",
+      "explanation": "Số đếm đặt sau が hoặc trước động từ. Bộ đếm phụ thuộc vào loại danh từ.",
+      "examples": [
+        {
+          "japanese": "りんごが 三つ あります。",
+          "vietnamese": "Có 3 quả táo."
+        },
+        {
+          "japanese": "子供が 二人 います。",
+          "vietnamese": "Có 2 đứa trẻ."
+        }
+      ]
+    },
+    {
+      "grammarId": 1102,
+      "lessonId": 11,
+      "title": "N を ～(số lượng) V ます",
+      "structure": "N を (số lượng) V ます",
+      "explanation": "Khi đi cùng động từ, số lượng đặt trước động từ, không cần trợ từ phía sau.",
+      "examples": [
+        {
+          "japanese": "80円の 切手を 5枚 ください。",
+          "vietnamese": "Cho tôi 5 con tem 80 yên."
+        },
+        {
+          "japanese": "コーヒーを 一杯 飲みました。",
+          "vietnamese": "Tôi đã uống một cốc cà phê."
+        }
+      ]
+    },
+    {
+      "grammarId": 1103,
+      "lessonId": 11,
+      "title": "(期間) に ～回 V ます",
+      "structure": "N(期間) に ～かい V ます",
+      "explanation": "Diễn đạt tần suất. Trong khoảng thời gian N, làm ~ lần.",
+      "examples": [
+        {
+          "japanese": "1か月に 2回 映画を 見ます。",
+          "vietnamese": "Tôi xem phim 2 lần một tháng."
+        },
+        {
+          "japanese": "1週間に 3回 テニスを します。",
+          "vietnamese": "Tôi chơi tennis 3 lần một tuần."
+        }
+      ]
+    },
+    {
+      "grammarId": 1104,
+      "lessonId": 11,
+      "title": "(期間) V ます (Khoảng thời gian)",
+      "structure": "～時間 / ～か月 / ～年 V ます",
+      "explanation": "Bộ đếm khoảng thời gian không cần trợ từ. Diễn đạt khoảng thời gian thực hiện hành động.",
+      "examples": [
+        {
+          "japanese": "毎日 7時間 働きます。",
+          "vietnamese": "Mỗi ngày tôi làm việc 7 tiếng."
+        },
+        {
+          "japanese": "3年 日本語を 勉強しました。",
+          "vietnamese": "Tôi đã học tiếng Nhật 3 năm."
+        }
+      ]
+    }
+  ],
+  "kanji": [
+    {
+      "kanjiId": 1101,
+      "lessonId": 11,
+      "character": "人",
+      "onyomi": "ジン/ニン",
+      "kunyomi": "ひと",
+      "meaning": "Người",
+      "strokeCount": 2
+    },
+    {
+      "kanjiId": 1102,
+      "lessonId": 11,
+      "character": "子",
+      "onyomi": "シ",
+      "kunyomi": "こ",
+      "meaning": "Trẻ con",
+      "strokeCount": 3
+    },
+    {
+      "kanjiId": 1103,
+      "lessonId": 11,
+      "character": "兄",
+      "onyomi": "ケイ",
+      "kunyomi": "あに",
+      "meaning": "Anh",
+      "strokeCount": 5
+    },
+    {
+      "kanjiId": 1104,
+      "lessonId": 11,
+      "character": "姉",
+      "onyomi": "シ",
+      "kunyomi": "あね",
+      "meaning": "Chị",
+      "strokeCount": 8
+    },
+    {
+      "kanjiId": 1105,
+      "lessonId": 11,
+      "character": "弟",
+      "onyomi": "テイ",
+      "kunyomi": "おとうと",
+      "meaning": "Em trai",
+      "strokeCount": 7
+    },
+    {
+      "kanjiId": 1106,
+      "lessonId": 11,
+      "character": "妹",
+      "onyomi": "マイ",
+      "kunyomi": "いもうと",
+      "meaning": "Em gái",
+      "strokeCount": 8
+    },
+    {
+      "kanjiId": 1107,
+      "lessonId": 11,
+      "character": "家",
+      "onyomi": "カ",
+      "kunyomi": "いえ",
+      "meaning": "Nhà, gia đình",
+      "strokeCount": 10
+    },
+    {
+      "kanjiId": 1108,
+      "lessonId": 11,
+      "character": "族",
+      "onyomi": "ゾク",
+      "kunyomi": "",
+      "meaning": "Tộc",
+      "strokeCount": 11
+    }
+  ]
+}

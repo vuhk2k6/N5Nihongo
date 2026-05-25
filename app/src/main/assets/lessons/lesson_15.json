@@ -1,0 +1,427 @@
+{
+  "lesson": {
+    "id": 15,
+    "title": "Vても いいです・て います (trạng thái)",
+    "description": "Xin phép, cấm đoán, trạng thái kết quả"
+  },
+  "vocabulary": [
+    {
+      "wordId": 1501,
+      "lessonId": 15,
+      "kanji": "写します",
+      "furigana": "うつします",
+      "romaji": "utsushimasu",
+      "meaning": "Sao chép",
+      "type": "verb"
+    },
+    {
+      "wordId": 1502,
+      "lessonId": 15,
+      "kanji": "勤めます",
+      "furigana": "つとめます",
+      "romaji": "tsutomemasu",
+      "meaning": "Làm việc cho",
+      "type": "verb"
+    },
+    {
+      "wordId": 1503,
+      "lessonId": 15,
+      "kanji": "止めます",
+      "furigana": "とめます",
+      "romaji": "tomemasu",
+      "meaning": "Dừng, đỗ (xe)",
+      "type": "verb"
+    },
+    {
+      "wordId": 1504,
+      "lessonId": 15,
+      "kanji": "結婚します",
+      "furigana": "けっこんします",
+      "romaji": "kekkon shimasu",
+      "meaning": "Kết hôn",
+      "type": "verb"
+    },
+    {
+      "wordId": 1505,
+      "lessonId": 15,
+      "kanji": "降ります",
+      "furigana": "おります",
+      "romaji": "orimasu",
+      "meaning": "Xuống (xe, thang máy)",
+      "type": "verb"
+    },
+    {
+      "wordId": 1506,
+      "lessonId": 15,
+      "kanji": "乗ります",
+      "furigana": "のります",
+      "romaji": "norimasu",
+      "meaning": "Lên (xe)",
+      "type": "verb"
+    },
+    {
+      "wordId": 1507,
+      "lessonId": 15,
+      "kanji": "知っています",
+      "furigana": "しっています",
+      "romaji": "shitte imasu",
+      "meaning": "Biết (rồi)",
+      "type": "expression"
+    },
+    {
+      "wordId": 1508,
+      "lessonId": 15,
+      "kanji": "住んでいます",
+      "furigana": "すんでいます",
+      "romaji": "sunde imasu",
+      "meaning": "Đang sống",
+      "type": "expression"
+    },
+    {
+      "wordId": 1509,
+      "lessonId": 15,
+      "kanji": "持っています",
+      "furigana": "もっています",
+      "romaji": "motte imasu",
+      "meaning": "Đang có/sở hữu",
+      "type": "expression"
+    },
+    {
+      "wordId": 1510,
+      "lessonId": 15,
+      "kanji": "独身",
+      "furigana": "どくしん",
+      "romaji": "dokushin",
+      "meaning": "Độc thân",
+      "type": "noun"
+    },
+    {
+      "wordId": 1511,
+      "lessonId": 15,
+      "kanji": "市役所",
+      "furigana": "しやくしょ",
+      "romaji": "shiyakusho",
+      "meaning": "Toà thị chính",
+      "type": "noun"
+    },
+    {
+      "wordId": 1512,
+      "lessonId": 15,
+      "kanji": "高校",
+      "furigana": "こうこう",
+      "romaji": "koukou",
+      "meaning": "Trường cấp 3",
+      "type": "noun"
+    },
+    {
+      "wordId": 1513,
+      "lessonId": 15,
+      "kanji": "大学院",
+      "furigana": "だいがくいん",
+      "romaji": "daigakuin",
+      "meaning": "Cao học",
+      "type": "noun"
+    },
+    {
+      "wordId": 1514,
+      "lessonId": 15,
+      "kanji": "図書館",
+      "furigana": "としょかん",
+      "romaji": "toshokan",
+      "meaning": "Thư viện",
+      "type": "noun"
+    },
+    {
+      "wordId": 1515,
+      "lessonId": 15,
+      "kanji": "美術館",
+      "furigana": "びじゅつかん",
+      "romaji": "bijutsukan",
+      "meaning": "Bảo tàng mỹ thuật",
+      "type": "noun"
+    },
+    {
+      "wordId": 1516,
+      "lessonId": 15,
+      "kanji": "病院",
+      "furigana": "びょういん",
+      "romaji": "byouin",
+      "meaning": "Bệnh viện",
+      "type": "noun"
+    },
+    {
+      "wordId": 1517,
+      "lessonId": 15,
+      "kanji": "店",
+      "furigana": "みせ",
+      "romaji": "mise",
+      "meaning": "Cửa hàng",
+      "type": "noun"
+    },
+    {
+      "wordId": 1518,
+      "lessonId": 15,
+      "kanji": "レストラン",
+      "furigana": "レストラン",
+      "romaji": "resutoran",
+      "meaning": "Nhà hàng",
+      "type": "noun"
+    },
+    {
+      "wordId": 1519,
+      "lessonId": 15,
+      "kanji": "問題",
+      "furigana": "もんだい",
+      "romaji": "mondai",
+      "meaning": "Vấn đề, câu hỏi",
+      "type": "noun"
+    },
+    {
+      "wordId": 1520,
+      "lessonId": 15,
+      "kanji": "答え",
+      "furigana": "こたえ",
+      "romaji": "kotae",
+      "meaning": "Câu trả lời",
+      "type": "noun"
+    },
+    {
+      "wordId": 1521,
+      "lessonId": 15,
+      "kanji": "意味",
+      "furigana": "いみ",
+      "romaji": "imi",
+      "meaning": "Ý nghĩa",
+      "type": "noun"
+    },
+    {
+      "wordId": 1522,
+      "lessonId": 15,
+      "kanji": "",
+      "furigana": "まだ",
+      "romaji": "mada",
+      "meaning": "Vẫn chưa, vẫn đang",
+      "type": "adverb"
+    },
+    {
+      "wordId": 1523,
+      "lessonId": 15,
+      "kanji": "",
+      "furigana": "もう",
+      "romaji": "mou",
+      "meaning": "Đã, không còn",
+      "type": "adverb"
+    },
+    {
+      "wordId": 1524,
+      "lessonId": 15,
+      "kanji": "",
+      "furigana": "これから",
+      "romaji": "korekara",
+      "meaning": "Từ giờ trở đi",
+      "type": "adverb"
+    },
+    {
+      "wordId": 1525,
+      "lessonId": 15,
+      "kanji": "若い",
+      "furigana": "わかい",
+      "romaji": "wakai",
+      "meaning": "Trẻ",
+      "type": "i-adj"
+    },
+    {
+      "wordId": 1526,
+      "lessonId": 15,
+      "kanji": "長い",
+      "furigana": "ながい",
+      "romaji": "nagai",
+      "meaning": "Dài",
+      "type": "i-adj"
+    },
+    {
+      "wordId": 1527,
+      "lessonId": 15,
+      "kanji": "頭",
+      "furigana": "あたま",
+      "romaji": "atama",
+      "meaning": "Đầu",
+      "type": "noun"
+    },
+    {
+      "wordId": 1528,
+      "lessonId": 15,
+      "kanji": "髪",
+      "furigana": "かみ",
+      "romaji": "kami",
+      "meaning": "Tóc",
+      "type": "noun"
+    },
+    {
+      "wordId": 1529,
+      "lessonId": 15,
+      "kanji": "",
+      "furigana": "ハンサム（な）",
+      "romaji": "hansamu (na)",
+      "meaning": "Đẹp trai",
+      "type": "na-adj"
+    },
+    {
+      "wordId": 1530,
+      "lessonId": 15,
+      "kanji": "皆",
+      "furigana": "みんな",
+      "romaji": "minna",
+      "meaning": "Tất cả mọi người",
+      "type": "noun"
+    }
+  ],
+  "grammar": [
+    {
+      "grammarId": 1501,
+      "lessonId": 15,
+      "title": "V て も いいです",
+      "structure": "V て も いいです",
+      "explanation": "Xin phép / cho phép. Câu hỏi: ~ được không? Câu trả lời: はい、いいですよ / だめです.",
+      "examples": [
+        {
+          "japanese": "写真を 撮っても いいですか。",
+          "vietnamese": "Tôi chụp ảnh được không?"
+        },
+        {
+          "japanese": "はい、いいですよ。",
+          "vietnamese": "Vâng, được."
+        }
+      ]
+    },
+    {
+      "grammarId": 1502,
+      "lessonId": 15,
+      "title": "V ては いけません",
+      "structure": "V て は いけません",
+      "explanation": "Cấm, không được phép. Dùng với biển báo, quy định.",
+      "examples": [
+        {
+          "japanese": "ここで タバコを 吸っては いけません。",
+          "vietnamese": "Không được hút thuốc ở đây."
+        },
+        {
+          "japanese": "教室で 食事しては いけません。",
+          "vietnamese": "Không được ăn uống trong phòng học."
+        }
+      ]
+    },
+    {
+      "grammarId": 1503,
+      "lessonId": 15,
+      "title": "V て います (Trạng thái kết quả)",
+      "structure": "V て います",
+      "explanation": "Diễn đạt trạng thái kết quả còn duy trì sau khi hành động xảy ra. VD: 結婚しています (đã kết hôn).",
+      "examples": [
+        {
+          "japanese": "ミラーさんは 結婚して います。",
+          "vietnamese": "Anh Miller đã kết hôn."
+        },
+        {
+          "japanese": "わたしは 東京に 住んで います。",
+          "vietnamese": "Tôi đang sống ở Tokyo."
+        },
+        {
+          "japanese": "わたしは IMCに 勤めて います。",
+          "vietnamese": "Tôi đang làm cho công ty IMC."
+        }
+      ]
+    },
+    {
+      "grammarId": 1504,
+      "lessonId": 15,
+      "title": "知って います / 知りません",
+      "structure": "知って います / 知りません",
+      "explanation": "知っています = biết (rồi). Phủ định: 知りません (chưa biết), không dùng 知っていません.",
+      "examples": [
+        {
+          "japanese": "ミラーさんの 電話番号を 知って いますか。",
+          "vietnamese": "Bạn có biết số điện thoại anh Miller không?"
+        },
+        {
+          "japanese": "いいえ、知りません。",
+          "vietnamese": "Không, tôi không biết."
+        }
+      ]
+    }
+  ],
+  "kanji": [
+    {
+      "kanjiId": 1501,
+      "lessonId": 15,
+      "character": "答",
+      "onyomi": "トウ",
+      "kunyomi": "こた.える",
+      "meaning": "Trả lời",
+      "strokeCount": 12
+    },
+    {
+      "kanjiId": 1502,
+      "lessonId": 15,
+      "character": "問",
+      "onyomi": "モン",
+      "kunyomi": "と.う",
+      "meaning": "Hỏi",
+      "strokeCount": 11
+    },
+    {
+      "kanjiId": 1503,
+      "lessonId": 15,
+      "character": "道",
+      "onyomi": "ドウ",
+      "kunyomi": "みち",
+      "meaning": "Đường",
+      "strokeCount": 12
+    },
+    {
+      "kanjiId": 1504,
+      "lessonId": 15,
+      "character": "図",
+      "onyomi": "ズ",
+      "kunyomi": "はか.る",
+      "meaning": "Hình, sơ đồ",
+      "strokeCount": 7
+    },
+    {
+      "kanjiId": 1505,
+      "lessonId": 15,
+      "character": "乗",
+      "onyomi": "ジョウ",
+      "kunyomi": "の.る",
+      "meaning": "Lên (xe)",
+      "strokeCount": 9
+    },
+    {
+      "kanjiId": 1506,
+      "lessonId": 15,
+      "character": "住",
+      "onyomi": "ジュウ",
+      "kunyomi": "す.む",
+      "meaning": "Sống, cư trú",
+      "strokeCount": 7
+    },
+    {
+      "kanjiId": 1507,
+      "lessonId": 15,
+      "character": "知",
+      "onyomi": "チ",
+      "kunyomi": "し.る",
+      "meaning": "Biết",
+      "strokeCount": 8
+    },
+    {
+      "kanjiId": 1508,
+      "lessonId": 15,
+      "character": "勤",
+      "onyomi": "キン",
+      "kunyomi": "つと.める",
+      "meaning": "Làm việc",
+      "strokeCount": 12
+    }
+  ]
+}

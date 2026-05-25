@@ -1,0 +1,423 @@
+{
+  "lesson": {
+    "id": 3,
+    "title": "ここは ～です",
+    "description": "Nơi chốn, đại từ chỉ địa điểm, hỏi vị trí, xuất xứ"
+  },
+  "vocabulary": [
+    {
+      "wordId": 301,
+      "lessonId": 3,
+      "kanji": "",
+      "furigana": "ここ",
+      "romaji": "koko",
+      "meaning": "Chỗ này",
+      "type": "pronoun"
+    },
+    {
+      "wordId": 302,
+      "lessonId": 3,
+      "kanji": "",
+      "furigana": "そこ",
+      "romaji": "soko",
+      "meaning": "Chỗ đó",
+      "type": "pronoun"
+    },
+    {
+      "wordId": 303,
+      "lessonId": 3,
+      "kanji": "",
+      "furigana": "あそこ",
+      "romaji": "asoko",
+      "meaning": "Chỗ kia",
+      "type": "pronoun"
+    },
+    {
+      "wordId": 304,
+      "lessonId": 3,
+      "kanji": "",
+      "furigana": "どこ",
+      "romaji": "doko",
+      "meaning": "Ở đâu",
+      "type": "pronoun"
+    },
+    {
+      "wordId": 305,
+      "lessonId": 3,
+      "kanji": "",
+      "furigana": "こちら",
+      "romaji": "kochira",
+      "meaning": "Hướng/phía này (lịch sự)",
+      "type": "pronoun"
+    },
+    {
+      "wordId": 306,
+      "lessonId": 3,
+      "kanji": "",
+      "furigana": "そちら",
+      "romaji": "sochira",
+      "meaning": "Phía đó",
+      "type": "pronoun"
+    },
+    {
+      "wordId": 307,
+      "lessonId": 3,
+      "kanji": "",
+      "furigana": "あちら",
+      "romaji": "achira",
+      "meaning": "Phía kia",
+      "type": "pronoun"
+    },
+    {
+      "wordId": 308,
+      "lessonId": 3,
+      "kanji": "",
+      "furigana": "どちら",
+      "romaji": "dochira",
+      "meaning": "Phía nào",
+      "type": "pronoun"
+    },
+    {
+      "wordId": 309,
+      "lessonId": 3,
+      "kanji": "教室",
+      "furigana": "きょうしつ",
+      "romaji": "kyoushitsu",
+      "meaning": "Phòng học",
+      "type": "noun"
+    },
+    {
+      "wordId": 310,
+      "lessonId": 3,
+      "kanji": "食堂",
+      "furigana": "しょくどう",
+      "romaji": "shokudou",
+      "meaning": "Nhà ăn",
+      "type": "noun"
+    },
+    {
+      "wordId": 311,
+      "lessonId": 3,
+      "kanji": "事務所",
+      "furigana": "じむしょ",
+      "romaji": "jimusho",
+      "meaning": "Văn phòng",
+      "type": "noun"
+    },
+    {
+      "wordId": 312,
+      "lessonId": 3,
+      "kanji": "会議室",
+      "furigana": "かいぎしつ",
+      "romaji": "kaigishitsu",
+      "meaning": "Phòng họp",
+      "type": "noun"
+    },
+    {
+      "wordId": 313,
+      "lessonId": 3,
+      "kanji": "受付",
+      "furigana": "うけつけ",
+      "romaji": "uketsuke",
+      "meaning": "Quầy tiếp tân",
+      "type": "noun"
+    },
+    {
+      "wordId": 314,
+      "lessonId": 3,
+      "kanji": "ロビー",
+      "furigana": "ロビー",
+      "romaji": "robii",
+      "meaning": "Sảnh",
+      "type": "noun"
+    },
+    {
+      "wordId": 315,
+      "lessonId": 3,
+      "kanji": "部屋",
+      "furigana": "へや",
+      "romaji": "heya",
+      "meaning": "Phòng",
+      "type": "noun"
+    },
+    {
+      "wordId": 316,
+      "lessonId": 3,
+      "kanji": "",
+      "furigana": "お手洗い",
+      "romaji": "otearai",
+      "meaning": "Nhà vệ sinh",
+      "type": "noun"
+    },
+    {
+      "wordId": 317,
+      "lessonId": 3,
+      "kanji": "",
+      "furigana": "トイレ",
+      "romaji": "toire",
+      "meaning": "Toilet",
+      "type": "noun"
+    },
+    {
+      "wordId": 318,
+      "lessonId": 3,
+      "kanji": "階段",
+      "furigana": "かいだん",
+      "romaji": "kaidan",
+      "meaning": "Cầu thang",
+      "type": "noun"
+    },
+    {
+      "wordId": 319,
+      "lessonId": 3,
+      "kanji": "",
+      "furigana": "エレベーター",
+      "romaji": "erebeetaa",
+      "meaning": "Thang máy",
+      "type": "noun"
+    },
+    {
+      "wordId": 320,
+      "lessonId": 3,
+      "kanji": "",
+      "furigana": "エスカレーター",
+      "romaji": "esukareetaa",
+      "meaning": "Thang cuốn",
+      "type": "noun"
+    },
+    {
+      "wordId": 321,
+      "lessonId": 3,
+      "kanji": "",
+      "furigana": "売り場",
+      "romaji": "uriba",
+      "meaning": "Quầy bán hàng",
+      "type": "noun"
+    },
+    {
+      "wordId": 322,
+      "lessonId": 3,
+      "kanji": "国",
+      "furigana": "くに",
+      "romaji": "kuni",
+      "meaning": "Đất nước",
+      "type": "noun"
+    },
+    {
+      "wordId": 323,
+      "lessonId": 3,
+      "kanji": "",
+      "furigana": "デパート",
+      "romaji": "depaato",
+      "meaning": "Bách hoá",
+      "type": "noun"
+    },
+    {
+      "wordId": 324,
+      "lessonId": 3,
+      "kanji": "",
+      "furigana": "スーパー",
+      "romaji": "suupaa",
+      "meaning": "Siêu thị",
+      "type": "noun"
+    },
+    {
+      "wordId": 325,
+      "lessonId": 3,
+      "kanji": "靴",
+      "furigana": "くつ",
+      "romaji": "kutsu",
+      "meaning": "Giày",
+      "type": "noun"
+    },
+    {
+      "wordId": 326,
+      "lessonId": 3,
+      "kanji": "ネクタイ",
+      "furigana": "ネクタイ",
+      "romaji": "nekutai",
+      "meaning": "Cà vạt",
+      "type": "noun"
+    },
+    {
+      "wordId": 327,
+      "lessonId": 3,
+      "kanji": "",
+      "furigana": "ワイン",
+      "romaji": "wain",
+      "meaning": "Rượu vang",
+      "type": "noun"
+    },
+    {
+      "wordId": 328,
+      "lessonId": 3,
+      "kanji": "",
+      "furigana": "たばこ",
+      "romaji": "tabako",
+      "meaning": "Thuốc lá",
+      "type": "noun"
+    },
+    {
+      "wordId": 329,
+      "lessonId": 3,
+      "kanji": "",
+      "furigana": "いくら",
+      "romaji": "ikura",
+      "meaning": "Bao nhiêu (giá)",
+      "type": "pronoun"
+    },
+    {
+      "wordId": 330,
+      "lessonId": 3,
+      "kanji": "円",
+      "furigana": "えん",
+      "romaji": "en",
+      "meaning": "Yên (đơn vị tiền)",
+      "type": "noun"
+    }
+  ],
+  "grammar": [
+    {
+      "grammarId": 301,
+      "lessonId": 3,
+      "title": "ここ / そこ / あそこ は N です",
+      "structure": "ここ / そこ / あそこ は N です",
+      "explanation": "Dùng để giới thiệu địa điểm. ここ: chỗ người nói. そこ: chỗ người nghe. あそこ: chỗ xa cả hai.",
+      "examples": [
+        {
+          "japanese": "ここは 教室です。",
+          "vietnamese": "Đây là phòng học."
+        },
+        {
+          "japanese": "あそこは 食堂です。",
+          "vietnamese": "Đằng kia là nhà ăn."
+        }
+      ]
+    },
+    {
+      "grammarId": 302,
+      "lessonId": 3,
+      "title": "N は どこ ですか",
+      "structure": "N は どこ ですか",
+      "explanation": "Hỏi vị trí của N. Trả lời bằng ここ/そこ/あそこ hoặc tên địa điểm.",
+      "examples": [
+        {
+          "japanese": "お手洗いは どこですか。",
+          "vietnamese": "Nhà vệ sinh ở đâu?"
+        },
+        {
+          "japanese": "エレベーターは あそこです。",
+          "vietnamese": "Thang máy ở đằng kia."
+        }
+      ]
+    },
+    {
+      "grammarId": 303,
+      "lessonId": 3,
+      "title": "N は ～階 です",
+      "structure": "N は ～かい/がい です",
+      "explanation": "Nói tầng. 1階 = いっかい, 2階 = にかい, 3階 = さんがい, 4階 = よんかい. なんがい hoặc なんかい = mấy tầng.",
+      "examples": [
+        {
+          "japanese": "食堂は 2階です。",
+          "vietnamese": "Nhà ăn ở tầng 2."
+        },
+        {
+          "japanese": "会議室は 何階ですか。",
+          "vietnamese": "Phòng họp ở tầng mấy?"
+        }
+      ]
+    },
+    {
+      "grammarId": 304,
+      "lessonId": 3,
+      "title": "N1 は N2(国/会社/学校) の N3 です",
+      "structure": "N1 は N2 の N3 です",
+      "explanation": "Diễn tả xuất xứ, nơi sản xuất. の dùng để gắn nguồn gốc hoặc nơi chốn vào danh từ.",
+      "examples": [
+        {
+          "japanese": "これは 日本の 時計です。",
+          "vietnamese": "Đây là đồng hồ Nhật Bản."
+        },
+        {
+          "japanese": "これは どこの コンピューターですか。",
+          "vietnamese": "Đây là máy tính của hãng nào / nước nào?"
+        }
+      ]
+    }
+  ],
+  "kanji": [
+    {
+      "kanjiId": 301,
+      "lessonId": 3,
+      "character": "国",
+      "onyomi": "コク",
+      "kunyomi": "くに",
+      "meaning": "Quốc gia",
+      "strokeCount": 8
+    },
+    {
+      "kanjiId": 302,
+      "lessonId": 3,
+      "character": "食",
+      "onyomi": "ショク",
+      "kunyomi": "た.べる",
+      "meaning": "Ăn",
+      "strokeCount": 9
+    },
+    {
+      "kanjiId": 303,
+      "lessonId": 3,
+      "character": "室",
+      "onyomi": "シツ",
+      "kunyomi": "むろ",
+      "meaning": "Phòng",
+      "strokeCount": 9
+    },
+    {
+      "kanjiId": 304,
+      "lessonId": 3,
+      "character": "階",
+      "onyomi": "カイ",
+      "kunyomi": "きざはし",
+      "meaning": "Tầng",
+      "strokeCount": 12
+    },
+    {
+      "kanjiId": 305,
+      "lessonId": 3,
+      "character": "部",
+      "onyomi": "ブ",
+      "kunyomi": "へ",
+      "meaning": "Bộ phận, phòng",
+      "strokeCount": 11
+    },
+    {
+      "kanjiId": 306,
+      "lessonId": 3,
+      "character": "屋",
+      "onyomi": "オク",
+      "kunyomi": "や",
+      "meaning": "Tiệm, nhà",
+      "strokeCount": 9
+    },
+    {
+      "kanjiId": 307,
+      "lessonId": 3,
+      "character": "事",
+      "onyomi": "ジ",
+      "kunyomi": "こと",
+      "meaning": "Sự việc",
+      "strokeCount": 8
+    },
+    {
+      "kanjiId": 308,
+      "lessonId": 3,
+      "character": "務",
+      "onyomi": "ム",
+      "kunyomi": "つと.める",
+      "meaning": "Sự vụ, công vụ",
+      "strokeCount": 11
+    }
+  ]
+}

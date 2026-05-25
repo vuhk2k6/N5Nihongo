@@ -1,0 +1,423 @@
+{
+  "lesson": {
+    "id": 6,
+    "title": "N を V ます",
+    "description": "Trợ từ を, hoạt động hàng ngày, lời mời"
+  },
+  "vocabulary": [
+    {
+      "wordId": 601,
+      "lessonId": 6,
+      "kanji": "食べます",
+      "furigana": "たべます",
+      "romaji": "tabemasu",
+      "meaning": "Ăn",
+      "type": "verb"
+    },
+    {
+      "wordId": 602,
+      "lessonId": 6,
+      "kanji": "飲みます",
+      "furigana": "のみます",
+      "romaji": "nomimasu",
+      "meaning": "Uống",
+      "type": "verb"
+    },
+    {
+      "wordId": 603,
+      "lessonId": 6,
+      "kanji": "吸います",
+      "furigana": "すいます",
+      "romaji": "suimasu",
+      "meaning": "Hút (thuốc)",
+      "type": "verb"
+    },
+    {
+      "wordId": 604,
+      "lessonId": 6,
+      "kanji": "見ます",
+      "furigana": "みます",
+      "romaji": "mimasu",
+      "meaning": "Xem, nhìn",
+      "type": "verb"
+    },
+    {
+      "wordId": 605,
+      "lessonId": 6,
+      "kanji": "聞きます",
+      "furigana": "ききます",
+      "romaji": "kikimasu",
+      "meaning": "Nghe",
+      "type": "verb"
+    },
+    {
+      "wordId": 606,
+      "lessonId": 6,
+      "kanji": "読みます",
+      "furigana": "よみます",
+      "romaji": "yomimasu",
+      "meaning": "Đọc",
+      "type": "verb"
+    },
+    {
+      "wordId": 607,
+      "lessonId": 6,
+      "kanji": "書きます",
+      "furigana": "かきます",
+      "romaji": "kakimasu",
+      "meaning": "Viết",
+      "type": "verb"
+    },
+    {
+      "wordId": 608,
+      "lessonId": 6,
+      "kanji": "買います",
+      "furigana": "かいます",
+      "romaji": "kaimasu",
+      "meaning": "Mua",
+      "type": "verb"
+    },
+    {
+      "wordId": 609,
+      "lessonId": 6,
+      "kanji": "撮ります",
+      "furigana": "とります",
+      "romaji": "torimasu",
+      "meaning": "Chụp (ảnh)",
+      "type": "verb"
+    },
+    {
+      "wordId": 610,
+      "lessonId": 6,
+      "kanji": "します",
+      "furigana": "します",
+      "romaji": "shimasu",
+      "meaning": "Làm",
+      "type": "verb"
+    },
+    {
+      "wordId": 611,
+      "lessonId": 6,
+      "kanji": "会います",
+      "furigana": "あいます",
+      "romaji": "aimasu",
+      "meaning": "Gặp",
+      "type": "verb"
+    },
+    {
+      "wordId": 612,
+      "lessonId": 6,
+      "kanji": "",
+      "furigana": "ご飯",
+      "romaji": "gohan",
+      "meaning": "Cơm, bữa ăn",
+      "type": "noun"
+    },
+    {
+      "wordId": 613,
+      "lessonId": 6,
+      "kanji": "",
+      "furigana": "パン",
+      "romaji": "pan",
+      "meaning": "Bánh mì",
+      "type": "noun"
+    },
+    {
+      "wordId": 614,
+      "lessonId": 6,
+      "kanji": "卵",
+      "furigana": "たまご",
+      "romaji": "tamago",
+      "meaning": "Trứng",
+      "type": "noun"
+    },
+    {
+      "wordId": 615,
+      "lessonId": 6,
+      "kanji": "肉",
+      "furigana": "にく",
+      "romaji": "niku",
+      "meaning": "Thịt",
+      "type": "noun"
+    },
+    {
+      "wordId": 616,
+      "lessonId": 6,
+      "kanji": "魚",
+      "furigana": "さかな",
+      "romaji": "sakana",
+      "meaning": "Cá",
+      "type": "noun"
+    },
+    {
+      "wordId": 617,
+      "lessonId": 6,
+      "kanji": "野菜",
+      "furigana": "やさい",
+      "romaji": "yasai",
+      "meaning": "Rau",
+      "type": "noun"
+    },
+    {
+      "wordId": 618,
+      "lessonId": 6,
+      "kanji": "果物",
+      "furigana": "くだもの",
+      "romaji": "kudamono",
+      "meaning": "Hoa quả",
+      "type": "noun"
+    },
+    {
+      "wordId": 619,
+      "lessonId": 6,
+      "kanji": "水",
+      "furigana": "みず",
+      "romaji": "mizu",
+      "meaning": "Nước",
+      "type": "noun"
+    },
+    {
+      "wordId": 620,
+      "lessonId": 6,
+      "kanji": "お茶",
+      "furigana": "おちゃ",
+      "romaji": "ocha",
+      "meaning": "Trà",
+      "type": "noun"
+    },
+    {
+      "wordId": 621,
+      "lessonId": 6,
+      "kanji": "",
+      "furigana": "コーヒー",
+      "romaji": "koohii",
+      "meaning": "Cà phê",
+      "type": "noun"
+    },
+    {
+      "wordId": 622,
+      "lessonId": 6,
+      "kanji": "",
+      "furigana": "ジュース",
+      "romaji": "juusu",
+      "meaning": "Nước ép",
+      "type": "noun"
+    },
+    {
+      "wordId": 623,
+      "lessonId": 6,
+      "kanji": "",
+      "furigana": "牛乳",
+      "romaji": "gyuunyuu",
+      "meaning": "Sữa",
+      "type": "noun"
+    },
+    {
+      "wordId": 624,
+      "lessonId": 6,
+      "kanji": "",
+      "furigana": "ビール",
+      "romaji": "biiru",
+      "meaning": "Bia",
+      "type": "noun"
+    },
+    {
+      "wordId": 625,
+      "lessonId": 6,
+      "kanji": "写真",
+      "furigana": "しゃしん",
+      "romaji": "shashin",
+      "meaning": "Ảnh",
+      "type": "noun"
+    },
+    {
+      "wordId": 626,
+      "lessonId": 6,
+      "kanji": "手紙",
+      "furigana": "てがみ",
+      "romaji": "tegami",
+      "meaning": "Thư",
+      "type": "noun"
+    },
+    {
+      "wordId": 627,
+      "lessonId": 6,
+      "kanji": "音楽",
+      "furigana": "おんがく",
+      "romaji": "ongaku",
+      "meaning": "Âm nhạc",
+      "type": "noun"
+    },
+    {
+      "wordId": 628,
+      "lessonId": 6,
+      "kanji": "映画",
+      "furigana": "えいが",
+      "romaji": "eiga",
+      "meaning": "Phim",
+      "type": "noun"
+    },
+    {
+      "wordId": 629,
+      "lessonId": 6,
+      "kanji": "図書館",
+      "furigana": "としょかん",
+      "romaji": "toshokan",
+      "meaning": "Thư viện",
+      "type": "noun"
+    },
+    {
+      "wordId": 630,
+      "lessonId": 6,
+      "kanji": "",
+      "furigana": "一緒に",
+      "romaji": "isshoni",
+      "meaning": "Cùng nhau",
+      "type": "adverb"
+    }
+  ],
+  "grammar": [
+    {
+      "grammarId": 601,
+      "lessonId": 6,
+      "title": "N を V ます",
+      "structure": "N を V ます",
+      "explanation": "Trợ từ を (đọc o) đánh dấu tân ngữ trực tiếp của động từ tha động.",
+      "examples": [
+        {
+          "japanese": "パンを 食べます。",
+          "vietnamese": "Tôi ăn bánh mì."
+        },
+        {
+          "japanese": "コーヒーを 飲みます。",
+          "vietnamese": "Tôi uống cà phê."
+        }
+      ]
+    },
+    {
+      "grammarId": 602,
+      "lessonId": 6,
+      "title": "N(場所) で V ます",
+      "structure": "N(場所) で V ます",
+      "explanation": "Trợ từ で chỉ nơi diễn ra hành động.",
+      "examples": [
+        {
+          "japanese": "食堂で ご飯を 食べます。",
+          "vietnamese": "Tôi ăn cơm ở nhà ăn."
+        },
+        {
+          "japanese": "図書館で 本を 読みます。",
+          "vietnamese": "Tôi đọc sách ở thư viện."
+        }
+      ]
+    },
+    {
+      "grammarId": 603,
+      "lessonId": 6,
+      "title": "V ませんか / V ましょう",
+      "structure": "V ませんか / V ましょう",
+      "explanation": "V ませんか = lời rủ nhẹ nhàng (Cùng làm ~ nhé?). V ましょう = đề nghị (Cùng làm ~ thôi).",
+      "examples": [
+        {
+          "japanese": "いっしょに 昼ご飯を 食べませんか。",
+          "vietnamese": "Cùng ăn trưa nhé?"
+        },
+        {
+          "japanese": "ええ、食べましょう。",
+          "vietnamese": "Vâng, cùng ăn nào."
+        }
+      ]
+    },
+    {
+      "grammarId": 604,
+      "lessonId": 6,
+      "title": "なに / なん を V ますか",
+      "structure": "何 を V ますか",
+      "explanation": "何 (なに/なん) dùng để hỏi tân ngữ. Trước た, だ, な → なん. Trước các âm khác → なに.",
+      "examples": [
+        {
+          "japanese": "週末 何を しますか。",
+          "vietnamese": "Cuối tuần bạn làm gì?"
+        },
+        {
+          "japanese": "テニスを します。",
+          "vietnamese": "Tôi chơi tennis."
+        }
+      ]
+    }
+  ],
+  "kanji": [
+    {
+      "kanjiId": 601,
+      "lessonId": 6,
+      "character": "食",
+      "onyomi": "ショク",
+      "kunyomi": "た.べる",
+      "meaning": "Ăn",
+      "strokeCount": 9
+    },
+    {
+      "kanjiId": 602,
+      "lessonId": 6,
+      "character": "飲",
+      "onyomi": "イン",
+      "kunyomi": "の.む",
+      "meaning": "Uống",
+      "strokeCount": 12
+    },
+    {
+      "kanjiId": 603,
+      "lessonId": 6,
+      "character": "見",
+      "onyomi": "ケン",
+      "kunyomi": "み.る",
+      "meaning": "Nhìn, xem",
+      "strokeCount": 7
+    },
+    {
+      "kanjiId": 604,
+      "lessonId": 6,
+      "character": "読",
+      "onyomi": "ドク",
+      "kunyomi": "よ.む",
+      "meaning": "Đọc",
+      "strokeCount": 14
+    },
+    {
+      "kanjiId": 605,
+      "lessonId": 6,
+      "character": "買",
+      "onyomi": "バイ",
+      "kunyomi": "か.う",
+      "meaning": "Mua",
+      "strokeCount": 12
+    },
+    {
+      "kanjiId": 606,
+      "lessonId": 6,
+      "character": "魚",
+      "onyomi": "ギョ",
+      "kunyomi": "さかな",
+      "meaning": "Cá",
+      "strokeCount": 11
+    },
+    {
+      "kanjiId": 607,
+      "lessonId": 6,
+      "character": "肉",
+      "onyomi": "ニク",
+      "kunyomi": "",
+      "meaning": "Thịt",
+      "strokeCount": 6
+    },
+    {
+      "kanjiId": 608,
+      "lessonId": 6,
+      "character": "茶",
+      "onyomi": "チャ",
+      "kunyomi": "",
+      "meaning": "Trà",
+      "strokeCount": 9
+    }
+  ]
+}

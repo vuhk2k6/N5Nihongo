@@ -1,0 +1,427 @@
+{
+  "lesson": {
+    "id": 17,
+    "title": "ない形",
+    "description": "Dạng phủ định ない, nghĩa vụ, không cần"
+  },
+  "vocabulary": [
+    {
+      "wordId": 1701,
+      "lessonId": 17,
+      "kanji": "覚えます",
+      "furigana": "おぼえます",
+      "romaji": "oboemasu",
+      "meaning": "Nhớ, học thuộc",
+      "type": "verb"
+    },
+    {
+      "wordId": 1702,
+      "lessonId": 17,
+      "kanji": "忘れます",
+      "furigana": "わすれます",
+      "romaji": "wasuremasu",
+      "meaning": "Quên",
+      "type": "verb"
+    },
+    {
+      "wordId": 1703,
+      "lessonId": 17,
+      "kanji": "無くします",
+      "furigana": "なくします",
+      "romaji": "nakushimasu",
+      "meaning": "Làm mất",
+      "type": "verb"
+    },
+    {
+      "wordId": 1704,
+      "lessonId": 17,
+      "kanji": "払います",
+      "furigana": "はらいます",
+      "romaji": "haraimasu",
+      "meaning": "Trả tiền",
+      "type": "verb"
+    },
+    {
+      "wordId": 1705,
+      "lessonId": 17,
+      "kanji": "返します",
+      "furigana": "かえします",
+      "romaji": "kaeshimasu",
+      "meaning": "Trả lại",
+      "type": "verb"
+    },
+    {
+      "wordId": 1706,
+      "lessonId": 17,
+      "kanji": "出かけます",
+      "furigana": "でかけます",
+      "romaji": "dekakemasu",
+      "meaning": "Ra ngoài",
+      "type": "verb"
+    },
+    {
+      "wordId": 1707,
+      "lessonId": 17,
+      "kanji": "脱ぎます",
+      "furigana": "ぬぎます",
+      "romaji": "nugimasu",
+      "meaning": "Cởi (quần áo)",
+      "type": "verb"
+    },
+    {
+      "wordId": 1708,
+      "lessonId": 17,
+      "kanji": "着ます",
+      "furigana": "きます",
+      "romaji": "kimasu",
+      "meaning": "Mặc (áo trên)",
+      "type": "verb"
+    },
+    {
+      "wordId": 1709,
+      "lessonId": 17,
+      "kanji": "履きます",
+      "furigana": "はきます",
+      "romaji": "hakimasu",
+      "meaning": "Đi, mặc (giày, quần)",
+      "type": "verb"
+    },
+    {
+      "wordId": 1710,
+      "lessonId": 17,
+      "kanji": "心配します",
+      "furigana": "しんぱいします",
+      "romaji": "shinpai shimasu",
+      "meaning": "Lo lắng",
+      "type": "verb"
+    },
+    {
+      "wordId": 1711,
+      "lessonId": 17,
+      "kanji": "残業します",
+      "furigana": "ざんぎょうします",
+      "romaji": "zangyou shimasu",
+      "meaning": "Tăng ca",
+      "type": "verb"
+    },
+    {
+      "wordId": 1712,
+      "lessonId": 17,
+      "kanji": "出張します",
+      "furigana": "しゅっちょうします",
+      "romaji": "shutchou shimasu",
+      "meaning": "Đi công tác",
+      "type": "verb"
+    },
+    {
+      "wordId": 1713,
+      "lessonId": 17,
+      "kanji": "薬",
+      "furigana": "くすり",
+      "romaji": "kusuri",
+      "meaning": "Thuốc",
+      "type": "noun"
+    },
+    {
+      "wordId": 1714,
+      "lessonId": 17,
+      "kanji": "薬を飲みます",
+      "furigana": "くすりをのみます",
+      "romaji": "kusuri o nomimasu",
+      "meaning": "Uống thuốc",
+      "type": "verb-phrase"
+    },
+    {
+      "wordId": 1715,
+      "lessonId": 17,
+      "kanji": "お風呂",
+      "furigana": "おふろ",
+      "romaji": "ofuro",
+      "meaning": "Bồn tắm",
+      "type": "noun"
+    },
+    {
+      "wordId": 1716,
+      "lessonId": 17,
+      "kanji": "お風呂に入ります",
+      "furigana": "おふろにはいります",
+      "romaji": "ofuro ni hairimasu",
+      "meaning": "Tắm bồn",
+      "type": "verb-phrase"
+    },
+    {
+      "wordId": 1717,
+      "lessonId": 17,
+      "kanji": "約束",
+      "furigana": "やくそく",
+      "romaji": "yakusoku",
+      "meaning": "Lời hứa, hẹn",
+      "type": "noun"
+    },
+    {
+      "wordId": 1718,
+      "lessonId": 17,
+      "kanji": "ご主人",
+      "furigana": "ごしゅじん",
+      "romaji": "go-shujin",
+      "meaning": "Chồng (người khác)",
+      "type": "noun"
+    },
+    {
+      "wordId": 1719,
+      "lessonId": 17,
+      "kanji": "主人",
+      "furigana": "しゅじん",
+      "romaji": "shujin",
+      "meaning": "Chồng (mình)",
+      "type": "noun"
+    },
+    {
+      "wordId": 1720,
+      "lessonId": 17,
+      "kanji": "奥さん",
+      "furigana": "おくさん",
+      "romaji": "okusan",
+      "meaning": "Vợ (người khác)",
+      "type": "noun"
+    },
+    {
+      "wordId": 1721,
+      "lessonId": 17,
+      "kanji": "妻",
+      "furigana": "つま",
+      "romaji": "tsuma",
+      "meaning": "Vợ (mình)",
+      "type": "noun"
+    },
+    {
+      "wordId": 1722,
+      "lessonId": 17,
+      "kanji": "二",
+      "furigana": "ふつかかん",
+      "romaji": "futsukakan",
+      "meaning": "2 ngày",
+      "type": "noun"
+    },
+    {
+      "wordId": 1723,
+      "lessonId": 17,
+      "kanji": "財布",
+      "furigana": "さいふ",
+      "romaji": "saifu",
+      "meaning": "Ví tiền",
+      "type": "noun"
+    },
+    {
+      "wordId": 1724,
+      "lessonId": 17,
+      "kanji": "",
+      "furigana": "パスポート",
+      "romaji": "pasupooto",
+      "meaning": "Hộ chiếu",
+      "type": "noun"
+    },
+    {
+      "wordId": 1725,
+      "lessonId": 17,
+      "kanji": "保険証",
+      "furigana": "ほけんしょう",
+      "romaji": "hokenshou",
+      "meaning": "Thẻ bảo hiểm",
+      "type": "noun"
+    },
+    {
+      "wordId": 1726,
+      "lessonId": 17,
+      "kanji": "大切",
+      "furigana": "たいせつ（な）",
+      "romaji": "taisetsu (na)",
+      "meaning": "Quan trọng",
+      "type": "na-adj"
+    },
+    {
+      "wordId": 1727,
+      "lessonId": 17,
+      "kanji": "危ない",
+      "furigana": "あぶない",
+      "romaji": "abunai",
+      "meaning": "Nguy hiểm",
+      "type": "i-adj"
+    },
+    {
+      "wordId": 1728,
+      "lessonId": 17,
+      "kanji": "熱",
+      "furigana": "ねつ",
+      "romaji": "netsu",
+      "meaning": "Sốt",
+      "type": "noun"
+    },
+    {
+      "wordId": 1729,
+      "lessonId": 17,
+      "kanji": "病気",
+      "furigana": "びょうき",
+      "romaji": "byouki",
+      "meaning": "Bệnh",
+      "type": "noun"
+    },
+    {
+      "wordId": 1730,
+      "lessonId": 17,
+      "kanji": "",
+      "furigana": "ゆっくり",
+      "romaji": "yukkuri",
+      "meaning": "Thư thả, từ từ",
+      "type": "adverb"
+    }
+  ],
+  "grammar": [
+    {
+      "grammarId": 1701,
+      "lessonId": 17,
+      "title": "Cách chia ない形",
+      "structure": "Nhóm I / II / III",
+      "explanation": "Nhóm I: ます → cột あ + ない (買います→買わない). Nhóm II: ます → ない (食べない). Nhóm III: します→しない, きます→こない.",
+      "examples": [
+        {
+          "japanese": "買います → 買わない",
+          "vietnamese": "kaimasu → kawanai"
+        },
+        {
+          "japanese": "食べます → 食べない",
+          "vietnamese": "tabemasu → tabenai"
+        },
+        {
+          "japanese": "します → しない",
+          "vietnamese": "shimasu → shinai"
+        }
+      ]
+    },
+    {
+      "grammarId": 1702,
+      "lessonId": 17,
+      "title": "V ないで ください",
+      "structure": "V ない で ください",
+      "explanation": "Yêu cầu không làm gì. Xin đừng ~.",
+      "examples": [
+        {
+          "japanese": "ここで 写真を 撮らないで ください。",
+          "vietnamese": "Xin đừng chụp ảnh ở đây."
+        },
+        {
+          "japanese": "忘れないで ください。",
+          "vietnamese": "Xin đừng quên."
+        }
+      ]
+    },
+    {
+      "grammarId": 1703,
+      "lessonId": 17,
+      "title": "V なければ なりません",
+      "structure": "V なければ なりません",
+      "explanation": "Phải làm ~. Nghĩa vụ, bắt buộc. (Bỏ い của ない rồi thêm ければ なりません).",
+      "examples": [
+        {
+          "japanese": "薬を 飲まなければ なりません。",
+          "vietnamese": "Phải uống thuốc."
+        },
+        {
+          "japanese": "毎日 日本語を 勉強しなければ なりません。",
+          "vietnamese": "Phải học tiếng Nhật mỗi ngày."
+        }
+      ]
+    },
+    {
+      "grammarId": 1704,
+      "lessonId": 17,
+      "title": "V なくても いいです",
+      "structure": "V なくても いいです",
+      "explanation": "Không cần phải làm ~. (Bỏ い của ない thêm くても いいです).",
+      "examples": [
+        {
+          "japanese": "明日 来なくても いいです。",
+          "vietnamese": "Ngày mai không cần đến cũng được."
+        },
+        {
+          "japanese": "靴を 脱がなくても いいです。",
+          "vietnamese": "Không cần cởi giày cũng được."
+        }
+      ]
+    }
+  ],
+  "kanji": [
+    {
+      "kanjiId": 1701,
+      "lessonId": 17,
+      "character": "忘",
+      "onyomi": "ボウ",
+      "kunyomi": "わす.れる",
+      "meaning": "Quên",
+      "strokeCount": 7
+    },
+    {
+      "kanjiId": 1702,
+      "lessonId": 17,
+      "character": "着",
+      "onyomi": "チャク",
+      "kunyomi": "き.る",
+      "meaning": "Mặc, đến",
+      "strokeCount": 12
+    },
+    {
+      "kanjiId": 1703,
+      "lessonId": 17,
+      "character": "薬",
+      "onyomi": "ヤク",
+      "kunyomi": "くすり",
+      "meaning": "Thuốc",
+      "strokeCount": 16
+    },
+    {
+      "kanjiId": 1704,
+      "lessonId": 17,
+      "character": "払",
+      "onyomi": "フツ",
+      "kunyomi": "はら.う",
+      "meaning": "Trả tiền",
+      "strokeCount": 5
+    },
+    {
+      "kanjiId": 1705,
+      "lessonId": 17,
+      "character": "返",
+      "onyomi": "ヘン",
+      "kunyomi": "かえ.す",
+      "meaning": "Trả lại",
+      "strokeCount": 7
+    },
+    {
+      "kanjiId": 1706,
+      "lessonId": 17,
+      "character": "出",
+      "onyomi": "シュツ",
+      "kunyomi": "で.る",
+      "meaning": "Ra",
+      "strokeCount": 5
+    },
+    {
+      "kanjiId": 1707,
+      "lessonId": 17,
+      "character": "約",
+      "onyomi": "ヤク",
+      "kunyomi": "",
+      "meaning": "Hẹn, ước",
+      "strokeCount": 9
+    },
+    {
+      "kanjiId": 1708,
+      "lessonId": 17,
+      "character": "束",
+      "onyomi": "ソク",
+      "kunyomi": "たば",
+      "meaning": "Bó, chùm",
+      "strokeCount": 7
+    }
+  ]
+}

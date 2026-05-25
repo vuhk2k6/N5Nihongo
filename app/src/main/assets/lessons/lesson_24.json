@@ -1,0 +1,423 @@
+{
+  "lesson": {
+    "id": 24,
+    "title": "くれます・て あげます／もらいます／くれます",
+    "description": "Cho – nhận hành động giúp đỡ, ơn nghĩa"
+  },
+  "vocabulary": [
+    {
+      "wordId": 2401,
+      "lessonId": 24,
+      "kanji": "くれます",
+      "furigana": "くれます",
+      "romaji": "kuremasu",
+      "meaning": "Cho tôi",
+      "type": "verb"
+    },
+    {
+      "wordId": 2402,
+      "lessonId": 24,
+      "kanji": "連れて 行きます",
+      "furigana": "つれていきます",
+      "romaji": "tsurete ikimasu",
+      "meaning": "Dẫn đi",
+      "type": "verb"
+    },
+    {
+      "wordId": 2403,
+      "lessonId": 24,
+      "kanji": "連れて 来ます",
+      "furigana": "つれてきます",
+      "romaji": "tsurete kimasu",
+      "meaning": "Dẫn đến",
+      "type": "verb"
+    },
+    {
+      "wordId": 2404,
+      "lessonId": 24,
+      "kanji": "送ります",
+      "furigana": "おくります",
+      "romaji": "okurimasu",
+      "meaning": "Tiễn, đưa",
+      "type": "verb"
+    },
+    {
+      "wordId": 2405,
+      "lessonId": 24,
+      "kanji": "紹介します",
+      "furigana": "しょうかいします",
+      "romaji": "shoukai shimasu",
+      "meaning": "Giới thiệu",
+      "type": "verb"
+    },
+    {
+      "wordId": 2406,
+      "lessonId": 24,
+      "kanji": "案内します",
+      "furigana": "あんないします",
+      "romaji": "annai shimasu",
+      "meaning": "Hướng dẫn",
+      "type": "verb"
+    },
+    {
+      "wordId": 2407,
+      "lessonId": 24,
+      "kanji": "説明します",
+      "furigana": "せつめいします",
+      "romaji": "setsumei shimasu",
+      "meaning": "Giải thích",
+      "type": "verb"
+    },
+    {
+      "wordId": 2408,
+      "lessonId": 24,
+      "kanji": "手伝います",
+      "furigana": "てつだいます",
+      "romaji": "tetsudaimasu",
+      "meaning": "Giúp đỡ",
+      "type": "verb"
+    },
+    {
+      "wordId": 2409,
+      "lessonId": 24,
+      "kanji": "翻訳します",
+      "furigana": "ほんやくします",
+      "romaji": "honyaku shimasu",
+      "meaning": "Dịch",
+      "type": "verb"
+    },
+    {
+      "wordId": 2410,
+      "lessonId": 24,
+      "kanji": "おじいさん",
+      "furigana": "おじいさん",
+      "romaji": "ojiisan",
+      "meaning": "Ông",
+      "type": "noun"
+    },
+    {
+      "wordId": 2411,
+      "lessonId": 24,
+      "kanji": "おばあさん",
+      "furigana": "おばあさん",
+      "romaji": "obaasan",
+      "meaning": "Bà",
+      "type": "noun"
+    },
+    {
+      "wordId": 2412,
+      "lessonId": 24,
+      "kanji": "祖父",
+      "furigana": "そふ",
+      "romaji": "sofu",
+      "meaning": "Ông (mình)",
+      "type": "noun"
+    },
+    {
+      "wordId": 2413,
+      "lessonId": 24,
+      "kanji": "祖母",
+      "furigana": "そぼ",
+      "romaji": "sobo",
+      "meaning": "Bà (mình)",
+      "type": "noun"
+    },
+    {
+      "wordId": 2414,
+      "lessonId": 24,
+      "kanji": "孫",
+      "furigana": "まご",
+      "romaji": "mago",
+      "meaning": "Cháu",
+      "type": "noun"
+    },
+    {
+      "wordId": 2415,
+      "lessonId": 24,
+      "kanji": "息子",
+      "furigana": "むすこ",
+      "romaji": "musuko",
+      "meaning": "Con trai (mình)",
+      "type": "noun"
+    },
+    {
+      "wordId": 2416,
+      "lessonId": 24,
+      "kanji": "娘",
+      "furigana": "むすめ",
+      "romaji": "musume",
+      "meaning": "Con gái (mình)",
+      "type": "noun"
+    },
+    {
+      "wordId": 2417,
+      "lessonId": 24,
+      "kanji": "準備",
+      "furigana": "じゅんび",
+      "romaji": "junbi",
+      "meaning": "Sự chuẩn bị",
+      "type": "noun"
+    },
+    {
+      "wordId": 2418,
+      "lessonId": 24,
+      "kanji": "意味",
+      "furigana": "いみ",
+      "romaji": "imi",
+      "meaning": "Ý nghĩa",
+      "type": "noun"
+    },
+    {
+      "wordId": 2419,
+      "lessonId": 24,
+      "kanji": "お菓子",
+      "furigana": "おかし",
+      "romaji": "okashi",
+      "meaning": "Bánh kẹo",
+      "type": "noun"
+    },
+    {
+      "wordId": 2420,
+      "lessonId": 24,
+      "kanji": "全部",
+      "furigana": "ぜんぶ",
+      "romaji": "zenbu",
+      "meaning": "Tất cả",
+      "type": "noun"
+    },
+    {
+      "wordId": 2421,
+      "lessonId": 24,
+      "kanji": "自分で",
+      "furigana": "じぶんで",
+      "romaji": "jibun de",
+      "meaning": "Tự mình",
+      "type": "adverb"
+    },
+    {
+      "wordId": 2422,
+      "lessonId": 24,
+      "kanji": "ほかに",
+      "furigana": "ほかに",
+      "romaji": "hoka ni",
+      "meaning": "Ngoài ra",
+      "type": "adverb"
+    },
+    {
+      "wordId": 2423,
+      "lessonId": 24,
+      "kanji": "本棚",
+      "furigana": "ほんだな",
+      "romaji": "hondana",
+      "meaning": "Kệ sách",
+      "type": "noun"
+    },
+    {
+      "wordId": 2424,
+      "lessonId": 24,
+      "kanji": "庭",
+      "furigana": "にわ",
+      "romaji": "niwa",
+      "meaning": "Vườn",
+      "type": "noun"
+    },
+    {
+      "wordId": 2425,
+      "lessonId": 24,
+      "kanji": "地図",
+      "furigana": "ちず",
+      "romaji": "chizu",
+      "meaning": "Bản đồ",
+      "type": "noun"
+    },
+    {
+      "wordId": 2426,
+      "lessonId": 24,
+      "kanji": "お土産",
+      "furigana": "おみやげ",
+      "romaji": "omiyage",
+      "meaning": "Quà lưu niệm",
+      "type": "noun"
+    },
+    {
+      "wordId": 2427,
+      "lessonId": 24,
+      "kanji": "ハロウィン",
+      "furigana": "ハロウィン",
+      "romaji": "harowin",
+      "meaning": "Halloween",
+      "type": "noun"
+    },
+    {
+      "wordId": 2428,
+      "lessonId": 24,
+      "kanji": "見舞い",
+      "furigana": "みまい",
+      "romaji": "mimai",
+      "meaning": "Thăm hỏi (người ốm)",
+      "type": "noun"
+    },
+    {
+      "wordId": 2429,
+      "lessonId": 24,
+      "kanji": "若い 人",
+      "furigana": "わかいひと",
+      "romaji": "wakai hito",
+      "meaning": "Người trẻ",
+      "type": "noun"
+    },
+    {
+      "wordId": 2430,
+      "lessonId": 24,
+      "kanji": "夕飯",
+      "furigana": "ゆうはん",
+      "romaji": "yuuhan",
+      "meaning": "Bữa tối",
+      "type": "noun"
+    }
+  ],
+  "grammar": [
+    {
+      "grammarId": 2401,
+      "lessonId": 24,
+      "title": "N(người) は わたしに N を くれます",
+      "structure": "N が わたしに N を くれます",
+      "explanation": "Ai đó cho tôi cái gì. Chủ ngữ là người cho, mình là người nhận (thường lược bỏ わたしに).",
+      "examples": [
+        {
+          "japanese": "山田さんが わたしに 花を くれました。",
+          "vietnamese": "Anh Yamada đã cho tôi hoa."
+        },
+        {
+          "japanese": "母が セーターを くれました。",
+          "vietnamese": "Mẹ đã cho tôi áo len."
+        }
+      ]
+    },
+    {
+      "grammarId": 2402,
+      "lessonId": 24,
+      "title": "V て あげます",
+      "structure": "(私が) N(人) に V て あげます",
+      "explanation": "Tôi/ai đó làm gì cho người khác. Không nên dùng trực tiếp với cấp trên (vô ý áp đặt ơn).",
+      "examples": [
+        {
+          "japanese": "わたしは 木村さんに 本を 貸して あげました。",
+          "vietnamese": "Tôi đã cho chị Kimura mượn sách."
+        },
+        {
+          "japanese": "わたしは 友達を 駅まで 送って あげました。",
+          "vietnamese": "Tôi đã tiễn bạn đến nhà ga."
+        }
+      ]
+    },
+    {
+      "grammarId": 2403,
+      "lessonId": 24,
+      "title": "V て もらいます",
+      "structure": "(私が) N(人) に V て もらいます",
+      "explanation": "Được ai đó làm gì cho mình. Người làm dùng に hoặc から.",
+      "examples": [
+        {
+          "japanese": "わたしは 鈴木さんに 日本語を 教えて もらいました。",
+          "vietnamese": "Tôi đã được anh Suzuki dạy tiếng Nhật."
+        },
+        {
+          "japanese": "わたしは 友達に 写真を 撮って もらいました。",
+          "vietnamese": "Tôi được bạn chụp ảnh giúp."
+        }
+      ]
+    },
+    {
+      "grammarId": 2404,
+      "lessonId": 24,
+      "title": "V て くれます",
+      "structure": "N(人) が (わたしに) V て くれます",
+      "explanation": "Ai đó làm gì cho mình (mang ơn). Chủ ngữ là người làm.",
+      "examples": [
+        {
+          "japanese": "佐藤さんが 駅まで 送って くれました。",
+          "vietnamese": "Chị Sato đã tiễn tôi ra ga."
+        },
+        {
+          "japanese": "母が セーターを 送って くれました。",
+          "vietnamese": "Mẹ đã gửi áo len cho tôi."
+        }
+      ]
+    }
+  ],
+  "kanji": [
+    {
+      "kanjiId": 2401,
+      "lessonId": 24,
+      "character": "送",
+      "onyomi": "ソウ",
+      "kunyomi": "おく.る",
+      "meaning": "Gửi, tiễn",
+      "strokeCount": 9
+    },
+    {
+      "kanjiId": 2402,
+      "lessonId": 24,
+      "character": "説",
+      "onyomi": "セツ",
+      "kunyomi": "と.く",
+      "meaning": "Giải thích",
+      "strokeCount": 14
+    },
+    {
+      "kanjiId": 2403,
+      "lessonId": 24,
+      "character": "明",
+      "onyomi": "メイ",
+      "kunyomi": "あか.るい",
+      "meaning": "Sáng",
+      "strokeCount": 8
+    },
+    {
+      "kanjiId": 2404,
+      "lessonId": 24,
+      "character": "準",
+      "onyomi": "ジュン",
+      "kunyomi": "",
+      "meaning": "Chuẩn",
+      "strokeCount": 13
+    },
+    {
+      "kanjiId": 2405,
+      "lessonId": 24,
+      "character": "備",
+      "onyomi": "ビ",
+      "kunyomi": "そな.える",
+      "meaning": "Chuẩn bị",
+      "strokeCount": 12
+    },
+    {
+      "kanjiId": 2406,
+      "lessonId": 24,
+      "character": "案",
+      "onyomi": "アン",
+      "kunyomi": "",
+      "meaning": "Án, đề án",
+      "strokeCount": 10
+    },
+    {
+      "kanjiId": 2407,
+      "lessonId": 24,
+      "character": "内",
+      "onyomi": "ナイ",
+      "kunyomi": "うち",
+      "meaning": "Trong, nội",
+      "strokeCount": 4
+    },
+    {
+      "kanjiId": 2408,
+      "lessonId": 24,
+      "character": "紹",
+      "onyomi": "ショウ",
+      "kunyomi": "",
+      "meaning": "Giới thiệu",
+      "strokeCount": 11
+    }
+  ]
+}

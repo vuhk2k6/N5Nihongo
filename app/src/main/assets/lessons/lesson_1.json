@@ -1,0 +1,431 @@
+{
+  "lesson": {
+    "id": 1,
+    "title": "わたしは ～です",
+    "description": "Tự giới thiệu bản thân: tên, nghề nghiệp, quốc tịch"
+  },
+  "vocabulary": [
+    {
+      "wordId": 101,
+      "lessonId": 1,
+      "kanji": "私",
+      "furigana": "わたし",
+      "romaji": "watashi",
+      "meaning": "Tôi",
+      "type": "noun"
+    },
+    {
+      "wordId": 102,
+      "lessonId": 1,
+      "kanji": "あなた",
+      "furigana": "あなた",
+      "romaji": "anata",
+      "meaning": "Bạn",
+      "type": "noun"
+    },
+    {
+      "wordId": 103,
+      "lessonId": 1,
+      "kanji": "あの人",
+      "furigana": "あのひと",
+      "romaji": "ano hito",
+      "meaning": "Người kia",
+      "type": "noun"
+    },
+    {
+      "wordId": 104,
+      "lessonId": 1,
+      "kanji": "学生",
+      "furigana": "がくせい",
+      "romaji": "gakusei",
+      "meaning": "Học sinh, sinh viên",
+      "type": "noun"
+    },
+    {
+      "wordId": 105,
+      "lessonId": 1,
+      "kanji": "先生",
+      "furigana": "せんせい",
+      "romaji": "sensei",
+      "meaning": "Giáo viên",
+      "type": "noun"
+    },
+    {
+      "wordId": 106,
+      "lessonId": 1,
+      "kanji": "教師",
+      "furigana": "きょうし",
+      "romaji": "kyoushi",
+      "meaning": "Giáo viên (nghề)",
+      "type": "noun"
+    },
+    {
+      "wordId": 107,
+      "lessonId": 1,
+      "kanji": "会社員",
+      "furigana": "かいしゃいん",
+      "romaji": "kaishain",
+      "meaning": "Nhân viên công ty",
+      "type": "noun"
+    },
+    {
+      "wordId": 108,
+      "lessonId": 1,
+      "kanji": "社員",
+      "furigana": "しゃいん",
+      "romaji": "shain",
+      "meaning": "Nhân viên (của)",
+      "type": "noun"
+    },
+    {
+      "wordId": 109,
+      "lessonId": 1,
+      "kanji": "銀行員",
+      "furigana": "ぎんこういん",
+      "romaji": "ginkouin",
+      "meaning": "Nhân viên ngân hàng",
+      "type": "noun"
+    },
+    {
+      "wordId": 110,
+      "lessonId": 1,
+      "kanji": "医者",
+      "furigana": "いしゃ",
+      "romaji": "isha",
+      "meaning": "Bác sĩ",
+      "type": "noun"
+    },
+    {
+      "wordId": 111,
+      "lessonId": 1,
+      "kanji": "研究者",
+      "furigana": "けんきゅうしゃ",
+      "romaji": "kenkyuusha",
+      "meaning": "Nhà nghiên cứu",
+      "type": "noun"
+    },
+    {
+      "wordId": 112,
+      "lessonId": 1,
+      "kanji": "",
+      "furigana": "エンジニア",
+      "romaji": "enjinia",
+      "meaning": "Kỹ sư",
+      "type": "noun"
+    },
+    {
+      "wordId": 113,
+      "lessonId": 1,
+      "kanji": "大学",
+      "furigana": "だいがく",
+      "romaji": "daigaku",
+      "meaning": "Đại học",
+      "type": "noun"
+    },
+    {
+      "wordId": 114,
+      "lessonId": 1,
+      "kanji": "病院",
+      "furigana": "びょういん",
+      "romaji": "byouin",
+      "meaning": "Bệnh viện",
+      "type": "noun"
+    },
+    {
+      "wordId": 115,
+      "lessonId": 1,
+      "kanji": "会社",
+      "furigana": "かいしゃ",
+      "romaji": "kaisha",
+      "meaning": "Công ty",
+      "type": "noun"
+    },
+    {
+      "wordId": 116,
+      "lessonId": 1,
+      "kanji": "銀行",
+      "furigana": "ぎんこう",
+      "romaji": "ginkou",
+      "meaning": "Ngân hàng",
+      "type": "noun"
+    },
+    {
+      "wordId": 117,
+      "lessonId": 1,
+      "kanji": "電気",
+      "furigana": "でんき",
+      "romaji": "denki",
+      "meaning": "Điện",
+      "type": "noun"
+    },
+    {
+      "wordId": 118,
+      "lessonId": 1,
+      "kanji": "誰",
+      "furigana": "だれ",
+      "romaji": "dare",
+      "meaning": "Ai",
+      "type": "pronoun"
+    },
+    {
+      "wordId": 119,
+      "lessonId": 1,
+      "kanji": "どなた",
+      "furigana": "どなた",
+      "romaji": "donata",
+      "meaning": "Ai (lịch sự)",
+      "type": "pronoun"
+    },
+    {
+      "wordId": 120,
+      "lessonId": 1,
+      "kanji": "何歳",
+      "furigana": "なんさい",
+      "romaji": "nansai",
+      "meaning": "Bao nhiêu tuổi",
+      "type": "noun"
+    },
+    {
+      "wordId": 121,
+      "lessonId": 1,
+      "kanji": "",
+      "furigana": "おいくつ",
+      "romaji": "oikutsu",
+      "meaning": "Bao nhiêu tuổi (lịch sự)",
+      "type": "expression"
+    },
+    {
+      "wordId": 122,
+      "lessonId": 1,
+      "kanji": "",
+      "furigana": "はい",
+      "romaji": "hai",
+      "meaning": "Vâng",
+      "type": "expression"
+    },
+    {
+      "wordId": 123,
+      "lessonId": 1,
+      "kanji": "",
+      "furigana": "いいえ",
+      "romaji": "iie",
+      "meaning": "Không",
+      "type": "expression"
+    },
+    {
+      "wordId": 124,
+      "lessonId": 1,
+      "kanji": "",
+      "furigana": "どうぞ よろしく",
+      "romaji": "douzo yoroshiku",
+      "meaning": "Rất hân hạnh",
+      "type": "expression"
+    },
+    {
+      "wordId": 125,
+      "lessonId": 1,
+      "kanji": "",
+      "furigana": "はじめまして",
+      "romaji": "hajimemashite",
+      "meaning": "Lần đầu gặp mặt",
+      "type": "expression"
+    },
+    {
+      "wordId": 126,
+      "lessonId": 1,
+      "kanji": "日本",
+      "furigana": "にほん",
+      "romaji": "nihon",
+      "meaning": "Nhật Bản",
+      "type": "noun"
+    },
+    {
+      "wordId": 127,
+      "lessonId": 1,
+      "kanji": "アメリカ",
+      "furigana": "アメリカ",
+      "romaji": "amerika",
+      "meaning": "Mỹ",
+      "type": "noun"
+    },
+    {
+      "wordId": 128,
+      "lessonId": 1,
+      "kanji": "ベトナム",
+      "furigana": "ベトナム",
+      "romaji": "betonamu",
+      "meaning": "Việt Nam",
+      "type": "noun"
+    },
+    {
+      "wordId": 129,
+      "lessonId": 1,
+      "kanji": "中国",
+      "furigana": "ちゅうごく",
+      "romaji": "chuugoku",
+      "meaning": "Trung Quốc",
+      "type": "noun"
+    },
+    {
+      "wordId": 130,
+      "lessonId": 1,
+      "kanji": "",
+      "furigana": "～さん",
+      "romaji": "~san",
+      "meaning": "Anh/chị (hậu tố)",
+      "type": "suffix"
+    }
+  ],
+  "grammar": [
+    {
+      "grammarId": 101,
+      "lessonId": 1,
+      "title": "N1 は N2 です",
+      "structure": "N1 は N2 です",
+      "explanation": "Trợ từ は (đọc wa) biểu thị N1 là chủ đề. です kết thúc câu khẳng định lịch sự. Câu nghĩa là N1 là N2.",
+      "examples": [
+        {
+          "japanese": "わたしは マイク・ミラーです。",
+          "vietnamese": "Tôi là Mike Miller."
+        },
+        {
+          "japanese": "サントスさんは 学生です。",
+          "vietnamese": "Anh Santos là học sinh."
+        },
+        {
+          "japanese": "ワットさんは 先生です。",
+          "vietnamese": "Ông Watt là giáo viên."
+        }
+      ]
+    },
+    {
+      "grammarId": 102,
+      "lessonId": 1,
+      "title": "N1 は N2 じゃ ありません",
+      "structure": "N1 は N2 じゃ/では ありません",
+      "explanation": "じゃ ありません (じゃ ありません = dạng phủ định của です). N1 không phải là N2.",
+      "examples": [
+        {
+          "japanese": "サントスさんは 学生 じゃ ありません。",
+          "vietnamese": "Anh Santos không phải là học sinh."
+        },
+        {
+          "japanese": "わたしは エンジニア では ありません。",
+          "vietnamese": "Tôi không phải là kỹ sư."
+        }
+      ]
+    },
+    {
+      "grammarId": 103,
+      "lessonId": 1,
+      "title": "N1 は N2 ですか",
+      "structure": "N1 は N2 ですか",
+      "explanation": "Thêm か vào cuối câu để tạo câu hỏi Yes/No. Trả lời: はい、そうです / いいえ、ちがいます.",
+      "examples": [
+        {
+          "japanese": "ミラーさんは 会社員ですか。",
+          "vietnamese": "Anh Miller là nhân viên công ty phải không?"
+        },
+        {
+          "japanese": "はい、会社員です。",
+          "vietnamese": "Vâng, anh ấy là nhân viên công ty."
+        },
+        {
+          "japanese": "いいえ、会社員 じゃ ありません。",
+          "vietnamese": "Không, anh ấy không phải nhân viên công ty."
+        }
+      ]
+    },
+    {
+      "grammarId": 104,
+      "lessonId": 1,
+      "title": "N も N です",
+      "structure": "N1 も N2 です",
+      "explanation": "Trợ từ も thay cho は khi muốn nói 'cũng'. N1 cũng là N2.",
+      "examples": [
+        {
+          "japanese": "ミラーさんは 会社員です。グプタさんも 会社員です。",
+          "vietnamese": "Anh Miller là nhân viên công ty. Anh Gupta cũng là nhân viên công ty."
+        },
+        {
+          "japanese": "わたしも ベトナム人です。",
+          "vietnamese": "Tôi cũng là người Việt Nam."
+        }
+      ]
+    }
+  ],
+  "kanji": [
+    {
+      "kanjiId": 101,
+      "lessonId": 1,
+      "character": "私",
+      "onyomi": "シ",
+      "kunyomi": "わたし",
+      "meaning": "Tôi, riêng tư",
+      "strokeCount": 7
+    },
+    {
+      "kanjiId": 102,
+      "lessonId": 1,
+      "character": "学",
+      "onyomi": "ガク",
+      "kunyomi": "まな.ぶ",
+      "meaning": "Học",
+      "strokeCount": 8
+    },
+    {
+      "kanjiId": 103,
+      "lessonId": 1,
+      "character": "生",
+      "onyomi": "セイ",
+      "kunyomi": "い.きる",
+      "meaning": "Sinh, sống",
+      "strokeCount": 5
+    },
+    {
+      "kanjiId": 104,
+      "lessonId": 1,
+      "character": "先",
+      "onyomi": "セン",
+      "kunyomi": "さき",
+      "meaning": "Trước",
+      "strokeCount": 6
+    },
+    {
+      "kanjiId": 105,
+      "lessonId": 1,
+      "character": "会",
+      "onyomi": "カイ",
+      "kunyomi": "あ.う",
+      "meaning": "Hội, gặp",
+      "strokeCount": 6
+    },
+    {
+      "kanjiId": 106,
+      "lessonId": 1,
+      "character": "社",
+      "onyomi": "シャ",
+      "kunyomi": "やしろ",
+      "meaning": "Xã, công ty",
+      "strokeCount": 7
+    },
+    {
+      "kanjiId": 107,
+      "lessonId": 1,
+      "character": "員",
+      "onyomi": "イン",
+      "kunyomi": "",
+      "meaning": "Người, viên (đếm người)",
+      "strokeCount": 10
+    },
+    {
+      "kanjiId": 108,
+      "lessonId": 1,
+      "character": "人",
+      "onyomi": "ジン/ニン",
+      "kunyomi": "ひと",
+      "meaning": "Người",
+      "strokeCount": 2
+    }
+  ]
+}

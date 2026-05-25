@@ -1,0 +1,427 @@
+{
+  "lesson": {
+    "id": 22,
+    "title": "連体修飾",
+    "description": "Mệnh đề định ngữ bổ nghĩa cho danh từ"
+  },
+  "vocabulary": [
+    {
+      "wordId": 2201,
+      "lessonId": 22,
+      "kanji": "着ます",
+      "furigana": "きます",
+      "romaji": "kimasu",
+      "meaning": "Mặc (áo phần trên)",
+      "type": "verb"
+    },
+    {
+      "wordId": 2202,
+      "lessonId": 22,
+      "kanji": "履きます",
+      "furigana": "はきます",
+      "romaji": "hakimasu",
+      "meaning": "Đi (giày, quần)",
+      "type": "verb"
+    },
+    {
+      "wordId": 2203,
+      "lessonId": 22,
+      "kanji": "被ります",
+      "furigana": "かぶります",
+      "romaji": "kaburimasu",
+      "meaning": "Đội (mũ)",
+      "type": "verb"
+    },
+    {
+      "wordId": 2204,
+      "lessonId": 22,
+      "kanji": "掛けます",
+      "furigana": "かけます",
+      "romaji": "kakemasu",
+      "meaning": "Đeo (kính)",
+      "type": "verb"
+    },
+    {
+      "wordId": 2205,
+      "lessonId": 22,
+      "kanji": "生まれます",
+      "furigana": "うまれます",
+      "romaji": "umaremasu",
+      "meaning": "Sinh ra",
+      "type": "verb"
+    },
+    {
+      "wordId": 2206,
+      "lessonId": 22,
+      "kanji": "残ります",
+      "furigana": "のこります",
+      "romaji": "nokorimasu",
+      "meaning": "Còn lại",
+      "type": "verb"
+    },
+    {
+      "wordId": 2207,
+      "lessonId": 22,
+      "kanji": "預けます",
+      "furigana": "あずけます",
+      "romaji": "azukemasu",
+      "meaning": "Gửi (đồ)",
+      "type": "verb"
+    },
+    {
+      "wordId": 2208,
+      "lessonId": 22,
+      "kanji": "帽子",
+      "furigana": "ぼうし",
+      "romaji": "boushi",
+      "meaning": "Mũ",
+      "type": "noun"
+    },
+    {
+      "wordId": 2209,
+      "lessonId": 22,
+      "kanji": "眼鏡",
+      "furigana": "めがね",
+      "romaji": "megane",
+      "meaning": "Kính",
+      "type": "noun"
+    },
+    {
+      "wordId": 2210,
+      "lessonId": 22,
+      "kanji": "服",
+      "furigana": "ふく",
+      "romaji": "fuku",
+      "meaning": "Quần áo",
+      "type": "noun"
+    },
+    {
+      "wordId": 2211,
+      "lessonId": 22,
+      "kanji": "靴",
+      "furigana": "くつ",
+      "romaji": "kutsu",
+      "meaning": "Giày",
+      "type": "noun"
+    },
+    {
+      "wordId": 2212,
+      "lessonId": 22,
+      "kanji": "シャツ",
+      "furigana": "シャツ",
+      "romaji": "shatsu",
+      "meaning": "Áo sơ mi",
+      "type": "noun"
+    },
+    {
+      "wordId": 2213,
+      "lessonId": 22,
+      "kanji": "セーター",
+      "furigana": "セーター",
+      "romaji": "seetaa",
+      "meaning": "Áo len",
+      "type": "noun"
+    },
+    {
+      "wordId": 2214,
+      "lessonId": 22,
+      "kanji": "コート",
+      "furigana": "コート",
+      "romaji": "kooto",
+      "meaning": "Áo khoác",
+      "type": "noun"
+    },
+    {
+      "wordId": 2215,
+      "lessonId": 22,
+      "kanji": "スーツ",
+      "furigana": "スーツ",
+      "romaji": "suutsu",
+      "meaning": "Bộ vest",
+      "type": "noun"
+    },
+    {
+      "wordId": 2216,
+      "lessonId": 22,
+      "kanji": "家",
+      "furigana": "いえ",
+      "romaji": "ie",
+      "meaning": "Nhà",
+      "type": "noun"
+    },
+    {
+      "wordId": 2217,
+      "lessonId": 22,
+      "kanji": "物",
+      "furigana": "もの",
+      "romaji": "mono",
+      "meaning": "Đồ vật",
+      "type": "noun"
+    },
+    {
+      "wordId": 2218,
+      "lessonId": 22,
+      "kanji": "時間",
+      "furigana": "じかん",
+      "romaji": "jikan",
+      "meaning": "Thời gian",
+      "type": "noun"
+    },
+    {
+      "wordId": 2219,
+      "lessonId": 22,
+      "kanji": "用事",
+      "furigana": "ようじ",
+      "romaji": "youji",
+      "meaning": "Việc cần làm",
+      "type": "noun"
+    },
+    {
+      "wordId": 2220,
+      "lessonId": 22,
+      "kanji": "約束",
+      "furigana": "やくそく",
+      "romaji": "yakusoku",
+      "meaning": "Lời hứa",
+      "type": "noun"
+    },
+    {
+      "wordId": 2221,
+      "lessonId": 22,
+      "kanji": "都合",
+      "furigana": "つごう",
+      "romaji": "tsugou",
+      "meaning": "Hoàn cảnh, thuận tiện",
+      "type": "noun"
+    },
+    {
+      "wordId": 2222,
+      "lessonId": 22,
+      "kanji": "ニュース",
+      "furigana": "ニュース",
+      "romaji": "nyuusu",
+      "meaning": "Tin tức",
+      "type": "noun"
+    },
+    {
+      "wordId": 2223,
+      "lessonId": 22,
+      "kanji": "プレゼント",
+      "furigana": "プレゼント",
+      "romaji": "purezento",
+      "meaning": "Quà tặng",
+      "type": "noun"
+    },
+    {
+      "wordId": 2224,
+      "lessonId": 22,
+      "kanji": "結婚式",
+      "furigana": "けっこんしき",
+      "romaji": "kekkonshiki",
+      "meaning": "Lễ cưới",
+      "type": "noun"
+    },
+    {
+      "wordId": 2225,
+      "lessonId": 22,
+      "kanji": "ピザ",
+      "furigana": "ピザ",
+      "romaji": "piza",
+      "meaning": "Pizza",
+      "type": "noun"
+    },
+    {
+      "wordId": 2226,
+      "lessonId": 22,
+      "kanji": "ケーキ",
+      "furigana": "ケーキ",
+      "romaji": "keeki",
+      "meaning": "Bánh kem",
+      "type": "noun"
+    },
+    {
+      "wordId": 2227,
+      "lessonId": 22,
+      "kanji": "クリスマス",
+      "furigana": "クリスマス",
+      "romaji": "kurisumasu",
+      "meaning": "Giáng sinh",
+      "type": "noun"
+    },
+    {
+      "wordId": 2228,
+      "lessonId": 22,
+      "kanji": "もうすぐ",
+      "furigana": "もうすぐ",
+      "romaji": "mou sugu",
+      "meaning": "Sắp tới",
+      "type": "adverb"
+    },
+    {
+      "wordId": 2229,
+      "lessonId": 22,
+      "kanji": "それから",
+      "furigana": "それから",
+      "romaji": "sorekara",
+      "meaning": "Sau đó, ngoài ra",
+      "type": "conjunction"
+    },
+    {
+      "wordId": 2230,
+      "lessonId": 22,
+      "kanji": "海外旅行",
+      "furigana": "かいがいりょこう",
+      "romaji": "kaigai ryokou",
+      "meaning": "Du lịch nước ngoài",
+      "type": "noun"
+    }
+  ],
+  "grammar": [
+    {
+      "grammarId": 2201,
+      "lessonId": 22,
+      "title": "Mệnh đề bổ nghĩa cho N (連体修飾)",
+      "structure": "(普通形) N",
+      "explanation": "Dùng một mệnh đề ở thể thường để bổ nghĩa cho danh từ. Động từ trong mệnh đề ở thể thường.",
+      "examples": [
+        {
+          "japanese": "これは ミラーさんが 作った ケーキです。",
+          "vietnamese": "Đây là bánh kem mà anh Miller đã làm."
+        },
+        {
+          "japanese": "わたしは 英語が 分かる 人が ほしいです。",
+          "vietnamese": "Tôi muốn tìm người hiểu tiếng Anh."
+        }
+      ]
+    },
+    {
+      "grammarId": 2202,
+      "lessonId": 22,
+      "title": "Mệnh đề bổ nghĩa cho thời gian/địa điểm",
+      "structure": "(普通形) 時 / 所",
+      "explanation": "Mệnh đề định ngữ chỉ thời điểm hay địa điểm xảy ra hành động.",
+      "examples": [
+        {
+          "japanese": "食事を する 時、「いただきます」と 言います。",
+          "vietnamese": "Khi ăn cơm, người ta nói 'itadakimasu'."
+        },
+        {
+          "japanese": "これは 京都へ 行った 時の 写真です。",
+          "vietnamese": "Đây là ảnh khi tôi đi Kyoto."
+        }
+      ]
+    },
+    {
+      "grammarId": 2203,
+      "lessonId": 22,
+      "title": "Nを 着ます/履きます/被ります/掛けます",
+      "structure": "Nを 着ます/履きます/被ります/掛けます",
+      "explanation": "Các động từ mặc đồ tùy theo phần cơ thể: 着ます (phần trên), 履きます (phần dưới, giày), 被ります (đầu), 掛けます (kính).",
+      "examples": [
+        {
+          "japanese": "シャツを 着ます。",
+          "vietnamese": "Mặc áo sơ mi."
+        },
+        {
+          "japanese": "靴を 履きます。",
+          "vietnamese": "Đi giày."
+        },
+        {
+          "japanese": "帽子を 被ります。",
+          "vietnamese": "Đội mũ."
+        }
+      ]
+    },
+    {
+      "grammarId": 2204,
+      "lessonId": 22,
+      "title": "V(辞書形) 時間/予定/約束が あります",
+      "structure": "V(辞書形) 時間/予定/約束/用事が あります",
+      "explanation": "Có thời gian/lịch hẹn/việc để làm gì.",
+      "examples": [
+        {
+          "japanese": "わたしは 朝ご飯を 食べる 時間が ありません。",
+          "vietnamese": "Tôi không có thời gian ăn sáng."
+        },
+        {
+          "japanese": "明日 友達と 会う 約束が あります。",
+          "vietnamese": "Mai tôi có hẹn gặp bạn."
+        }
+      ]
+    }
+  ],
+  "kanji": [
+    {
+      "kanjiId": 2201,
+      "lessonId": 22,
+      "character": "着",
+      "onyomi": "チャク",
+      "kunyomi": "き.る",
+      "meaning": "Mặc, đến",
+      "strokeCount": 12
+    },
+    {
+      "kanjiId": 2202,
+      "lessonId": 22,
+      "character": "服",
+      "onyomi": "フク",
+      "kunyomi": "",
+      "meaning": "Quần áo",
+      "strokeCount": 8
+    },
+    {
+      "kanjiId": 2203,
+      "lessonId": 22,
+      "character": "家",
+      "onyomi": "カ",
+      "kunyomi": "いえ",
+      "meaning": "Nhà",
+      "strokeCount": 10
+    },
+    {
+      "kanjiId": 2204,
+      "lessonId": 22,
+      "character": "物",
+      "onyomi": "ブツ",
+      "kunyomi": "もの",
+      "meaning": "Vật",
+      "strokeCount": 8
+    },
+    {
+      "kanjiId": 2205,
+      "lessonId": 22,
+      "character": "生",
+      "onyomi": "セイ",
+      "kunyomi": "う.まれる",
+      "meaning": "Sinh ra",
+      "strokeCount": 5
+    },
+    {
+      "kanjiId": 2206,
+      "lessonId": 22,
+      "character": "時",
+      "onyomi": "ジ",
+      "kunyomi": "とき",
+      "meaning": "Thời gian",
+      "strokeCount": 10
+    },
+    {
+      "kanjiId": 2207,
+      "lessonId": 22,
+      "character": "間",
+      "onyomi": "カン",
+      "kunyomi": "あいだ",
+      "meaning": "Khoảng, gian",
+      "strokeCount": 12
+    },
+    {
+      "kanjiId": 2208,
+      "lessonId": 22,
+      "character": "予",
+      "onyomi": "ヨ",
+      "kunyomi": "",
+      "meaning": "Dự, trước",
+      "strokeCount": 4
+    }
+  ]
+}

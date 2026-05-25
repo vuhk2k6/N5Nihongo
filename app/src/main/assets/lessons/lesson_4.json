@@ -1,0 +1,427 @@
+{
+  "lesson": {
+    "id": 4,
+    "title": "今 ～時 ～分 です",
+    "description": "Giờ giấc, thời gian, lịch trình sinh hoạt hàng ngày"
+  },
+  "vocabulary": [
+    {
+      "wordId": 401,
+      "lessonId": 4,
+      "kanji": "",
+      "furigana": "起きます",
+      "romaji": "okimasu",
+      "meaning": "Thức dậy",
+      "type": "verb"
+    },
+    {
+      "wordId": 402,
+      "lessonId": 4,
+      "kanji": "",
+      "furigana": "寝ます",
+      "romaji": "nemasu",
+      "meaning": "Đi ngủ",
+      "type": "verb"
+    },
+    {
+      "wordId": 403,
+      "lessonId": 4,
+      "kanji": "働きます",
+      "furigana": "はたらきます",
+      "romaji": "hatarakimasu",
+      "meaning": "Làm việc",
+      "type": "verb"
+    },
+    {
+      "wordId": 404,
+      "lessonId": 4,
+      "kanji": "休みます",
+      "furigana": "やすみます",
+      "romaji": "yasumimasu",
+      "meaning": "Nghỉ ngơi",
+      "type": "verb"
+    },
+    {
+      "wordId": 405,
+      "lessonId": 4,
+      "kanji": "勉強します",
+      "furigana": "べんきょうします",
+      "romaji": "benkyou shimasu",
+      "meaning": "Học bài",
+      "type": "verb"
+    },
+    {
+      "wordId": 406,
+      "lessonId": 4,
+      "kanji": "始まります",
+      "furigana": "はじまります",
+      "romaji": "hajimarimasu",
+      "meaning": "Bắt đầu",
+      "type": "verb"
+    },
+    {
+      "wordId": 407,
+      "lessonId": 4,
+      "kanji": "終わります",
+      "furigana": "おわります",
+      "romaji": "owarimasu",
+      "meaning": "Kết thúc",
+      "type": "verb"
+    },
+    {
+      "wordId": 408,
+      "lessonId": 4,
+      "kanji": "今",
+      "furigana": "いま",
+      "romaji": "ima",
+      "meaning": "Bây giờ",
+      "type": "noun"
+    },
+    {
+      "wordId": 409,
+      "lessonId": 4,
+      "kanji": "午前",
+      "furigana": "ごぜん",
+      "romaji": "gozen",
+      "meaning": "Buổi sáng (AM)",
+      "type": "noun"
+    },
+    {
+      "wordId": 410,
+      "lessonId": 4,
+      "kanji": "午後",
+      "furigana": "ごご",
+      "romaji": "gogo",
+      "meaning": "Buổi chiều (PM)",
+      "type": "noun"
+    },
+    {
+      "wordId": 411,
+      "lessonId": 4,
+      "kanji": "朝",
+      "furigana": "あさ",
+      "romaji": "asa",
+      "meaning": "Buổi sáng",
+      "type": "noun"
+    },
+    {
+      "wordId": 412,
+      "lessonId": 4,
+      "kanji": "昼",
+      "furigana": "ひる",
+      "romaji": "hiru",
+      "meaning": "Buổi trưa",
+      "type": "noun"
+    },
+    {
+      "wordId": 413,
+      "lessonId": 4,
+      "kanji": "晩",
+      "furigana": "ばん",
+      "romaji": "ban",
+      "meaning": "Buổi tối",
+      "type": "noun"
+    },
+    {
+      "wordId": 414,
+      "lessonId": 4,
+      "kanji": "夜",
+      "furigana": "よる",
+      "romaji": "yoru",
+      "meaning": "Đêm",
+      "type": "noun"
+    },
+    {
+      "wordId": 415,
+      "lessonId": 4,
+      "kanji": "毎朝",
+      "furigana": "まいあさ",
+      "romaji": "maiasa",
+      "meaning": "Mỗi sáng",
+      "type": "noun"
+    },
+    {
+      "wordId": 416,
+      "lessonId": 4,
+      "kanji": "毎晩",
+      "furigana": "まいばん",
+      "romaji": "maiban",
+      "meaning": "Mỗi tối",
+      "type": "noun"
+    },
+    {
+      "wordId": 417,
+      "lessonId": 4,
+      "kanji": "毎日",
+      "furigana": "まいにち",
+      "romaji": "mainichi",
+      "meaning": "Mỗi ngày",
+      "type": "noun"
+    },
+    {
+      "wordId": 418,
+      "lessonId": 4,
+      "kanji": "月曜日",
+      "furigana": "げつようび",
+      "romaji": "getsuyoubi",
+      "meaning": "Thứ Hai",
+      "type": "noun"
+    },
+    {
+      "wordId": 419,
+      "lessonId": 4,
+      "kanji": "火曜日",
+      "furigana": "かようび",
+      "romaji": "kayoubi",
+      "meaning": "Thứ Ba",
+      "type": "noun"
+    },
+    {
+      "wordId": 420,
+      "lessonId": 4,
+      "kanji": "水曜日",
+      "furigana": "すいようび",
+      "romaji": "suiyoubi",
+      "meaning": "Thứ Tư",
+      "type": "noun"
+    },
+    {
+      "wordId": 421,
+      "lessonId": 4,
+      "kanji": "木曜日",
+      "furigana": "もくようび",
+      "romaji": "mokuyoubi",
+      "meaning": "Thứ Năm",
+      "type": "noun"
+    },
+    {
+      "wordId": 422,
+      "lessonId": 4,
+      "kanji": "金曜日",
+      "furigana": "きんようび",
+      "romaji": "kinyoubi",
+      "meaning": "Thứ Sáu",
+      "type": "noun"
+    },
+    {
+      "wordId": 423,
+      "lessonId": 4,
+      "kanji": "土曜日",
+      "furigana": "どようび",
+      "romaji": "doyoubi",
+      "meaning": "Thứ Bảy",
+      "type": "noun"
+    },
+    {
+      "wordId": 424,
+      "lessonId": 4,
+      "kanji": "日曜日",
+      "furigana": "にちようび",
+      "romaji": "nichiyoubi",
+      "meaning": "Chủ nhật",
+      "type": "noun"
+    },
+    {
+      "wordId": 425,
+      "lessonId": 4,
+      "kanji": "何曜日",
+      "furigana": "なんようび",
+      "romaji": "nanyoubi",
+      "meaning": "Thứ mấy",
+      "type": "noun"
+    },
+    {
+      "wordId": 426,
+      "lessonId": 4,
+      "kanji": "昨日",
+      "furigana": "きのう",
+      "romaji": "kinou",
+      "meaning": "Hôm qua",
+      "type": "noun"
+    },
+    {
+      "wordId": 427,
+      "lessonId": 4,
+      "kanji": "今日",
+      "furigana": "きょう",
+      "romaji": "kyou",
+      "meaning": "Hôm nay",
+      "type": "noun"
+    },
+    {
+      "wordId": 428,
+      "lessonId": 4,
+      "kanji": "明日",
+      "furigana": "あした",
+      "romaji": "ashita",
+      "meaning": "Ngày mai",
+      "type": "noun"
+    },
+    {
+      "wordId": 429,
+      "lessonId": 4,
+      "kanji": "番号",
+      "furigana": "ばんごう",
+      "romaji": "bangou",
+      "meaning": "Số (điện thoại, phòng…)",
+      "type": "noun"
+    },
+    {
+      "wordId": 430,
+      "lessonId": 4,
+      "kanji": "電話番号",
+      "furigana": "でんわばんごう",
+      "romaji": "denwa bangou",
+      "meaning": "Số điện thoại",
+      "type": "noun"
+    }
+  ],
+  "grammar": [
+    {
+      "grammarId": 401,
+      "lessonId": 4,
+      "title": "今 ～時 ～分 です",
+      "structure": "いま ～じ ～ふん/ぷん です",
+      "explanation": "Cách nói giờ. ～時 = giờ, ～分 = phút. 1分 = いっぷん, 3分 = さんぷん.",
+      "examples": [
+        {
+          "japanese": "今 7時です。",
+          "vietnamese": "Bây giờ là 7 giờ."
+        },
+        {
+          "japanese": "今 3時15分です。",
+          "vietnamese": "Bây giờ là 3 giờ 15 phút."
+        },
+        {
+          "japanese": "ニューヨークは 今 何時ですか。",
+          "vietnamese": "Bây giờ ở New York là mấy giờ?"
+        }
+      ]
+    },
+    {
+      "grammarId": 402,
+      "lessonId": 4,
+      "title": "V ます / V ません / V ました / V ませんでした",
+      "structure": "V ます / V ません / V ました / V ませんでした",
+      "explanation": "Bốn dạng động từ thể lịch sự: khẳng định hiện tại/tương lai, phủ định hiện tại/tương lai, khẳng định quá khứ, phủ định quá khứ.",
+      "examples": [
+        {
+          "japanese": "毎朝 6時に 起きます。",
+          "vietnamese": "Mỗi sáng tôi dậy lúc 6 giờ."
+        },
+        {
+          "japanese": "昨日 勉強しませんでした。",
+          "vietnamese": "Hôm qua tôi đã không học bài."
+        }
+      ]
+    },
+    {
+      "grammarId": 403,
+      "lessonId": 4,
+      "title": "N (thời gian) に V",
+      "structure": "N(時間) に V",
+      "explanation": "Trợ từ に dùng sau danh từ chỉ thời điểm cụ thể (giờ, thứ, ngày). Không dùng với 今日/明日/毎日.",
+      "examples": [
+        {
+          "japanese": "わたしは 6時半に 起きます。",
+          "vietnamese": "Tôi dậy lúc 6 giờ rưỡi."
+        },
+        {
+          "japanese": "月曜日に 京都へ 行きます。",
+          "vietnamese": "Tôi sẽ đi Kyoto vào thứ Hai."
+        }
+      ]
+    },
+    {
+      "grammarId": 404,
+      "lessonId": 4,
+      "title": "N1 から N2 まで",
+      "structure": "N1 から N2 まで",
+      "explanation": "から = từ, まで = đến. Dùng cho cả thời gian và địa điểm. Có thể đứng độc lập trong câu.",
+      "examples": [
+        {
+          "japanese": "会社は 9時から 5時までです。",
+          "vietnamese": "Công ty làm việc từ 9 giờ đến 5 giờ."
+        },
+        {
+          "japanese": "月曜日から 金曜日まで 働きます。",
+          "vietnamese": "Tôi làm việc từ thứ Hai đến thứ Sáu."
+        }
+      ]
+    }
+  ],
+  "kanji": [
+    {
+      "kanjiId": 401,
+      "lessonId": 4,
+      "character": "時",
+      "onyomi": "ジ",
+      "kunyomi": "とき",
+      "meaning": "Giờ, thời gian",
+      "strokeCount": 10
+    },
+    {
+      "kanjiId": 402,
+      "lessonId": 4,
+      "character": "分",
+      "onyomi": "フン/プン",
+      "kunyomi": "わ.かる",
+      "meaning": "Phút, hiểu",
+      "strokeCount": 4
+    },
+    {
+      "kanjiId": 403,
+      "lessonId": 4,
+      "character": "今",
+      "onyomi": "コン",
+      "kunyomi": "いま",
+      "meaning": "Bây giờ",
+      "strokeCount": 4
+    },
+    {
+      "kanjiId": 404,
+      "lessonId": 4,
+      "character": "朝",
+      "onyomi": "チョウ",
+      "kunyomi": "あさ",
+      "meaning": "Sáng",
+      "strokeCount": 12
+    },
+    {
+      "kanjiId": 405,
+      "lessonId": 4,
+      "character": "夜",
+      "onyomi": "ヤ",
+      "kunyomi": "よる",
+      "meaning": "Đêm",
+      "strokeCount": 8
+    },
+    {
+      "kanjiId": 406,
+      "lessonId": 4,
+      "character": "毎",
+      "onyomi": "マイ",
+      "kunyomi": "ごと",
+      "meaning": "Mỗi",
+      "strokeCount": 6
+    },
+    {
+      "kanjiId": 407,
+      "lessonId": 4,
+      "character": "曜",
+      "onyomi": "ヨウ",
+      "kunyomi": "",
+      "meaning": "Thứ (trong tuần)",
+      "strokeCount": 18
+    },
+    {
+      "kanjiId": 408,
+      "lessonId": 4,
+      "character": "午",
+      "onyomi": "ゴ",
+      "kunyomi": "",
+      "meaning": "Trưa, ngọ",
+      "strokeCount": 4
+    }
+  ]
+}

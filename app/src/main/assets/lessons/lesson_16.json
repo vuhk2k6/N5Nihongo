@@ -1,0 +1,423 @@
+{
+  "lesson": {
+    "id": 16,
+    "title": "V てから・V て、V て (Liên kết hành động)",
+    "description": "Nối hành động liên tiếp, mô tả người và đồ vật bằng tính từ"
+  },
+  "vocabulary": [
+    {
+      "wordId": 1601,
+      "lessonId": 16,
+      "kanji": "乗り換えます",
+      "furigana": "のりかえます",
+      "romaji": "norikaemasu",
+      "meaning": "Chuyển (tàu/xe)",
+      "type": "verb"
+    },
+    {
+      "wordId": 1602,
+      "lessonId": 16,
+      "kanji": "浴びます",
+      "furigana": "あびます",
+      "romaji": "abimasu",
+      "meaning": "Tắm (vòi sen)",
+      "type": "verb"
+    },
+    {
+      "wordId": 1603,
+      "lessonId": 16,
+      "kanji": "入れます",
+      "furigana": "いれます",
+      "romaji": "iremasu",
+      "meaning": "Cho vào",
+      "type": "verb"
+    },
+    {
+      "wordId": 1604,
+      "lessonId": 16,
+      "kanji": "出します",
+      "furigana": "だします",
+      "romaji": "dashimasu",
+      "meaning": "Lấy ra, gửi",
+      "type": "verb"
+    },
+    {
+      "wordId": 1605,
+      "lessonId": 16,
+      "kanji": "押します",
+      "furigana": "おします",
+      "romaji": "oshimasu",
+      "meaning": "Nhấn, đẩy",
+      "type": "verb"
+    },
+    {
+      "wordId": 1606,
+      "lessonId": 16,
+      "kanji": "卒業します",
+      "furigana": "そつぎょうします",
+      "romaji": "sotsugyou shimasu",
+      "meaning": "Tốt nghiệp",
+      "type": "verb"
+    },
+    {
+      "wordId": 1607,
+      "lessonId": 16,
+      "kanji": "若い",
+      "furigana": "わかい",
+      "romaji": "wakai",
+      "meaning": "Trẻ",
+      "type": "i-adj"
+    },
+    {
+      "wordId": 1608,
+      "lessonId": 16,
+      "kanji": "長い",
+      "furigana": "ながい",
+      "romaji": "nagai",
+      "meaning": "Dài",
+      "type": "i-adj"
+    },
+    {
+      "wordId": 1609,
+      "lessonId": 16,
+      "kanji": "短い",
+      "furigana": "みじかい",
+      "romaji": "mijikai",
+      "meaning": "Ngắn",
+      "type": "i-adj"
+    },
+    {
+      "wordId": 1610,
+      "lessonId": 16,
+      "kanji": "明るい",
+      "furigana": "あかるい",
+      "romaji": "akarui",
+      "meaning": "Sáng",
+      "type": "i-adj"
+    },
+    {
+      "wordId": 1611,
+      "lessonId": 16,
+      "kanji": "暗い",
+      "furigana": "くらい",
+      "romaji": "kurai",
+      "meaning": "Tối",
+      "type": "i-adj"
+    },
+    {
+      "wordId": 1612,
+      "lessonId": 16,
+      "kanji": "広い",
+      "furigana": "ひろい",
+      "romaji": "hiroi",
+      "meaning": "Rộng",
+      "type": "i-adj"
+    },
+    {
+      "wordId": 1613,
+      "lessonId": 16,
+      "kanji": "狭い",
+      "furigana": "せまい",
+      "romaji": "semai",
+      "meaning": "Hẹp",
+      "type": "i-adj"
+    },
+    {
+      "wordId": 1614,
+      "lessonId": 16,
+      "kanji": "美味しい",
+      "furigana": "おいしい",
+      "romaji": "oishii",
+      "meaning": "Ngon",
+      "type": "i-adj"
+    },
+    {
+      "wordId": 1615,
+      "lessonId": 16,
+      "kanji": "体",
+      "furigana": "からだ",
+      "romaji": "karada",
+      "meaning": "Cơ thể",
+      "type": "noun"
+    },
+    {
+      "wordId": 1616,
+      "lessonId": 16,
+      "kanji": "頭",
+      "furigana": "あたま",
+      "romaji": "atama",
+      "meaning": "Đầu",
+      "type": "noun"
+    },
+    {
+      "wordId": 1617,
+      "lessonId": 16,
+      "kanji": "髪",
+      "furigana": "かみ",
+      "romaji": "kami",
+      "meaning": "Tóc",
+      "type": "noun"
+    },
+    {
+      "wordId": 1618,
+      "lessonId": 16,
+      "kanji": "顔",
+      "furigana": "かお",
+      "romaji": "kao",
+      "meaning": "Mặt",
+      "type": "noun"
+    },
+    {
+      "wordId": 1619,
+      "lessonId": 16,
+      "kanji": "目",
+      "furigana": "め",
+      "romaji": "me",
+      "meaning": "Mắt",
+      "type": "noun"
+    },
+    {
+      "wordId": 1620,
+      "lessonId": 16,
+      "kanji": "耳",
+      "furigana": "みみ",
+      "romaji": "mimi",
+      "meaning": "Tai",
+      "type": "noun"
+    },
+    {
+      "wordId": 1621,
+      "lessonId": 16,
+      "kanji": "口",
+      "furigana": "くち",
+      "romaji": "kuchi",
+      "meaning": "Miệng",
+      "type": "noun"
+    },
+    {
+      "wordId": 1622,
+      "lessonId": 16,
+      "kanji": "鼻",
+      "furigana": "はな",
+      "romaji": "hana",
+      "meaning": "Mũi",
+      "type": "noun"
+    },
+    {
+      "wordId": 1623,
+      "lessonId": 16,
+      "kanji": "歯",
+      "furigana": "は",
+      "romaji": "ha",
+      "meaning": "Răng",
+      "type": "noun"
+    },
+    {
+      "wordId": 1624,
+      "lessonId": 16,
+      "kanji": "首",
+      "furigana": "くび",
+      "romaji": "kubi",
+      "meaning": "Cổ",
+      "type": "noun"
+    },
+    {
+      "wordId": 1625,
+      "lessonId": 16,
+      "kanji": "手",
+      "furigana": "て",
+      "romaji": "te",
+      "meaning": "Tay",
+      "type": "noun"
+    },
+    {
+      "wordId": 1626,
+      "lessonId": 16,
+      "kanji": "足",
+      "furigana": "あし",
+      "romaji": "ashi",
+      "meaning": "Chân",
+      "type": "noun"
+    },
+    {
+      "wordId": 1627,
+      "lessonId": 16,
+      "kanji": "色",
+      "furigana": "いろ",
+      "romaji": "iro",
+      "meaning": "Màu sắc",
+      "type": "noun"
+    },
+    {
+      "wordId": 1628,
+      "lessonId": 16,
+      "kanji": "黒い",
+      "furigana": "くろい",
+      "romaji": "kuroi",
+      "meaning": "Màu đen",
+      "type": "i-adj"
+    },
+    {
+      "wordId": 1629,
+      "lessonId": 16,
+      "kanji": "白い",
+      "furigana": "しろい",
+      "romaji": "shiroi",
+      "meaning": "Màu trắng",
+      "type": "i-adj"
+    },
+    {
+      "wordId": 1630,
+      "lessonId": 16,
+      "kanji": "シャワー",
+      "furigana": "シャワー",
+      "romaji": "shawaa",
+      "meaning": "Vòi sen",
+      "type": "noun"
+    }
+  ],
+  "grammar": [
+    {
+      "grammarId": 1601,
+      "lessonId": 16,
+      "title": "V1 て、V2 て、V3",
+      "structure": "V1 て、V2 て、V3",
+      "explanation": "Nối các hành động theo thứ tự thời gian (3 hành động trở lên).",
+      "examples": [
+        {
+          "japanese": "朝 起きて、ご飯を 食べて、学校へ 行きます。",
+          "vietnamese": "Sáng dậy, ăn cơm, rồi đi học."
+        },
+        {
+          "japanese": "デパートへ 行って、買い物して、映画を 見ました。",
+          "vietnamese": "Tôi đã đi trung tâm, mua sắm rồi xem phim."
+        }
+      ]
+    },
+    {
+      "grammarId": 1602,
+      "lessonId": 16,
+      "title": "V1 てから、V2",
+      "structure": "V1 てから、V2",
+      "explanation": "Sau khi làm V1 rồi mới làm V2. Nhấn mạnh thứ tự, chỉ dùng từ にてから đến một lần trong câu.",
+      "examples": [
+        {
+          "japanese": "シャワーを 浴びてから、寝ます。",
+          "vietnamese": "Sau khi tắm, tôi đi ngủ."
+        },
+        {
+          "japanese": "大学を 卒業してから、会社で 働きます。",
+          "vietnamese": "Sau khi tốt nghiệp đại học, tôi sẽ làm ở công ty."
+        }
+      ]
+    },
+    {
+      "grammarId": 1603,
+      "lessonId": 16,
+      "title": "N は adj くて/で、adj です",
+      "structure": "N は い-adj くて / な-adj で、adj です",
+      "explanation": "Nối hai hoặc nhiều tính từ. い-adj: bỏ い thêm くて. な-adj: bỏ な thêm で.",
+      "examples": [
+        {
+          "japanese": "ミラーさんは 若くて、元気です。",
+          "vietnamese": "Anh Miller trẻ và khoẻ mạnh."
+        },
+        {
+          "japanese": "奈良は 静かで、きれいな 町です。",
+          "vietnamese": "Nara là một thành phố yên tĩnh và đẹp."
+        }
+      ]
+    },
+    {
+      "grammarId": 1604,
+      "lessonId": 16,
+      "title": "N1 は N2 が adj です",
+      "structure": "N1 は N2 が adj です",
+      "explanation": "Mô tả đặc điểm của N1 thông qua N2. Bộ phận N2 thuộc tổng thể N1.",
+      "examples": [
+        {
+          "japanese": "象は 鼻が 長いです。",
+          "vietnamese": "Voi có cái mũi dài."
+        },
+        {
+          "japanese": "大阪は 食べ物が おいしいです。",
+          "vietnamese": "Đồ ăn Osaka ngon."
+        }
+      ]
+    }
+  ],
+  "kanji": [
+    {
+      "kanjiId": 1601,
+      "lessonId": 16,
+      "character": "体",
+      "onyomi": "タイ",
+      "kunyomi": "からだ",
+      "meaning": "Cơ thể",
+      "strokeCount": 7
+    },
+    {
+      "kanjiId": 1602,
+      "lessonId": 16,
+      "character": "目",
+      "onyomi": "モク",
+      "kunyomi": "め",
+      "meaning": "Mắt",
+      "strokeCount": 5
+    },
+    {
+      "kanjiId": 1603,
+      "lessonId": 16,
+      "character": "耳",
+      "onyomi": "ジ",
+      "kunyomi": "みみ",
+      "meaning": "Tai",
+      "strokeCount": 6
+    },
+    {
+      "kanjiId": 1604,
+      "lessonId": 16,
+      "character": "口",
+      "onyomi": "コウ",
+      "kunyomi": "くち",
+      "meaning": "Miệng",
+      "strokeCount": 3
+    },
+    {
+      "kanjiId": 1605,
+      "lessonId": 16,
+      "character": "長",
+      "onyomi": "チョウ",
+      "kunyomi": "なが.い",
+      "meaning": "Dài",
+      "strokeCount": 8
+    },
+    {
+      "kanjiId": 1606,
+      "lessonId": 16,
+      "character": "短",
+      "onyomi": "タン",
+      "kunyomi": "みじか.い",
+      "meaning": "Ngắn",
+      "strokeCount": 12
+    },
+    {
+      "kanjiId": 1607,
+      "lessonId": 16,
+      "character": "白",
+      "onyomi": "ハク",
+      "kunyomi": "しろ.い",
+      "meaning": "Trắng",
+      "strokeCount": 5
+    },
+    {
+      "kanjiId": 1608,
+      "lessonId": 16,
+      "character": "黒",
+      "onyomi": "コク",
+      "kunyomi": "くろ.い",
+      "meaning": "Đen",
+      "strokeCount": 11
+    }
+  ]
+}

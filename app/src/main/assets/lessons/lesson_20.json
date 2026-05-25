@@ -1,0 +1,431 @@
+{
+  "lesson": {
+    "id": 20,
+    "title": "普通形",
+    "description": "Thể thường (plain form) – hội thoại thân mật, ngôn ngữ viết"
+  },
+  "vocabulary": [
+    {
+      "wordId": 2001,
+      "lessonId": 20,
+      "kanji": "要ります",
+      "furigana": "いります",
+      "romaji": "irimasu",
+      "meaning": "Cần",
+      "type": "verb"
+    },
+    {
+      "wordId": 2002,
+      "lessonId": 20,
+      "kanji": "調べます",
+      "furigana": "しらべます",
+      "romaji": "shirabemasu",
+      "meaning": "Tra cứu, kiểm tra",
+      "type": "verb"
+    },
+    {
+      "wordId": 2003,
+      "lessonId": 20,
+      "kanji": "直します",
+      "furigana": "なおします",
+      "romaji": "naoshimasu",
+      "meaning": "Sửa chữa",
+      "type": "verb"
+    },
+    {
+      "wordId": 2004,
+      "lessonId": 20,
+      "kanji": "修理します",
+      "furigana": "しゅうりします",
+      "romaji": "shuuri shimasu",
+      "meaning": "Sửa chữa",
+      "type": "verb"
+    },
+    {
+      "wordId": 2005,
+      "lessonId": 20,
+      "kanji": "故障",
+      "furigana": "こしょう",
+      "romaji": "koshou",
+      "meaning": "Hỏng, trục trặc",
+      "type": "noun"
+    },
+    {
+      "wordId": 2006,
+      "lessonId": 20,
+      "kanji": "君",
+      "furigana": "きみ",
+      "romaji": "kimi",
+      "meaning": "Cậu (thân mật)",
+      "type": "pronoun"
+    },
+    {
+      "wordId": 2007,
+      "lessonId": 20,
+      "kanji": "僕",
+      "furigana": "ぼく",
+      "romaji": "boku",
+      "meaning": "Tôi (nam, thân mật)",
+      "type": "pronoun"
+    },
+    {
+      "wordId": 2008,
+      "lessonId": 20,
+      "kanji": "",
+      "furigana": "うん",
+      "romaji": "un",
+      "meaning": "Ừ (thân mật)",
+      "type": "expression"
+    },
+    {
+      "wordId": 2009,
+      "lessonId": 20,
+      "kanji": "",
+      "furigana": "ううん",
+      "romaji": "uun",
+      "meaning": "Không (thân mật)",
+      "type": "expression"
+    },
+    {
+      "wordId": 2010,
+      "lessonId": 20,
+      "kanji": "",
+      "furigana": "すごい",
+      "romaji": "sugoi",
+      "meaning": "Tuyệt vời",
+      "type": "i-adj"
+    },
+    {
+      "wordId": 2011,
+      "lessonId": 20,
+      "kanji": "忙しい",
+      "furigana": "いそがしい",
+      "romaji": "isogashii",
+      "meaning": "Bận rộn",
+      "type": "i-adj"
+    },
+    {
+      "wordId": 2012,
+      "lessonId": 20,
+      "kanji": "楽しい",
+      "furigana": "たのしい",
+      "romaji": "tanoshii",
+      "meaning": "Vui",
+      "type": "i-adj"
+    },
+    {
+      "wordId": 2013,
+      "lessonId": 20,
+      "kanji": "",
+      "furigana": "つまらない",
+      "romaji": "tsumaranai",
+      "meaning": "Chán",
+      "type": "i-adj"
+    },
+    {
+      "wordId": 2014,
+      "lessonId": 20,
+      "kanji": "便利",
+      "furigana": "べんり（な）",
+      "romaji": "benri (na)",
+      "meaning": "Tiện lợi",
+      "type": "na-adj"
+    },
+    {
+      "wordId": 2015,
+      "lessonId": 20,
+      "kanji": "不便",
+      "furigana": "ふべん（な）",
+      "romaji": "fuben (na)",
+      "meaning": "Bất tiện",
+      "type": "na-adj"
+    },
+    {
+      "wordId": 2016,
+      "lessonId": 20,
+      "kanji": "暇",
+      "furigana": "ひま（な）",
+      "romaji": "hima (na)",
+      "meaning": "Rảnh rỗi",
+      "type": "na-adj"
+    },
+    {
+      "wordId": 2017,
+      "lessonId": 20,
+      "kanji": "授業",
+      "furigana": "じゅぎょう",
+      "romaji": "jugyou",
+      "meaning": "Tiết học",
+      "type": "noun"
+    },
+    {
+      "wordId": 2018,
+      "lessonId": 20,
+      "kanji": "会議",
+      "furigana": "かいぎ",
+      "romaji": "kaigi",
+      "meaning": "Cuộc họp",
+      "type": "noun"
+    },
+    {
+      "wordId": 2019,
+      "lessonId": 20,
+      "kanji": "用事",
+      "furigana": "ようじ",
+      "romaji": "youji",
+      "meaning": "Việc cần làm",
+      "type": "noun"
+    },
+    {
+      "wordId": 2020,
+      "lessonId": 20,
+      "kanji": "夏休み",
+      "furigana": "なつやすみ",
+      "romaji": "natsuyasumi",
+      "meaning": "Kỳ nghỉ hè",
+      "type": "noun"
+    },
+    {
+      "wordId": 2021,
+      "lessonId": 20,
+      "kanji": "冬休み",
+      "furigana": "ふゆやすみ",
+      "romaji": "fuyuyasumi",
+      "meaning": "Kỳ nghỉ đông",
+      "type": "noun"
+    },
+    {
+      "wordId": 2022,
+      "lessonId": 20,
+      "kanji": "国へ帰ります",
+      "furigana": "くにへかえります",
+      "romaji": "kuni e kaerimasu",
+      "meaning": "Về nước",
+      "type": "verb-phrase"
+    },
+    {
+      "wordId": 2023,
+      "lessonId": 20,
+      "kanji": "ばら",
+      "furigana": "ばら",
+      "romaji": "bara",
+      "meaning": "Hoa hồng",
+      "type": "noun"
+    },
+    {
+      "wordId": 2024,
+      "lessonId": 20,
+      "kanji": "言葉",
+      "furigana": "ことば",
+      "romaji": "kotoba",
+      "meaning": "Từ, ngôn ngữ",
+      "type": "noun"
+    },
+    {
+      "wordId": 2025,
+      "lessonId": 20,
+      "kanji": "デザイン",
+      "furigana": "デザイン",
+      "romaji": "dezain",
+      "meaning": "Thiết kế",
+      "type": "noun"
+    },
+    {
+      "wordId": 2026,
+      "lessonId": 20,
+      "kanji": "終電",
+      "furigana": "しゅうでん",
+      "romaji": "shuuden",
+      "meaning": "Chuyến tàu cuối",
+      "type": "noun"
+    },
+    {
+      "wordId": 2027,
+      "lessonId": 20,
+      "kanji": "本当",
+      "furigana": "ほんとう",
+      "romaji": "hontou",
+      "meaning": "Thật",
+      "type": "noun"
+    },
+    {
+      "wordId": 2028,
+      "lessonId": 20,
+      "kanji": "彼",
+      "furigana": "かれ",
+      "romaji": "kare",
+      "meaning": "Anh ấy",
+      "type": "pronoun"
+    },
+    {
+      "wordId": 2029,
+      "lessonId": 20,
+      "kanji": "彼女",
+      "furigana": "かのじょ",
+      "romaji": "kanojo",
+      "meaning": "Cô ấy",
+      "type": "pronoun"
+    },
+    {
+      "wordId": 2030,
+      "lessonId": 20,
+      "kanji": "みんな",
+      "furigana": "みんな",
+      "romaji": "minna",
+      "meaning": "Tất cả",
+      "type": "noun"
+    }
+  ],
+  "grammar": [
+    {
+      "grammarId": 2001,
+      "lessonId": 20,
+      "title": "Thể thường (普通形)",
+      "structure": "V/い-adj/な-adj/N → thể thường",
+      "explanation": "V: 行く/行かない/行った/行かなかった. い-adj: 高い/高くない/高かった/高くなかった. な-adj: 静かだ/静かじゃない. N: 学生だ/学生じゃない.",
+      "examples": [
+        {
+          "japanese": "行きます → 行く",
+          "vietnamese": "ikimasu → iku"
+        },
+        {
+          "japanese": "高いです → 高い",
+          "vietnamese": "takai desu → takai"
+        },
+        {
+          "japanese": "学生です → 学生だ",
+          "vietnamese": "gakusei desu → gakusei da"
+        }
+      ]
+    },
+    {
+      "grammarId": 2002,
+      "lessonId": 20,
+      "title": "Hội thoại thân mật (普通体)",
+      "structure": "Câu thân mật bỏ です/ます, thay bằng thể thường",
+      "explanation": "Dùng trong gia đình, bạn bè cùng tuổi/dưới mình. Câu hỏi thường bỏ か, lên giọng cuối câu.",
+      "examples": [
+        {
+          "japanese": "明日 来る？",
+          "vietnamese": "Ngày mai đến không?"
+        },
+        {
+          "japanese": "うん、行く。",
+          "vietnamese": "Ừ, đi."
+        },
+        {
+          "japanese": "ううん、行かない。",
+          "vietnamese": "Không, không đi."
+        }
+      ]
+    },
+    {
+      "grammarId": 2003,
+      "lessonId": 20,
+      "title": "Phân biệt は và が",
+      "structure": "N が adj です / N は adj です",
+      "explanation": "が dùng khi giới thiệu thông tin mới, trả lời câu hỏi 'cái nào'. は dùng khi nói về chủ đề đã biết.",
+      "examples": [
+        {
+          "japanese": "どれが ミラーさんの 傘ですか。 …これです。",
+          "vietnamese": "Cái nào là ô của anh Miller? – Cái này."
+        },
+        {
+          "japanese": "ミラーさんの 傘は どれですか。",
+          "vietnamese": "Ô của anh Miller là cái nào?"
+        }
+      ]
+    },
+    {
+      "grammarId": 2004,
+      "lessonId": 20,
+      "title": "わたしは ～が ある／いる",
+      "structure": "Câu thân mật của V て います, あります, います",
+      "explanation": "Dùng để hỏi/đáp về việc sở hữu, sự kiện trong câu hội thoại thân mật.",
+      "examples": [
+        {
+          "japanese": "車 ある？",
+          "vietnamese": "Có ô tô không?"
+        },
+        {
+          "japanese": "子供 いる？",
+          "vietnamese": "Có con không?"
+        }
+      ]
+    }
+  ],
+  "kanji": [
+    {
+      "kanjiId": 2001,
+      "lessonId": 20,
+      "character": "忙",
+      "onyomi": "ボウ",
+      "kunyomi": "いそが.しい",
+      "meaning": "Bận rộn",
+      "strokeCount": 6
+    },
+    {
+      "kanjiId": 2002,
+      "lessonId": 20,
+      "character": "便",
+      "onyomi": "ベン",
+      "kunyomi": "たよ.り",
+      "meaning": "Tiện, thư",
+      "strokeCount": 9
+    },
+    {
+      "kanjiId": 2003,
+      "lessonId": 20,
+      "character": "利",
+      "onyomi": "リ",
+      "kunyomi": "き.く",
+      "meaning": "Lợi",
+      "strokeCount": 7
+    },
+    {
+      "kanjiId": 2004,
+      "lessonId": 20,
+      "character": "暇",
+      "onyomi": "カ",
+      "kunyomi": "ひま",
+      "meaning": "Rảnh",
+      "strokeCount": 13
+    },
+    {
+      "kanjiId": 2005,
+      "lessonId": 20,
+      "character": "会",
+      "onyomi": "カイ",
+      "kunyomi": "あ.う",
+      "meaning": "Hội, gặp",
+      "strokeCount": 6
+    },
+    {
+      "kanjiId": 2006,
+      "lessonId": 20,
+      "character": "議",
+      "onyomi": "ギ",
+      "kunyomi": "",
+      "meaning": "Nghị, bàn bạc",
+      "strokeCount": 20
+    },
+    {
+      "kanjiId": 2007,
+      "lessonId": 20,
+      "character": "用",
+      "onyomi": "ヨウ",
+      "kunyomi": "もち.いる",
+      "meaning": "Việc, dùng",
+      "strokeCount": 5
+    },
+    {
+      "kanjiId": 2008,
+      "lessonId": 20,
+      "character": "事",
+      "onyomi": "ジ",
+      "kunyomi": "こと",
+      "meaning": "Việc, sự",
+      "strokeCount": 8
+    }
+  ]
+}

@@ -1,0 +1,427 @@
+{
+  "lesson": {
+    "id": 23,
+    "title": "～とき・と (Khi/Hễ là)",
+    "description": "Diễn đạt thời điểm, điều kiện tất nhiên, chỉ đường"
+  },
+  "vocabulary": [
+    {
+      "wordId": 2301,
+      "lessonId": 23,
+      "kanji": "聞きます",
+      "furigana": "ききます",
+      "romaji": "kikimasu",
+      "meaning": "Hỏi",
+      "type": "verb"
+    },
+    {
+      "wordId": 2302,
+      "lessonId": 23,
+      "kanji": "回します",
+      "furigana": "まわします",
+      "romaji": "mawashimasu",
+      "meaning": "Vặn, xoay",
+      "type": "verb"
+    },
+    {
+      "wordId": 2303,
+      "lessonId": 23,
+      "kanji": "引きます",
+      "furigana": "ひきます",
+      "romaji": "hikimasu",
+      "meaning": "Kéo",
+      "type": "verb"
+    },
+    {
+      "wordId": 2304,
+      "lessonId": 23,
+      "kanji": "押します",
+      "furigana": "おします",
+      "romaji": "oshimasu",
+      "meaning": "Đẩy, nhấn",
+      "type": "verb"
+    },
+    {
+      "wordId": 2305,
+      "lessonId": 23,
+      "kanji": "変えます",
+      "furigana": "かえます",
+      "romaji": "kaemasu",
+      "meaning": "Thay đổi",
+      "type": "verb"
+    },
+    {
+      "wordId": 2306,
+      "lessonId": 23,
+      "kanji": "触ります",
+      "furigana": "さわります",
+      "romaji": "sawarimasu",
+      "meaning": "Chạm vào",
+      "type": "verb"
+    },
+    {
+      "wordId": 2307,
+      "lessonId": 23,
+      "kanji": "出ます",
+      "furigana": "でます",
+      "romaji": "demasu",
+      "meaning": "Ra, đi ra",
+      "type": "verb"
+    },
+    {
+      "wordId": 2308,
+      "lessonId": 23,
+      "kanji": "動きます",
+      "furigana": "うごきます",
+      "romaji": "ugokimasu",
+      "meaning": "Chuyển động, hoạt động",
+      "type": "verb"
+    },
+    {
+      "wordId": 2309,
+      "lessonId": 23,
+      "kanji": "歩きます",
+      "furigana": "あるきます",
+      "romaji": "arukimasu",
+      "meaning": "Đi bộ",
+      "type": "verb"
+    },
+    {
+      "wordId": 2310,
+      "lessonId": 23,
+      "kanji": "渡ります",
+      "furigana": "わたります",
+      "romaji": "watarimasu",
+      "meaning": "Băng qua",
+      "type": "verb"
+    },
+    {
+      "wordId": 2311,
+      "lessonId": 23,
+      "kanji": "曲がります",
+      "furigana": "まがります",
+      "romaji": "magarimasu",
+      "meaning": "Rẽ",
+      "type": "verb"
+    },
+    {
+      "wordId": 2312,
+      "lessonId": 23,
+      "kanji": "気を付けます",
+      "furigana": "きをつけます",
+      "romaji": "ki o tsukemasu",
+      "meaning": "Chú ý, cẩn thận",
+      "type": "verb"
+    },
+    {
+      "wordId": 2313,
+      "lessonId": 23,
+      "kanji": "引っ越しします",
+      "furigana": "ひっこしします",
+      "romaji": "hikkoshi shimasu",
+      "meaning": "Chuyển nhà",
+      "type": "verb"
+    },
+    {
+      "wordId": 2314,
+      "lessonId": 23,
+      "kanji": "電気屋",
+      "furigana": "でんきや",
+      "romaji": "denkiya",
+      "meaning": "Cửa hàng đồ điện",
+      "type": "noun"
+    },
+    {
+      "wordId": 2315,
+      "lessonId": 23,
+      "kanji": "道",
+      "furigana": "みち",
+      "romaji": "michi",
+      "meaning": "Đường",
+      "type": "noun"
+    },
+    {
+      "wordId": 2316,
+      "lessonId": 23,
+      "kanji": "交差点",
+      "furigana": "こうさてん",
+      "romaji": "kousaten",
+      "meaning": "Ngã tư",
+      "type": "noun"
+    },
+    {
+      "wordId": 2317,
+      "lessonId": 23,
+      "kanji": "信号",
+      "furigana": "しんごう",
+      "romaji": "shingou",
+      "meaning": "Đèn giao thông",
+      "type": "noun"
+    },
+    {
+      "wordId": 2318,
+      "lessonId": 23,
+      "kanji": "角",
+      "furigana": "かど",
+      "romaji": "kado",
+      "meaning": "Góc",
+      "type": "noun"
+    },
+    {
+      "wordId": 2319,
+      "lessonId": 23,
+      "kanji": "橋",
+      "furigana": "はし",
+      "romaji": "hashi",
+      "meaning": "Cầu",
+      "type": "noun"
+    },
+    {
+      "wordId": 2320,
+      "lessonId": 23,
+      "kanji": "ボタン",
+      "furigana": "ボタン",
+      "romaji": "botan",
+      "meaning": "Nút bấm",
+      "type": "noun"
+    },
+    {
+      "wordId": 2321,
+      "lessonId": 23,
+      "kanji": "ハンドル",
+      "furigana": "ハンドル",
+      "romaji": "handoru",
+      "meaning": "Tay lái",
+      "type": "noun"
+    },
+    {
+      "wordId": 2322,
+      "lessonId": 23,
+      "kanji": "サイズ",
+      "furigana": "サイズ",
+      "romaji": "saizu",
+      "meaning": "Kích thước",
+      "type": "noun"
+    },
+    {
+      "wordId": 2323,
+      "lessonId": 23,
+      "kanji": "音",
+      "furigana": "おと",
+      "romaji": "oto",
+      "meaning": "Âm thanh",
+      "type": "noun"
+    },
+    {
+      "wordId": 2324,
+      "lessonId": 23,
+      "kanji": "機械",
+      "furigana": "きかい",
+      "romaji": "kikai",
+      "meaning": "Máy móc",
+      "type": "noun"
+    },
+    {
+      "wordId": 2325,
+      "lessonId": 23,
+      "kanji": "車",
+      "furigana": "くるま",
+      "romaji": "kuruma",
+      "meaning": "Ô tô",
+      "type": "noun"
+    },
+    {
+      "wordId": 2326,
+      "lessonId": 23,
+      "kanji": "真っ直ぐ",
+      "furigana": "まっすぐ",
+      "romaji": "massugu",
+      "meaning": "Thẳng",
+      "type": "adverb"
+    },
+    {
+      "wordId": 2327,
+      "lessonId": 23,
+      "kanji": "後で",
+      "furigana": "あとで",
+      "romaji": "ato de",
+      "meaning": "Sau đó",
+      "type": "adverb"
+    },
+    {
+      "wordId": 2328,
+      "lessonId": 23,
+      "kanji": "夜中",
+      "furigana": "よなか",
+      "romaji": "yonaka",
+      "meaning": "Nửa đêm",
+      "type": "noun"
+    },
+    {
+      "wordId": 2329,
+      "lessonId": 23,
+      "kanji": "通り",
+      "furigana": "とおり",
+      "romaji": "toori",
+      "meaning": "Đường lớn",
+      "type": "noun"
+    },
+    {
+      "wordId": 2330,
+      "lessonId": 23,
+      "kanji": "あれ",
+      "furigana": "あれ",
+      "romaji": "are",
+      "meaning": "Ơ! / Ô! (ngạc nhiên)",
+      "type": "interjection"
+    }
+  ],
+  "grammar": [
+    {
+      "grammarId": 2301,
+      "lessonId": 23,
+      "title": "V/A/N(普通形) とき、～",
+      "structure": "V(辞書形/ない形/た形) とき、～ | い-adj い とき、～ | な-adj な とき、～ | N の とき、～",
+      "explanation": "Diễn đạt thời điểm xảy ra hành động hay trạng thái. Khi ~ thì ~.",
+      "examples": [
+        {
+          "japanese": "図書館で 本を 借りる とき、カードが 要ります。",
+          "vietnamese": "Khi mượn sách ở thư viện thì cần thẻ."
+        },
+        {
+          "japanese": "子供の とき、よく 川で 泳ぎました。",
+          "vietnamese": "Khi còn nhỏ tôi thường bơi ở sông."
+        },
+        {
+          "japanese": "元気な とき、よく 散歩します。",
+          "vietnamese": "Khi khoẻ tôi thường đi dạo."
+        }
+      ]
+    },
+    {
+      "grammarId": 2302,
+      "lessonId": 23,
+      "title": "V(辞書形) と、～",
+      "structure": "V(辞書形) と、～",
+      "explanation": "Diễn đạt điều kiện tất yếu, máy móc, chỉ đường. Hễ làm V1 thì (chắc chắn) ~ xảy ra. Câu sau không dùng ý chí, mời rủ.",
+      "examples": [
+        {
+          "japanese": "この ボタンを 押すと、お釣りが 出ます。",
+          "vietnamese": "Hễ nhấn nút này thì tiền thừa sẽ ra."
+        },
+        {
+          "japanese": "右へ 曲がると、郵便局が あります。",
+          "vietnamese": "Hễ rẽ phải thì sẽ có bưu điện."
+        }
+      ]
+    },
+    {
+      "grammarId": 2303,
+      "lessonId": 23,
+      "title": "Chỉ đường",
+      "structure": "～を 通って、～を 渡って、～を 曲がります",
+      "explanation": "Các động từ thường dùng khi chỉ đường: 通る (đi qua), 渡る (băng qua), 曲がる (rẽ). Đối tượng N dùng を.",
+      "examples": [
+        {
+          "japanese": "橋を 渡って ください。",
+          "vietnamese": "Hãy băng qua cầu."
+        },
+        {
+          "japanese": "信号を 右へ 曲がって ください。",
+          "vietnamese": "Hãy rẽ phải ở đèn giao thông."
+        }
+      ]
+    },
+    {
+      "grammarId": 2304,
+      "lessonId": 23,
+      "title": "N が adj/V (Trạng thái mới)",
+      "structure": "N が adj / N が V て います",
+      "explanation": "Mô tả trạng thái hiện hữu. が dùng để giới thiệu thông tin mới (chủ thể).",
+      "examples": [
+        {
+          "japanese": "頭が 痛いです。",
+          "vietnamese": "Tôi đau đầu."
+        },
+        {
+          "japanese": "子供が 病気です。",
+          "vietnamese": "Con tôi đang bị bệnh."
+        }
+      ]
+    }
+  ],
+  "kanji": [
+    {
+      "kanjiId": 2301,
+      "lessonId": 23,
+      "character": "引",
+      "onyomi": "イン",
+      "kunyomi": "ひ.く",
+      "meaning": "Kéo",
+      "strokeCount": 4
+    },
+    {
+      "kanjiId": 2302,
+      "lessonId": 23,
+      "character": "動",
+      "onyomi": "ドウ",
+      "kunyomi": "うご.く",
+      "meaning": "Động, chuyển động",
+      "strokeCount": 11
+    },
+    {
+      "kanjiId": 2303,
+      "lessonId": 23,
+      "character": "歩",
+      "onyomi": "ホ",
+      "kunyomi": "ある.く",
+      "meaning": "Đi bộ",
+      "strokeCount": 8
+    },
+    {
+      "kanjiId": 2304,
+      "lessonId": 23,
+      "character": "交",
+      "onyomi": "コウ",
+      "kunyomi": "まじ.わる",
+      "meaning": "Giao nhau",
+      "strokeCount": 6
+    },
+    {
+      "kanjiId": 2305,
+      "lessonId": 23,
+      "character": "道",
+      "onyomi": "ドウ",
+      "kunyomi": "みち",
+      "meaning": "Đường",
+      "strokeCount": 12
+    },
+    {
+      "kanjiId": 2306,
+      "lessonId": 23,
+      "character": "信",
+      "onyomi": "シン",
+      "kunyomi": "",
+      "meaning": "Tin, tín hiệu",
+      "strokeCount": 9
+    },
+    {
+      "kanjiId": 2307,
+      "lessonId": 23,
+      "character": "号",
+      "onyomi": "ゴウ",
+      "kunyomi": "",
+      "meaning": "Hiệu, số",
+      "strokeCount": 5
+    },
+    {
+      "kanjiId": 2308,
+      "lessonId": 23,
+      "character": "曲",
+      "onyomi": "キョク",
+      "kunyomi": "ま.がる",
+      "meaning": "Cong, bài hát",
+      "strokeCount": 6
+    }
+  ]
+}

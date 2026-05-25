@@ -1,0 +1,306 @@
+{
+  "hours": [
+    {
+      "value": 1,
+      "reading": "いちじ",
+      "isException": false
+    },
+    {
+      "value": 2,
+      "reading": "にじ",
+      "isException": false
+    },
+    {
+      "value": 3,
+      "reading": "さんじ",
+      "isException": false
+    },
+    {
+      "value": 4,
+      "reading": "よじ",
+      "isException": true
+    },
+    {
+      "value": 5,
+      "reading": "ごじ",
+      "isException": false
+    },
+    {
+      "value": 6,
+      "reading": "ろくじ",
+      "isException": false
+    },
+    {
+      "value": 7,
+      "reading": "しちじ",
+      "isException": true
+    },
+    {
+      "value": 8,
+      "reading": "はちじ",
+      "isException": false
+    },
+    {
+      "value": 9,
+      "reading": "くじ",
+      "isException": true
+    },
+    {
+      "value": 10,
+      "reading": "じゅうじ",
+      "isException": false
+    },
+    {
+      "value": 11,
+      "reading": "11じ",
+      "isException": false
+    },
+    {
+      "value": 12,
+      "reading": "12じ",
+      "isException": false
+    }
+  ],
+  "minutes": [
+    {
+      "value": 1,
+      "isException": true
+    },
+    {
+      "value": 2,
+      "isException": false
+    },
+    {
+      "value": 3,
+      "isException": true
+    },
+    {
+      "value": 4,
+      "isException": true
+    },
+    {
+      "value": 5,
+      "isException": false
+    },
+    {
+      "value": 6,
+      "isException": true
+    },
+    {
+      "value": 7,
+      "isException": false
+    },
+    {
+      "value": 8,
+      "isException": true
+    },
+    {
+      "value": 9,
+      "isException": false
+    },
+    {
+      "value": 10,
+      "isException": true
+    },
+    {
+      "value": 11,
+      "isException": true
+    },
+    {
+      "value": 12,
+      "isException": false
+    },
+    {
+      "value": 13,
+      "isException": true
+    },
+    {
+      "value": 14,
+      "isException": true
+    },
+    {
+      "value": 15,
+      "isException": false
+    },
+    {
+      "value": 16,
+      "isException": true
+    },
+    {
+      "value": 17,
+      "isException": false
+    },
+    {
+      "value": 18,
+      "isException": true
+    },
+    {
+      "value": 19,
+      "isException": false
+    },
+    {
+      "value": 20,
+      "isException": true
+    },
+    {
+      "value": 21,
+      "isException": true
+    },
+    {
+      "value": 22,
+      "isException": false
+    },
+    {
+      "value": 23,
+      "isException": true
+    },
+    {
+      "value": 24,
+      "isException": true
+    },
+    {
+      "value": 25,
+      "isException": false
+    },
+    {
+      "value": 26,
+      "isException": true
+    },
+    {
+      "value": 27,
+      "isException": false
+    },
+    {
+      "value": 28,
+      "isException": true
+    },
+    {
+      "value": 29,
+      "isException": false
+    },
+    {
+      "value": 30,
+      "isException": true
+    },
+    {
+      "value": 31,
+      "isException": true
+    },
+    {
+      "value": 32,
+      "isException": false
+    },
+    {
+      "value": 33,
+      "isException": true
+    },
+    {
+      "value": 34,
+      "isException": true
+    },
+    {
+      "value": 35,
+      "isException": false
+    },
+    {
+      "value": 36,
+      "isException": true
+    },
+    {
+      "value": 37,
+      "isException": false
+    },
+    {
+      "value": 38,
+      "isException": true
+    },
+    {
+      "value": 39,
+      "isException": false
+    },
+    {
+      "value": 40,
+      "isException": true
+    },
+    {
+      "value": 41,
+      "isException": true
+    },
+    {
+      "value": 42,
+      "isException": false
+    },
+    {
+      "value": 43,
+      "isException": true
+    },
+    {
+      "value": 44,
+      "isException": true
+    },
+    {
+      "value": 45,
+      "isException": false
+    },
+    {
+      "value": 46,
+      "isException": true
+    },
+    {
+      "value": 47,
+      "isException": false
+    },
+    {
+      "value": 48,
+      "isException": true
+    },
+    {
+      "value": 49,
+      "isException": false
+    },
+    {
+      "value": 50,
+      "isException": true
+    },
+    {
+      "value": 51,
+      "isException": true
+    },
+    {
+      "value": 52,
+      "isException": false
+    },
+    {
+      "value": 53,
+      "isException": true
+    },
+    {
+      "value": 54,
+      "isException": true
+    },
+    {
+      "value": 55,
+      "isException": false
+    },
+    {
+      "value": 56,
+      "isException": true
+    },
+    {
+      "value": 57,
+      "isException": false
+    },
+    {
+      "value": 58,
+      "isException": true
+    },
+    {
+      "value": 59,
+      "isException": false
+    },
+    {
+      "value": 60,
+      "isException": true
+    }
+  ]
+}

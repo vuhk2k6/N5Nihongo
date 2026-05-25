@@ -1,0 +1,427 @@
+{
+  "lesson": {
+    "id": 21,
+    "title": "～と思います・～と言います",
+    "description": "Ý kiến, suy nghĩ, trích dẫn lời nói, xác nhận"
+  },
+  "vocabulary": [
+    {
+      "wordId": 2101,
+      "lessonId": 21,
+      "kanji": "思います",
+      "furigana": "おもいます",
+      "romaji": "omoimasu",
+      "meaning": "Nghĩ",
+      "type": "verb"
+    },
+    {
+      "wordId": 2102,
+      "lessonId": 21,
+      "kanji": "言います",
+      "furigana": "いいます",
+      "romaji": "iimasu",
+      "meaning": "Nói",
+      "type": "verb"
+    },
+    {
+      "wordId": 2103,
+      "lessonId": 21,
+      "kanji": "勝ちます",
+      "furigana": "かちます",
+      "romaji": "kachimasu",
+      "meaning": "Thắng",
+      "type": "verb"
+    },
+    {
+      "wordId": 2104,
+      "lessonId": 21,
+      "kanji": "負けます",
+      "furigana": "まけます",
+      "romaji": "makemasu",
+      "meaning": "Thua",
+      "type": "verb"
+    },
+    {
+      "wordId": 2105,
+      "lessonId": 21,
+      "kanji": "あります",
+      "furigana": "あります",
+      "romaji": "arimasu",
+      "meaning": "Tổ chức (sự kiện)",
+      "type": "verb"
+    },
+    {
+      "wordId": 2106,
+      "lessonId": 21,
+      "kanji": "役に立ちます",
+      "furigana": "やくにたちます",
+      "romaji": "yaku ni tachimasu",
+      "meaning": "Hữu ích",
+      "type": "verb"
+    },
+    {
+      "wordId": 2107,
+      "lessonId": 21,
+      "kanji": "止めます",
+      "furigana": "やめます",
+      "romaji": "yamemasu",
+      "meaning": "Bỏ, ngưng",
+      "type": "verb"
+    },
+    {
+      "wordId": 2108,
+      "lessonId": 21,
+      "kanji": "気を つけます",
+      "furigana": "きをつけます",
+      "romaji": "ki o tsukemasu",
+      "meaning": "Chú ý",
+      "type": "verb"
+    },
+    {
+      "wordId": 2109,
+      "lessonId": 21,
+      "kanji": "竜宮",
+      "furigana": "りゅうぐう",
+      "romaji": "ryuuguu",
+      "meaning": "Long cung",
+      "type": "noun"
+    },
+    {
+      "wordId": 2110,
+      "lessonId": 21,
+      "kanji": "将来",
+      "furigana": "しょうらい",
+      "romaji": "shourai",
+      "meaning": "Tương lai",
+      "type": "noun"
+    },
+    {
+      "wordId": 2111,
+      "lessonId": 21,
+      "kanji": "夢",
+      "furigana": "ゆめ",
+      "romaji": "yume",
+      "meaning": "Giấc mơ",
+      "type": "noun"
+    },
+    {
+      "wordId": 2112,
+      "lessonId": 21,
+      "kanji": "政治",
+      "furigana": "せいじ",
+      "romaji": "seiji",
+      "meaning": "Chính trị",
+      "type": "noun"
+    },
+    {
+      "wordId": 2113,
+      "lessonId": 21,
+      "kanji": "社会",
+      "furigana": "しゃかい",
+      "romaji": "shakai",
+      "meaning": "Xã hội",
+      "type": "noun"
+    },
+    {
+      "wordId": 2114,
+      "lessonId": 21,
+      "kanji": "意見",
+      "furigana": "いけん",
+      "romaji": "iken",
+      "meaning": "Ý kiến",
+      "type": "noun"
+    },
+    {
+      "wordId": 2115,
+      "lessonId": 21,
+      "kanji": "ニュース",
+      "furigana": "ニュース",
+      "romaji": "nyuusu",
+      "meaning": "Tin tức",
+      "type": "noun"
+    },
+    {
+      "wordId": 2116,
+      "lessonId": 21,
+      "kanji": "スピーチ",
+      "furigana": "スピーチ",
+      "romaji": "supiichi",
+      "meaning": "Bài phát biểu",
+      "type": "noun"
+    },
+    {
+      "wordId": 2117,
+      "lessonId": 21,
+      "kanji": "試合",
+      "furigana": "しあい",
+      "romaji": "shiai",
+      "meaning": "Trận đấu",
+      "type": "noun"
+    },
+    {
+      "wordId": 2118,
+      "lessonId": 21,
+      "kanji": "宗教",
+      "furigana": "しゅうきょう",
+      "romaji": "shuukyou",
+      "meaning": "Tôn giáo",
+      "type": "noun"
+    },
+    {
+      "wordId": 2119,
+      "lessonId": 21,
+      "kanji": "正しい",
+      "furigana": "ただしい",
+      "romaji": "tadashii",
+      "meaning": "Đúng",
+      "type": "i-adj"
+    },
+    {
+      "wordId": 2120,
+      "lessonId": 21,
+      "kanji": "間違い",
+      "furigana": "まちがい",
+      "romaji": "machigai",
+      "meaning": "Sai lầm",
+      "type": "noun"
+    },
+    {
+      "wordId": 2121,
+      "lessonId": 21,
+      "kanji": "必要",
+      "furigana": "ひつよう（な）",
+      "romaji": "hitsuyou (na)",
+      "meaning": "Cần thiết",
+      "type": "na-adj"
+    },
+    {
+      "wordId": 2122,
+      "lessonId": 21,
+      "kanji": "無理",
+      "furigana": "むり（な）",
+      "romaji": "muri (na)",
+      "meaning": "Không thể, quá sức",
+      "type": "na-adj"
+    },
+    {
+      "wordId": 2123,
+      "lessonId": 21,
+      "kanji": "本当に",
+      "furigana": "ほんとうに",
+      "romaji": "hontou ni",
+      "meaning": "Thật sự",
+      "type": "adverb"
+    },
+    {
+      "wordId": 2124,
+      "lessonId": 21,
+      "kanji": "確かに",
+      "furigana": "たしかに",
+      "romaji": "tashika ni",
+      "meaning": "Chắc chắn",
+      "type": "adverb"
+    },
+    {
+      "wordId": 2125,
+      "lessonId": 21,
+      "kanji": "大変",
+      "furigana": "たいへん（な）",
+      "romaji": "taihen (na)",
+      "meaning": "Vất vả",
+      "type": "na-adj"
+    },
+    {
+      "wordId": 2126,
+      "lessonId": 21,
+      "kanji": "私たち",
+      "furigana": "わたしたち",
+      "romaji": "watashitachi",
+      "meaning": "Chúng tôi",
+      "type": "pronoun"
+    },
+    {
+      "wordId": 2127,
+      "lessonId": 21,
+      "kanji": "アイデア",
+      "furigana": "アイデア",
+      "romaji": "aidea",
+      "meaning": "Ý tưởng",
+      "type": "noun"
+    },
+    {
+      "wordId": 2128,
+      "lessonId": 21,
+      "kanji": "どこも",
+      "furigana": "どこも",
+      "romaji": "doko mo",
+      "meaning": "Đâu cũng",
+      "type": "adverb"
+    },
+    {
+      "wordId": 2129,
+      "lessonId": 21,
+      "kanji": "誰も",
+      "furigana": "だれも",
+      "romaji": "dare mo",
+      "meaning": "Ai cũng / không ai",
+      "type": "adverb"
+    },
+    {
+      "wordId": 2130,
+      "lessonId": 21,
+      "kanji": "何も",
+      "furigana": "なにも",
+      "romaji": "nanimo",
+      "meaning": "Gì cũng / không gì",
+      "type": "adverb"
+    }
+  ],
+  "grammar": [
+    {
+      "grammarId": 2101,
+      "lessonId": 21,
+      "title": "普通形 と 思います",
+      "structure": "普通形 + と 思います",
+      "explanation": "Diễn đạt ý kiến cá nhân. Tôi nghĩ rằng ~. Mệnh đề trước と ở thể thường.",
+      "examples": [
+        {
+          "japanese": "明日は 雨が 降ると 思います。",
+          "vietnamese": "Tôi nghĩ ngày mai sẽ mưa."
+        },
+        {
+          "japanese": "テレーザちゃんは もう 寝たと 思います。",
+          "vietnamese": "Tôi nghĩ bé Teresa đã ngủ rồi."
+        },
+        {
+          "japanese": "この映画は おもしろいと 思います。",
+          "vietnamese": "Tôi nghĩ phim này hay."
+        }
+      ]
+    },
+    {
+      "grammarId": 2102,
+      "lessonId": 21,
+      "title": "「～」と 言います / 普通形 と 言いました",
+      "structure": "「～」と 言います / 普通形 と 言いました",
+      "explanation": "Trích dẫn lời nói. Trích nguyên văn dùng dấu「」. Trích thuật lại dùng thể thường.",
+      "examples": [
+        {
+          "japanese": "ミラーさんは 「来週 京都へ 行きます」と 言いました。",
+          "vietnamese": "Anh Miller nói 'tuần sau tôi đi Kyoto'."
+        },
+        {
+          "japanese": "ミラーさんは 来週 京都へ 行くと 言いました。",
+          "vietnamese": "Anh Miller nói tuần sau anh ấy đi Kyoto."
+        }
+      ]
+    },
+    {
+      "grammarId": 2103,
+      "lessonId": 21,
+      "title": "普通形 でしょう？",
+      "structure": "普通形 でしょう？",
+      "explanation": "Xác nhận thông tin. ~ phải không? Người nói khá chắc nhưng muốn xác nhận.",
+      "examples": [
+        {
+          "japanese": "明日 パーティーに 行くでしょう？",
+          "vietnamese": "Ngày mai đi tiệc phải không?"
+        },
+        {
+          "japanese": "この 料理は おいしいでしょう？",
+          "vietnamese": "Món này ngon phải không?"
+        }
+      ]
+    },
+    {
+      "grammarId": 2104,
+      "lessonId": 21,
+      "title": "N(địa điểm) で N が あります",
+      "structure": "N で N が あります",
+      "explanation": "Biểu thị sự kiện được tổ chức ở đâu. あります ở đây nghĩa 'được tổ chức'.",
+      "examples": [
+        {
+          "japanese": "東京で オリンピックが ありました。",
+          "vietnamese": "Olympic đã được tổ chức ở Tokyo."
+        },
+        {
+          "japanese": "大阪で 国際会議が あります。",
+          "vietnamese": "Sẽ có hội nghị quốc tế ở Osaka."
+        }
+      ]
+    }
+  ],
+  "kanji": [
+    {
+      "kanjiId": 2101,
+      "lessonId": 21,
+      "character": "思",
+      "onyomi": "シ",
+      "kunyomi": "おも.う",
+      "meaning": "Nghĩ",
+      "strokeCount": 9
+    },
+    {
+      "kanjiId": 2102,
+      "lessonId": 21,
+      "character": "言",
+      "onyomi": "ゲン",
+      "kunyomi": "い.う",
+      "meaning": "Nói",
+      "strokeCount": 7
+    },
+    {
+      "kanjiId": 2103,
+      "lessonId": 21,
+      "character": "夢",
+      "onyomi": "ム",
+      "kunyomi": "ゆめ",
+      "meaning": "Giấc mơ",
+      "strokeCount": 13
+    },
+    {
+      "kanjiId": 2104,
+      "lessonId": 21,
+      "character": "正",
+      "onyomi": "セイ",
+      "kunyomi": "ただ.しい",
+      "meaning": "Đúng, chính",
+      "strokeCount": 5
+    },
+    {
+      "kanjiId": 2105,
+      "lessonId": 21,
+      "character": "勝",
+      "onyomi": "ショウ",
+      "kunyomi": "か.つ",
+      "meaning": "Thắng",
+      "strokeCount": 12
+    },
+    {
+      "kanjiId": 2106,
+      "lessonId": 21,
+      "character": "負",
+      "onyomi": "フ",
+      "kunyomi": "ま.ける",
+      "meaning": "Thua",
+      "strokeCount": 9
+    },
+    {
+      "kanjiId": 2107,
+      "lessonId": 21,
+      "character": "意",
+      "onyomi": "イ",
+      "kunyomi": "",
+      "meaning": "Ý",
+      "strokeCount": 13
+    },
+    {
+      "kanjiId": 2108,
+      "lessonId": 21,
+      "character": "見",
+      "onyomi": "ケン",
+      "kunyomi": "み.る",
+      "meaning": "Nhìn, xem",
+      "strokeCount": 7
+    }
+  ]
+}

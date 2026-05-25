@@ -1,0 +1,427 @@
+{
+  "lesson": {
+    "id": 12,
+    "title": "過去形・比較",
+    "description": "Quá khứ của tính từ, so sánh hơn và so sánh nhất"
+  },
+  "vocabulary": [
+    {
+      "wordId": 1201,
+      "lessonId": 12,
+      "kanji": "簡単",
+      "furigana": "かんたん（な）",
+      "romaji": "kantan (na)",
+      "meaning": "Đơn giản",
+      "type": "na-adj"
+    },
+    {
+      "wordId": 1202,
+      "lessonId": 12,
+      "kanji": "近い",
+      "furigana": "ちかい",
+      "romaji": "chikai",
+      "meaning": "Gần",
+      "type": "i-adj"
+    },
+    {
+      "wordId": 1203,
+      "lessonId": 12,
+      "kanji": "遠い",
+      "furigana": "とおい",
+      "romaji": "tooi",
+      "meaning": "Xa",
+      "type": "i-adj"
+    },
+    {
+      "wordId": 1204,
+      "lessonId": 12,
+      "kanji": "速い",
+      "furigana": "はやい",
+      "romaji": "hayai",
+      "meaning": "Nhanh",
+      "type": "i-adj"
+    },
+    {
+      "wordId": 1205,
+      "lessonId": 12,
+      "kanji": "早い",
+      "furigana": "はやい",
+      "romaji": "hayai",
+      "meaning": "Sớm",
+      "type": "i-adj"
+    },
+    {
+      "wordId": 1206,
+      "lessonId": 12,
+      "kanji": "遅い",
+      "furigana": "おそい",
+      "romaji": "osoi",
+      "meaning": "Chậm, trễ",
+      "type": "i-adj"
+    },
+    {
+      "wordId": 1207,
+      "lessonId": 12,
+      "kanji": "多い",
+      "furigana": "おおい",
+      "romaji": "ooi",
+      "meaning": "Nhiều",
+      "type": "i-adj"
+    },
+    {
+      "wordId": 1208,
+      "lessonId": 12,
+      "kanji": "少ない",
+      "furigana": "すくない",
+      "romaji": "sukunai",
+      "meaning": "Ít",
+      "type": "i-adj"
+    },
+    {
+      "wordId": 1209,
+      "lessonId": 12,
+      "kanji": "暖かい",
+      "furigana": "あたたかい",
+      "romaji": "atatakai",
+      "meaning": "Ấm áp",
+      "type": "i-adj"
+    },
+    {
+      "wordId": 1210,
+      "lessonId": 12,
+      "kanji": "涼しい",
+      "furigana": "すずしい",
+      "romaji": "suzushii",
+      "meaning": "Mát mẻ",
+      "type": "i-adj"
+    },
+    {
+      "wordId": 1211,
+      "lessonId": 12,
+      "kanji": "強い",
+      "furigana": "つよい",
+      "romaji": "tsuyoi",
+      "meaning": "Mạnh",
+      "type": "i-adj"
+    },
+    {
+      "wordId": 1212,
+      "lessonId": 12,
+      "kanji": "弱い",
+      "furigana": "よわい",
+      "romaji": "yowai",
+      "meaning": "Yếu",
+      "type": "i-adj"
+    },
+    {
+      "wordId": 1213,
+      "lessonId": 12,
+      "kanji": "春",
+      "furigana": "はる",
+      "romaji": "haru",
+      "meaning": "Mùa xuân",
+      "type": "noun"
+    },
+    {
+      "wordId": 1214,
+      "lessonId": 12,
+      "kanji": "夏",
+      "furigana": "なつ",
+      "romaji": "natsu",
+      "meaning": "Mùa hè",
+      "type": "noun"
+    },
+    {
+      "wordId": 1215,
+      "lessonId": 12,
+      "kanji": "秋",
+      "furigana": "あき",
+      "romaji": "aki",
+      "meaning": "Mùa thu",
+      "type": "noun"
+    },
+    {
+      "wordId": 1216,
+      "lessonId": 12,
+      "kanji": "冬",
+      "furigana": "ふゆ",
+      "romaji": "fuyu",
+      "meaning": "Mùa đông",
+      "type": "noun"
+    },
+    {
+      "wordId": 1217,
+      "lessonId": 12,
+      "kanji": "天気",
+      "furigana": "てんき",
+      "romaji": "tenki",
+      "meaning": "Thời tiết",
+      "type": "noun"
+    },
+    {
+      "wordId": 1218,
+      "lessonId": 12,
+      "kanji": "雨",
+      "furigana": "あめ",
+      "romaji": "ame",
+      "meaning": "Mưa",
+      "type": "noun"
+    },
+    {
+      "wordId": 1219,
+      "lessonId": 12,
+      "kanji": "雪",
+      "furigana": "ゆき",
+      "romaji": "yuki",
+      "meaning": "Tuyết",
+      "type": "noun"
+    },
+    {
+      "wordId": 1220,
+      "lessonId": 12,
+      "kanji": "曇り",
+      "furigana": "くもり",
+      "romaji": "kumori",
+      "meaning": "Trời mây",
+      "type": "noun"
+    },
+    {
+      "wordId": 1221,
+      "lessonId": 12,
+      "kanji": "晴れ",
+      "furigana": "はれ",
+      "romaji": "hare",
+      "meaning": "Trời nắng",
+      "type": "noun"
+    },
+    {
+      "wordId": 1222,
+      "lessonId": 12,
+      "kanji": "祭り",
+      "furigana": "まつり",
+      "romaji": "matsuri",
+      "meaning": "Lễ hội",
+      "type": "noun"
+    },
+    {
+      "wordId": 1223,
+      "lessonId": 12,
+      "kanji": "宿題",
+      "furigana": "しゅくだい",
+      "romaji": "shukudai",
+      "meaning": "Bài tập về nhà",
+      "type": "noun"
+    },
+    {
+      "wordId": 1224,
+      "lessonId": 12,
+      "kanji": "試験",
+      "furigana": "しけん",
+      "romaji": "shiken",
+      "meaning": "Bài thi",
+      "type": "noun"
+    },
+    {
+      "wordId": 1225,
+      "lessonId": 12,
+      "kanji": "",
+      "furigana": "ホテル",
+      "romaji": "hoteru",
+      "meaning": "Khách sạn",
+      "type": "noun"
+    },
+    {
+      "wordId": 1226,
+      "lessonId": 12,
+      "kanji": "",
+      "furigana": "サッカー",
+      "romaji": "sakkaa",
+      "meaning": "Bóng đá",
+      "type": "noun"
+    },
+    {
+      "wordId": 1227,
+      "lessonId": 12,
+      "kanji": "",
+      "furigana": "もっと",
+      "romaji": "motto",
+      "meaning": "Hơn nữa",
+      "type": "adverb"
+    },
+    {
+      "wordId": 1228,
+      "lessonId": 12,
+      "kanji": "一番",
+      "furigana": "いちばん",
+      "romaji": "ichiban",
+      "meaning": "Nhất",
+      "type": "adverb"
+    },
+    {
+      "wordId": 1229,
+      "lessonId": 12,
+      "kanji": "どちら",
+      "furigana": "どちら",
+      "romaji": "dochira",
+      "meaning": "Cái nào (trong hai)",
+      "type": "pronoun"
+    },
+    {
+      "wordId": 1230,
+      "lessonId": 12,
+      "kanji": "より",
+      "furigana": "より",
+      "romaji": "yori",
+      "meaning": "Hơn (so sánh)",
+      "type": "particle"
+    }
+  ],
+  "grammar": [
+    {
+      "grammarId": 1201,
+      "lessonId": 12,
+      "title": "Quá khứ của tính từ và danh từ",
+      "structure": "い-adj → ～かったです / な-adj/N → ～でした",
+      "explanation": "い-adj: bỏ い thêm かったです / khẳng định và くなかったです / phủ định. な-adj/N: でした / じゃ ありませんでした.",
+      "examples": [
+        {
+          "japanese": "昨日は 暑かったです。",
+          "vietnamese": "Hôm qua trời nóng."
+        },
+        {
+          "japanese": "旅行は にぎやかでした。",
+          "vietnamese": "Chuyến du lịch nhộn nhịp."
+        },
+        {
+          "japanese": "試験は 簡単じゃ ありませんでした。",
+          "vietnamese": "Bài thi đã không dễ."
+        }
+      ]
+    },
+    {
+      "grammarId": 1202,
+      "lessonId": 12,
+      "title": "N1 は N2 より ～です",
+      "structure": "N1 は N2 より adj です",
+      "explanation": "So sánh hơn. N1 hơn N2 về tính chất ~.",
+      "examples": [
+        {
+          "japanese": "東京は 大阪より 大きいです。",
+          "vietnamese": "Tokyo lớn hơn Osaka."
+        },
+        {
+          "japanese": "飛行機は 新幹線より 速いです。",
+          "vietnamese": "Máy bay nhanh hơn Shinkansen."
+        }
+      ]
+    },
+    {
+      "grammarId": 1203,
+      "lessonId": 12,
+      "title": "N1 と N2 と どちらが ～ですか",
+      "structure": "N1 と N2 と どちらが ～ですか",
+      "explanation": "Hỏi so sánh giữa hai đối tượng. Trả lời: ～のほうが ～です.",
+      "examples": [
+        {
+          "japanese": "コーヒーと 紅茶と どちらが 好きですか。",
+          "vietnamese": "Cà phê và hồng trà, bạn thích cái nào hơn?"
+        },
+        {
+          "japanese": "コーヒーのほうが 好きです。",
+          "vietnamese": "Tôi thích cà phê hơn."
+        }
+      ]
+    },
+    {
+      "grammarId": 1204,
+      "lessonId": 12,
+      "title": "N1 [の 中] で N2 が いちばん ～です",
+      "structure": "N1 (の中で) N2 が いちばん ～です",
+      "explanation": "So sánh nhất. Trong N1, N2 là ~ nhất. Với địa điểm/thời gian: で thay cho の中で.",
+      "examples": [
+        {
+          "japanese": "季節の 中で 春が いちばん 好きです。",
+          "vietnamese": "Trong các mùa, tôi thích mùa xuân nhất."
+        },
+        {
+          "japanese": "クラスの 中で だれが いちばん 上手ですか。",
+          "vietnamese": "Trong lớp, ai giỏi nhất?"
+        }
+      ]
+    }
+  ],
+  "kanji": [
+    {
+      "kanjiId": 1201,
+      "lessonId": 12,
+      "character": "春",
+      "onyomi": "シュン",
+      "kunyomi": "はる",
+      "meaning": "Mùa xuân",
+      "strokeCount": 9
+    },
+    {
+      "kanjiId": 1202,
+      "lessonId": 12,
+      "character": "夏",
+      "onyomi": "カ",
+      "kunyomi": "なつ",
+      "meaning": "Mùa hè",
+      "strokeCount": 10
+    },
+    {
+      "kanjiId": 1203,
+      "lessonId": 12,
+      "character": "秋",
+      "onyomi": "シュウ",
+      "kunyomi": "あき",
+      "meaning": "Mùa thu",
+      "strokeCount": 9
+    },
+    {
+      "kanjiId": 1204,
+      "lessonId": 12,
+      "character": "冬",
+      "onyomi": "トウ",
+      "kunyomi": "ふゆ",
+      "meaning": "Mùa đông",
+      "strokeCount": 5
+    },
+    {
+      "kanjiId": 1205,
+      "lessonId": 12,
+      "character": "雨",
+      "onyomi": "ウ",
+      "kunyomi": "あめ",
+      "meaning": "Mưa",
+      "strokeCount": 8
+    },
+    {
+      "kanjiId": 1206,
+      "lessonId": 12,
+      "character": "雪",
+      "onyomi": "セツ",
+      "kunyomi": "ゆき",
+      "meaning": "Tuyết",
+      "strokeCount": 11
+    },
+    {
+      "kanjiId": 1207,
+      "lessonId": 12,
+      "character": "天",
+      "onyomi": "テン",
+      "kunyomi": "あめ",
+      "meaning": "Trời",
+      "strokeCount": 4
+    },
+    {
+      "kanjiId": 1208,
+      "lessonId": 12,
+      "character": "多",
+      "onyomi": "タ",
+      "kunyomi": "おお.い",
+      "meaning": "Nhiều",
+      "strokeCount": 6
+    }
+  ]
+}

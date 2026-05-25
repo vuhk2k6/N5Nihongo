@@ -1,0 +1,431 @@
+{
+  "lesson": {
+    "id": 19,
+    "title": "た形・～たことが あります",
+    "description": "Dạng quá khứ た, kinh nghiệm, liệt kê hành động"
+  },
+  "vocabulary": [
+    {
+      "wordId": 1901,
+      "lessonId": 19,
+      "kanji": "登ります",
+      "furigana": "のぼります",
+      "romaji": "noborimasu",
+      "meaning": "Leo, trèo",
+      "type": "verb"
+    },
+    {
+      "wordId": 1902,
+      "lessonId": 19,
+      "kanji": "走ります",
+      "furigana": "はしります",
+      "romaji": "hashirimasu",
+      "meaning": "Chạy",
+      "type": "verb"
+    },
+    {
+      "wordId": 1903,
+      "lessonId": 19,
+      "kanji": "釣ります",
+      "furigana": "つります",
+      "romaji": "tsurimasu",
+      "meaning": "Câu (cá)",
+      "type": "verb"
+    },
+    {
+      "wordId": 1904,
+      "lessonId": 19,
+      "kanji": "踊ります",
+      "furigana": "おどります",
+      "romaji": "odorimasu",
+      "meaning": "Nhảy múa",
+      "type": "verb"
+    },
+    {
+      "wordId": 1905,
+      "lessonId": 19,
+      "kanji": "習います",
+      "furigana": "ならいます",
+      "romaji": "naraimasu",
+      "meaning": "Học (từ ai)",
+      "type": "verb"
+    },
+    {
+      "wordId": 1906,
+      "lessonId": 19,
+      "kanji": "なります",
+      "furigana": "なります",
+      "romaji": "narimasu",
+      "meaning": "Trở thành",
+      "type": "verb"
+    },
+    {
+      "wordId": 1907,
+      "lessonId": 19,
+      "kanji": "止めます",
+      "furigana": "やめます",
+      "romaji": "yamemasu",
+      "meaning": "Bỏ, dừng (việc)",
+      "type": "verb"
+    },
+    {
+      "wordId": 1908,
+      "lessonId": 19,
+      "kanji": "ダイエットします",
+      "furigana": "ダイエットします",
+      "romaji": "daietto shimasu",
+      "meaning": "Ăn kiêng",
+      "type": "verb"
+    },
+    {
+      "wordId": 1909,
+      "lessonId": 19,
+      "kanji": "練習します",
+      "furigana": "れんしゅうします",
+      "romaji": "renshuu shimasu",
+      "meaning": "Luyện tập",
+      "type": "verb"
+    },
+    {
+      "wordId": 1910,
+      "lessonId": 19,
+      "kanji": "",
+      "furigana": "サーフィン",
+      "romaji": "saafin",
+      "meaning": "Lướt sóng",
+      "type": "noun"
+    },
+    {
+      "wordId": 1911,
+      "lessonId": 19,
+      "kanji": "温泉",
+      "furigana": "おんせん",
+      "romaji": "onsen",
+      "meaning": "Suối nước nóng",
+      "type": "noun"
+    },
+    {
+      "wordId": 1912,
+      "lessonId": 19,
+      "kanji": "祭り",
+      "furigana": "まつり",
+      "romaji": "matsuri",
+      "meaning": "Lễ hội",
+      "type": "noun"
+    },
+    {
+      "wordId": 1913,
+      "lessonId": 19,
+      "kanji": "経験",
+      "furigana": "けいけん",
+      "romaji": "keiken",
+      "meaning": "Kinh nghiệm",
+      "type": "noun"
+    },
+    {
+      "wordId": 1914,
+      "lessonId": 19,
+      "kanji": "神社",
+      "furigana": "じんじゃ",
+      "romaji": "jinja",
+      "meaning": "Đền Thần đạo",
+      "type": "noun"
+    },
+    {
+      "wordId": 1915,
+      "lessonId": 19,
+      "kanji": "寺",
+      "furigana": "てら",
+      "romaji": "tera",
+      "meaning": "Chùa",
+      "type": "noun"
+    },
+    {
+      "wordId": 1916,
+      "lessonId": 19,
+      "kanji": "城",
+      "furigana": "しろ",
+      "romaji": "shiro",
+      "meaning": "Lâu đài",
+      "type": "noun"
+    },
+    {
+      "wordId": 1917,
+      "lessonId": 19,
+      "kanji": "歌舞伎",
+      "furigana": "かぶき",
+      "romaji": "kabuki",
+      "meaning": "Kịch Kabuki",
+      "type": "noun"
+    },
+    {
+      "wordId": 1918,
+      "lessonId": 19,
+      "kanji": "茶道",
+      "furigana": "さどう",
+      "romaji": "sadou",
+      "meaning": "Trà đạo",
+      "type": "noun"
+    },
+    {
+      "wordId": 1919,
+      "lessonId": 19,
+      "kanji": "相撲",
+      "furigana": "すもう",
+      "romaji": "sumou",
+      "meaning": "Sumo",
+      "type": "noun"
+    },
+    {
+      "wordId": 1920,
+      "lessonId": 19,
+      "kanji": "富士山",
+      "furigana": "ふじさん",
+      "romaji": "Fuji-san",
+      "meaning": "Núi Phú Sĩ",
+      "type": "noun"
+    },
+    {
+      "wordId": 1921,
+      "lessonId": 19,
+      "kanji": "京都",
+      "furigana": "きょうと",
+      "romaji": "Kyouto",
+      "meaning": "Kyoto",
+      "type": "noun"
+    },
+    {
+      "wordId": 1922,
+      "lessonId": 19,
+      "kanji": "北海道",
+      "furigana": "ほっかいどう",
+      "romaji": "Hokkaidou",
+      "meaning": "Hokkaido",
+      "type": "noun"
+    },
+    {
+      "wordId": 1923,
+      "lessonId": 19,
+      "kanji": "ゴルフ",
+      "furigana": "ゴルフ",
+      "romaji": "gorufu",
+      "meaning": "Gôn",
+      "type": "noun"
+    },
+    {
+      "wordId": 1924,
+      "lessonId": 19,
+      "kanji": "馬",
+      "furigana": "うま",
+      "romaji": "uma",
+      "meaning": "Ngựa",
+      "type": "noun"
+    },
+    {
+      "wordId": 1925,
+      "lessonId": 19,
+      "kanji": "一度",
+      "furigana": "いちど",
+      "romaji": "ichido",
+      "meaning": "Một lần",
+      "type": "adverb"
+    },
+    {
+      "wordId": 1926,
+      "lessonId": 19,
+      "kanji": "一度も",
+      "furigana": "いちども",
+      "romaji": "ichidomo",
+      "meaning": "Chưa từng",
+      "type": "adverb"
+    },
+    {
+      "wordId": 1927,
+      "lessonId": 19,
+      "kanji": "だんだん",
+      "furigana": "だんだん",
+      "romaji": "dandan",
+      "meaning": "Dần dần",
+      "type": "adverb"
+    },
+    {
+      "wordId": 1928,
+      "lessonId": 19,
+      "kanji": "もうすぐ",
+      "furigana": "もうすぐ",
+      "romaji": "mou sugu",
+      "meaning": "Sắp tới",
+      "type": "adverb"
+    },
+    {
+      "wordId": 1929,
+      "lessonId": 19,
+      "kanji": "おかげさまで",
+      "furigana": "おかげさまで",
+      "romaji": "okagesama de",
+      "meaning": "Nhờ trời, may quá",
+      "type": "expression"
+    },
+    {
+      "wordId": 1930,
+      "lessonId": 19,
+      "kanji": "そうですね",
+      "furigana": "そうですね",
+      "romaji": "sou desu ne",
+      "meaning": "Để xem nào",
+      "type": "expression"
+    }
+  ],
+  "grammar": [
+    {
+      "grammarId": 1901,
+      "lessonId": 19,
+      "title": "Cách chia た形",
+      "structure": "た形 = て形 với て→た, で→だ",
+      "explanation": "Tương tự て形 nhưng dùng た/だ thay cho て/で. Ví dụ: 飲んで → 飲んだ, 食べて → 食べた.",
+      "examples": [
+        {
+          "japanese": "書きます → 書いた",
+          "vietnamese": "kakimasu → kaita"
+        },
+        {
+          "japanese": "飲みます → 飲んだ",
+          "vietnamese": "nomimasu → nonda"
+        },
+        {
+          "japanese": "食べます → 食べた",
+          "vietnamese": "tabemasu → tabeta"
+        }
+      ]
+    },
+    {
+      "grammarId": 1902,
+      "lessonId": 19,
+      "title": "V(た形) ことが あります",
+      "structure": "V(た形) こと が あります",
+      "explanation": "Diễn đạt kinh nghiệm. Đã từng làm ~. Phủ định: ことが ありません = chưa từng.",
+      "examples": [
+        {
+          "japanese": "富士山に 登った ことが あります。",
+          "vietnamese": "Tôi đã từng leo núi Phú Sĩ."
+        },
+        {
+          "japanese": "馬に 乗った ことが ありません。",
+          "vietnamese": "Tôi chưa từng cưỡi ngựa."
+        }
+      ]
+    },
+    {
+      "grammarId": 1903,
+      "lessonId": 19,
+      "title": "V(た形)り、V(た形)り します",
+      "structure": "V1 たり、V2 たり します",
+      "explanation": "Liệt kê vài hành động đại diện trong nhiều hành động khác.",
+      "examples": [
+        {
+          "japanese": "日曜日は 本を 読んだり、映画を 見たり します。",
+          "vietnamese": "Chủ nhật tôi đọc sách, xem phim..."
+        },
+        {
+          "japanese": "休みの 日は 音楽を 聞いたり、散歩したり します。",
+          "vietnamese": "Ngày nghỉ tôi nghe nhạc, đi dạo..."
+        }
+      ]
+    },
+    {
+      "grammarId": 1904,
+      "lessonId": 19,
+      "title": "い-adj く なります / な-adj・N に なります",
+      "structure": "い-adj く なります / な-adj・N に なります",
+      "explanation": "Diễn đạt sự thay đổi trạng thái. い-adj: bỏ い thêm くなります. な-adj/N: thêm になります.",
+      "examples": [
+        {
+          "japanese": "最近 寒く なりました。",
+          "vietnamese": "Gần đây trời lạnh hơn."
+        },
+        {
+          "japanese": "もうすぐ 夏に なります。",
+          "vietnamese": "Sắp đến mùa hè rồi."
+        },
+        {
+          "japanese": "ミラーさんは 元気に なりました。",
+          "vietnamese": "Anh Miller đã khoẻ lên."
+        }
+      ]
+    }
+  ],
+  "kanji": [
+    {
+      "kanjiId": 1901,
+      "lessonId": 19,
+      "character": "走",
+      "onyomi": "ソウ",
+      "kunyomi": "はし.る",
+      "meaning": "Chạy",
+      "strokeCount": 7
+    },
+    {
+      "kanjiId": 1902,
+      "lessonId": 19,
+      "character": "登",
+      "onyomi": "トウ",
+      "kunyomi": "のぼ.る",
+      "meaning": "Leo",
+      "strokeCount": 12
+    },
+    {
+      "kanjiId": 1903,
+      "lessonId": 19,
+      "character": "寺",
+      "onyomi": "ジ",
+      "kunyomi": "てら",
+      "meaning": "Chùa",
+      "strokeCount": 6
+    },
+    {
+      "kanjiId": 1904,
+      "lessonId": 19,
+      "character": "城",
+      "onyomi": "ジョウ",
+      "kunyomi": "しろ",
+      "meaning": "Lâu đài",
+      "strokeCount": 9
+    },
+    {
+      "kanjiId": 1905,
+      "lessonId": 19,
+      "character": "験",
+      "onyomi": "ケン",
+      "kunyomi": "",
+      "meaning": "Nghiệm, thử",
+      "strokeCount": 18
+    },
+    {
+      "kanjiId": 1906,
+      "lessonId": 19,
+      "character": "経",
+      "onyomi": "ケイ",
+      "kunyomi": "へ.る",
+      "meaning": "Trải qua, kinh",
+      "strokeCount": 11
+    },
+    {
+      "kanjiId": 1907,
+      "lessonId": 19,
+      "character": "馬",
+      "onyomi": "バ",
+      "kunyomi": "うま",
+      "meaning": "Ngựa",
+      "strokeCount": 10
+    },
+    {
+      "kanjiId": 1908,
+      "lessonId": 19,
+      "character": "度",
+      "onyomi": "ド",
+      "kunyomi": "たび",
+      "meaning": "Độ, lần",
+      "strokeCount": 9
+    }
+  ]
+}

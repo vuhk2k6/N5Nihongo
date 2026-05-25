@@ -1,0 +1,427 @@
+{
+  "lesson": {
+    "id": 14,
+    "title": "て形",
+    "description": "Dạng て của động từ, yêu cầu, hành động tiếp diễn"
+  },
+  "vocabulary": [
+    {
+      "wordId": 1401,
+      "lessonId": 14,
+      "kanji": "立ちます",
+      "furigana": "たちます",
+      "romaji": "tachimasu",
+      "meaning": "Đứng",
+      "type": "verb"
+    },
+    {
+      "wordId": 1402,
+      "lessonId": 14,
+      "kanji": "座ります",
+      "furigana": "すわります",
+      "romaji": "suwarimasu",
+      "meaning": "Ngồi",
+      "type": "verb"
+    },
+    {
+      "wordId": 1403,
+      "lessonId": 14,
+      "kanji": "使います",
+      "furigana": "つかいます",
+      "romaji": "tsukaimasu",
+      "meaning": "Sử dụng",
+      "type": "verb"
+    },
+    {
+      "wordId": 1404,
+      "lessonId": 14,
+      "kanji": "置きます",
+      "furigana": "おきます",
+      "romaji": "okimasu",
+      "meaning": "Đặt, để",
+      "type": "verb"
+    },
+    {
+      "wordId": 1405,
+      "lessonId": 14,
+      "kanji": "作ります",
+      "furigana": "つくります",
+      "romaji": "tsukurimasu",
+      "meaning": "Làm, chế tạo",
+      "type": "verb"
+    },
+    {
+      "wordId": 1406,
+      "lessonId": 14,
+      "kanji": "売ります",
+      "furigana": "うります",
+      "romaji": "urimasu",
+      "meaning": "Bán",
+      "type": "verb"
+    },
+    {
+      "wordId": 1407,
+      "lessonId": 14,
+      "kanji": "知ります",
+      "furigana": "しります",
+      "romaji": "shirimasu",
+      "meaning": "Biết",
+      "type": "verb"
+    },
+    {
+      "wordId": 1408,
+      "lessonId": 14,
+      "kanji": "住みます",
+      "furigana": "すみます",
+      "romaji": "sumimasu",
+      "meaning": "Sống (ở nơi)",
+      "type": "verb"
+    },
+    {
+      "wordId": 1409,
+      "lessonId": 14,
+      "kanji": "持ちます",
+      "furigana": "もちます",
+      "romaji": "mochimasu",
+      "meaning": "Cầm, mang",
+      "type": "verb"
+    },
+    {
+      "wordId": 1410,
+      "lessonId": 14,
+      "kanji": "開けます",
+      "furigana": "あけます",
+      "romaji": "akemasu",
+      "meaning": "Mở",
+      "type": "verb"
+    },
+    {
+      "wordId": 1411,
+      "lessonId": 14,
+      "kanji": "閉めます",
+      "furigana": "しめます",
+      "romaji": "shimemasu",
+      "meaning": "Đóng",
+      "type": "verb"
+    },
+    {
+      "wordId": 1412,
+      "lessonId": 14,
+      "kanji": "つけます",
+      "furigana": "つけます",
+      "romaji": "tsukemasu",
+      "meaning": "Bật",
+      "type": "verb"
+    },
+    {
+      "wordId": 1413,
+      "lessonId": 14,
+      "kanji": "消します",
+      "furigana": "けします",
+      "romaji": "keshimasu",
+      "meaning": "Tắt, xoá",
+      "type": "verb"
+    },
+    {
+      "wordId": 1414,
+      "lessonId": 14,
+      "kanji": "急ぎます",
+      "furigana": "いそぎます",
+      "romaji": "isogimasu",
+      "meaning": "Vội, gấp",
+      "type": "verb"
+    },
+    {
+      "wordId": 1415,
+      "lessonId": 14,
+      "kanji": "止めます",
+      "furigana": "とめます",
+      "romaji": "tomemasu",
+      "meaning": "Dừng lại",
+      "type": "verb"
+    },
+    {
+      "wordId": 1416,
+      "lessonId": 14,
+      "kanji": "待ちます",
+      "furigana": "まちます",
+      "romaji": "machimasu",
+      "meaning": "Chờ, đợi",
+      "type": "verb"
+    },
+    {
+      "wordId": 1417,
+      "lessonId": 14,
+      "kanji": "取ります",
+      "furigana": "とります",
+      "romaji": "torimasu",
+      "meaning": "Lấy",
+      "type": "verb"
+    },
+    {
+      "wordId": 1418,
+      "lessonId": 14,
+      "kanji": "見せます",
+      "furigana": "みせます",
+      "romaji": "misemasu",
+      "meaning": "Cho xem",
+      "type": "verb"
+    },
+    {
+      "wordId": 1419,
+      "lessonId": 14,
+      "kanji": "曲がります",
+      "furigana": "まがります",
+      "romaji": "magarimasu",
+      "meaning": "Rẽ",
+      "type": "verb"
+    },
+    {
+      "wordId": 1420,
+      "lessonId": 14,
+      "kanji": "コピーします",
+      "furigana": "コピーします",
+      "romaji": "kopii shimasu",
+      "meaning": "Sao chép",
+      "type": "verb"
+    },
+    {
+      "wordId": 1421,
+      "lessonId": 14,
+      "kanji": "ゆっくり",
+      "furigana": "ゆっくり",
+      "romaji": "yukkuri",
+      "meaning": "Chậm rãi",
+      "type": "adverb"
+    },
+    {
+      "wordId": 1422,
+      "lessonId": 14,
+      "kanji": "すぐ",
+      "furigana": "すぐ",
+      "romaji": "sugu",
+      "meaning": "Ngay lập tức",
+      "type": "adverb"
+    },
+    {
+      "wordId": 1423,
+      "lessonId": 14,
+      "kanji": "また",
+      "furigana": "また",
+      "romaji": "mata",
+      "meaning": "Lại, nữa",
+      "type": "adverb"
+    },
+    {
+      "wordId": 1424,
+      "lessonId": 14,
+      "kanji": "電気",
+      "furigana": "でんき",
+      "romaji": "denki",
+      "meaning": "Điện, đèn",
+      "type": "noun"
+    },
+    {
+      "wordId": 1425,
+      "lessonId": 14,
+      "kanji": "窓",
+      "furigana": "まど",
+      "romaji": "mado",
+      "meaning": "Cửa sổ",
+      "type": "noun"
+    },
+    {
+      "wordId": 1426,
+      "lessonId": 14,
+      "kanji": "ドア",
+      "furigana": "ドア",
+      "romaji": "doa",
+      "meaning": "Cửa",
+      "type": "noun"
+    },
+    {
+      "wordId": 1427,
+      "lessonId": 14,
+      "kanji": "",
+      "furigana": "エアコン",
+      "romaji": "eakon",
+      "meaning": "Điều hoà",
+      "type": "noun"
+    },
+    {
+      "wordId": 1428,
+      "lessonId": 14,
+      "kanji": "信号",
+      "furigana": "しんごう",
+      "romaji": "shingou",
+      "meaning": "Đèn giao thông",
+      "type": "noun"
+    },
+    {
+      "wordId": 1429,
+      "lessonId": 14,
+      "kanji": "角",
+      "furigana": "かど",
+      "romaji": "kado",
+      "meaning": "Góc",
+      "type": "noun"
+    },
+    {
+      "wordId": 1430,
+      "lessonId": 14,
+      "kanji": "番地",
+      "furigana": "ばんち",
+      "romaji": "banchi",
+      "meaning": "Địa chỉ (số nhà)",
+      "type": "noun"
+    }
+  ],
+  "grammar": [
+    {
+      "grammarId": 1401,
+      "lessonId": 14,
+      "title": "Cách chia て形",
+      "structure": "Nhóm I / II / III",
+      "explanation": "Nhóm I: き→いて, ぎ→いで, み/び/に→んで, り/ち/い→って, し→して, く(行く)→って. Nhóm II: bỏ ます thêm て. Nhóm III: します→して, きます→きて.",
+      "examples": [
+        {
+          "japanese": "書きます → 書いて",
+          "vietnamese": "kakimasu → kaite"
+        },
+        {
+          "japanese": "飲みます → 飲んで",
+          "vietnamese": "nomimasu → nonde"
+        },
+        {
+          "japanese": "食べます → 食べて",
+          "vietnamese": "tabemasu → tabete"
+        }
+      ]
+    },
+    {
+      "grammarId": 1402,
+      "lessonId": 14,
+      "title": "V て ください",
+      "structure": "V て ください",
+      "explanation": "Yêu cầu lịch sự. Xin hãy ~. Có thể dùng dạng nhẹ hơn: Vてくださいませんか.",
+      "examples": [
+        {
+          "japanese": "窓を 開けて ください。",
+          "vietnamese": "Hãy mở cửa sổ giùm."
+        },
+        {
+          "japanese": "ちょっと 待って ください。",
+          "vietnamese": "Hãy chờ một chút."
+        }
+      ]
+    },
+    {
+      "grammarId": 1403,
+      "lessonId": 14,
+      "title": "V て います (Đang tiếp diễn)",
+      "structure": "V て います",
+      "explanation": "Diễn đạt hành động đang diễn ra ngay lúc nói.",
+      "examples": [
+        {
+          "japanese": "ミラーさんは 今 電話を かけて います。",
+          "vietnamese": "Anh Miller đang gọi điện thoại."
+        },
+        {
+          "japanese": "今 雨が 降って います。",
+          "vietnamese": "Bây giờ trời đang mưa."
+        }
+      ]
+    },
+    {
+      "grammarId": 1404,
+      "lessonId": 14,
+      "title": "V ましょうか (Đề nghị giúp)",
+      "structure": "V ましょうか",
+      "explanation": "Đề nghị làm giúp ai đó. Khác với V ましょう (cùng nhau).",
+      "examples": [
+        {
+          "japanese": "傘を 貸しましょうか。",
+          "vietnamese": "Tôi cho bạn mượn ô nhé?"
+        },
+        {
+          "japanese": "写真を 撮りましょうか。",
+          "vietnamese": "Tôi chụp ảnh cho bạn nhé?"
+        }
+      ]
+    }
+  ],
+  "kanji": [
+    {
+      "kanjiId": 1401,
+      "lessonId": 14,
+      "character": "作",
+      "onyomi": "サク",
+      "kunyomi": "つく.る",
+      "meaning": "Làm, tạo",
+      "strokeCount": 7
+    },
+    {
+      "kanjiId": 1402,
+      "lessonId": 14,
+      "character": "使",
+      "onyomi": "シ",
+      "kunyomi": "つか.う",
+      "meaning": "Sử dụng",
+      "strokeCount": 8
+    },
+    {
+      "kanjiId": 1403,
+      "lessonId": 14,
+      "character": "開",
+      "onyomi": "カイ",
+      "kunyomi": "あ.ける",
+      "meaning": "Mở",
+      "strokeCount": 12
+    },
+    {
+      "kanjiId": 1404,
+      "lessonId": 14,
+      "character": "閉",
+      "onyomi": "ヘイ",
+      "kunyomi": "し.める",
+      "meaning": "Đóng",
+      "strokeCount": 11
+    },
+    {
+      "kanjiId": 1405,
+      "lessonId": 14,
+      "character": "待",
+      "onyomi": "タイ",
+      "kunyomi": "ま.つ",
+      "meaning": "Chờ",
+      "strokeCount": 9
+    },
+    {
+      "kanjiId": 1406,
+      "lessonId": 14,
+      "character": "持",
+      "onyomi": "ジ",
+      "kunyomi": "も.つ",
+      "meaning": "Cầm",
+      "strokeCount": 9
+    },
+    {
+      "kanjiId": 1407,
+      "lessonId": 14,
+      "character": "立",
+      "onyomi": "リツ",
+      "kunyomi": "た.つ",
+      "meaning": "Đứng",
+      "strokeCount": 5
+    },
+    {
+      "kanjiId": 1408,
+      "lessonId": 14,
+      "character": "売",
+      "onyomi": "バイ",
+      "kunyomi": "う.る",
+      "meaning": "Bán",
+      "strokeCount": 7
+    }
+  ]
+}

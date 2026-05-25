@@ -1,0 +1,92 @@
+[
+  {
+    "number": "1",
+    "reading": "いち",
+    "romaji": "",
+    "isException": false
+  },
+  {
+    "number": "2",
+    "reading": "に",
+    "romaji": "",
+    "isException": false
+  },
+  {
+    "number": "3",
+    "reading": "さん",
+    "romaji": "",
+    "isException": false
+  },
+  {
+    "number": "4",
+    "reading": "よん",
+    "romaji": "",
+    "isException": false
+  },
+  {
+    "number": "5",
+    "reading": "ご",
+    "romaji": "",
+    "isException": false
+  },
+  {
+    "number": "6",
+    "reading": "ろく",
+    "romaji": "",
+    "isException": false
+  },
+  {
+    "number": "7",
+    "reading": "なな",
+    "romaji": "",
+    "isException": false
+  },
+  {
+    "number": "8",
+    "reading": "はち",
+    "romaji": "",
+    "isException": false
+  },
+  {
+    "number": "9",
+    "reading": "きゅう",
+    "romaji": "",
+    "isException": false
+  },
+  {
+    "number": "10",
+    "reading": "じゅう",
+    "romaji": "",
+    "isException": false
+  },
+  {
+    "number": "300",
+    "reading": "さんびゃく",
+    "romaji": "",
+    "isException": true
+  },
+  {
+    "number": "600",
+    "reading": "ろっぴゃく",
+    "romaji": "",
+    "isException": true
+  },
+  {
+    "number": "800",
+    "reading": "はっぴゃく",
+    "romaji": "",
+    "isException": true
+  },
+  {
+    "number": "3000",
+    "reading": "さんぜん",
+    "romaji": "",
+    "isException": true
+  },
+  {
+    "number": "8000",
+    "reading": "はっせん",
+    "romaji": "",
+    "isException": true
+  }
+]

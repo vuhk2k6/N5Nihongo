@@ -1,0 +1,427 @@
+{
+  "lesson": {
+    "id": 5,
+    "title": "N(場所) へ 行きます",
+    "description": "Di chuyển, phương tiện giao thông, đi cùng người khác"
+  },
+  "vocabulary": [
+    {
+      "wordId": 501,
+      "lessonId": 5,
+      "kanji": "行きます",
+      "furigana": "いきます",
+      "romaji": "ikimasu",
+      "meaning": "Đi",
+      "type": "verb"
+    },
+    {
+      "wordId": 502,
+      "lessonId": 5,
+      "kanji": "来ます",
+      "furigana": "きます",
+      "romaji": "kimasu",
+      "meaning": "Đến",
+      "type": "verb"
+    },
+    {
+      "wordId": 503,
+      "lessonId": 5,
+      "kanji": "帰ります",
+      "furigana": "かえります",
+      "romaji": "kaerimasu",
+      "meaning": "Về (nhà, nước)",
+      "type": "verb"
+    },
+    {
+      "wordId": 504,
+      "lessonId": 5,
+      "kanji": "学校",
+      "furigana": "がっこう",
+      "romaji": "gakkou",
+      "meaning": "Trường học",
+      "type": "noun"
+    },
+    {
+      "wordId": 505,
+      "lessonId": 5,
+      "kanji": "駅",
+      "furigana": "えき",
+      "romaji": "eki",
+      "meaning": "Nhà ga",
+      "type": "noun"
+    },
+    {
+      "wordId": 506,
+      "lessonId": 5,
+      "kanji": "空港",
+      "furigana": "くうこう",
+      "romaji": "kuukou",
+      "meaning": "Sân bay",
+      "type": "noun"
+    },
+    {
+      "wordId": 507,
+      "lessonId": 5,
+      "kanji": "電車",
+      "furigana": "でんしゃ",
+      "romaji": "densha",
+      "meaning": "Tàu điện",
+      "type": "noun"
+    },
+    {
+      "wordId": 508,
+      "lessonId": 5,
+      "kanji": "地下鉄",
+      "furigana": "ちかてつ",
+      "romaji": "chikatetsu",
+      "meaning": "Tàu điện ngầm",
+      "type": "noun"
+    },
+    {
+      "wordId": 509,
+      "lessonId": 5,
+      "kanji": "新幹線",
+      "furigana": "しんかんせん",
+      "romaji": "shinkansen",
+      "meaning": "Tàu Shinkansen",
+      "type": "noun"
+    },
+    {
+      "wordId": 510,
+      "lessonId": 5,
+      "kanji": "",
+      "furigana": "バス",
+      "romaji": "basu",
+      "meaning": "Xe buýt",
+      "type": "noun"
+    },
+    {
+      "wordId": 511,
+      "lessonId": 5,
+      "kanji": "",
+      "furigana": "タクシー",
+      "romaji": "takushii",
+      "meaning": "Taxi",
+      "type": "noun"
+    },
+    {
+      "wordId": 512,
+      "lessonId": 5,
+      "kanji": "自転車",
+      "furigana": "じてんしゃ",
+      "romaji": "jitensha",
+      "meaning": "Xe đạp",
+      "type": "noun"
+    },
+    {
+      "wordId": 513,
+      "lessonId": 5,
+      "kanji": "飛行機",
+      "furigana": "ひこうき",
+      "romaji": "hikouki",
+      "meaning": "Máy bay",
+      "type": "noun"
+    },
+    {
+      "wordId": 514,
+      "lessonId": 5,
+      "kanji": "船",
+      "furigana": "ふね",
+      "romaji": "fune",
+      "meaning": "Tàu thuỷ",
+      "type": "noun"
+    },
+    {
+      "wordId": 515,
+      "lessonId": 5,
+      "kanji": "歩いて",
+      "furigana": "あるいて",
+      "romaji": "aruite",
+      "meaning": "Đi bộ",
+      "type": "adverb"
+    },
+    {
+      "wordId": 516,
+      "lessonId": 5,
+      "kanji": "友達",
+      "furigana": "ともだち",
+      "romaji": "tomodachi",
+      "meaning": "Bạn",
+      "type": "noun"
+    },
+    {
+      "wordId": 517,
+      "lessonId": 5,
+      "kanji": "家族",
+      "furigana": "かぞく",
+      "romaji": "kazoku",
+      "meaning": "Gia đình",
+      "type": "noun"
+    },
+    {
+      "wordId": 518,
+      "lessonId": 5,
+      "kanji": "一人で",
+      "furigana": "ひとりで",
+      "romaji": "hitoride",
+      "meaning": "Một mình",
+      "type": "adverb"
+    },
+    {
+      "wordId": 519,
+      "lessonId": 5,
+      "kanji": "誕生日",
+      "furigana": "たんじょうび",
+      "romaji": "tanjoubi",
+      "meaning": "Sinh nhật",
+      "type": "noun"
+    },
+    {
+      "wordId": 520,
+      "lessonId": 5,
+      "kanji": "去年",
+      "furigana": "きょねん",
+      "romaji": "kyonen",
+      "meaning": "Năm ngoái",
+      "type": "noun"
+    },
+    {
+      "wordId": 521,
+      "lessonId": 5,
+      "kanji": "今年",
+      "furigana": "ことし",
+      "romaji": "kotoshi",
+      "meaning": "Năm nay",
+      "type": "noun"
+    },
+    {
+      "wordId": 522,
+      "lessonId": 5,
+      "kanji": "来年",
+      "furigana": "らいねん",
+      "romaji": "rainen",
+      "meaning": "Năm sau",
+      "type": "noun"
+    },
+    {
+      "wordId": 523,
+      "lessonId": 5,
+      "kanji": "先月",
+      "furigana": "せんげつ",
+      "romaji": "sengetsu",
+      "meaning": "Tháng trước",
+      "type": "noun"
+    },
+    {
+      "wordId": 524,
+      "lessonId": 5,
+      "kanji": "今月",
+      "furigana": "こんげつ",
+      "romaji": "kongetsu",
+      "meaning": "Tháng này",
+      "type": "noun"
+    },
+    {
+      "wordId": 525,
+      "lessonId": 5,
+      "kanji": "来月",
+      "furigana": "らいげつ",
+      "romaji": "raigetsu",
+      "meaning": "Tháng sau",
+      "type": "noun"
+    },
+    {
+      "wordId": 526,
+      "lessonId": 5,
+      "kanji": "先週",
+      "furigana": "せんしゅう",
+      "romaji": "senshuu",
+      "meaning": "Tuần trước",
+      "type": "noun"
+    },
+    {
+      "wordId": 527,
+      "lessonId": 5,
+      "kanji": "今週",
+      "furigana": "こんしゅう",
+      "romaji": "konshuu",
+      "meaning": "Tuần này",
+      "type": "noun"
+    },
+    {
+      "wordId": 528,
+      "lessonId": 5,
+      "kanji": "来週",
+      "furigana": "らいしゅう",
+      "romaji": "raishuu",
+      "meaning": "Tuần sau",
+      "type": "noun"
+    },
+    {
+      "wordId": 529,
+      "lessonId": 5,
+      "kanji": "何月",
+      "furigana": "なんがつ",
+      "romaji": "nangatsu",
+      "meaning": "Tháng mấy",
+      "type": "noun"
+    },
+    {
+      "wordId": 530,
+      "lessonId": 5,
+      "kanji": "何日",
+      "furigana": "なんにち",
+      "romaji": "nannichi",
+      "meaning": "Ngày bao nhiêu",
+      "type": "noun"
+    }
+  ],
+  "grammar": [
+    {
+      "grammarId": 501,
+      "lessonId": 5,
+      "title": "N(場所) へ 行きます/来ます/帰ります",
+      "structure": "N へ いきます / きます / かえります",
+      "explanation": "Trợ từ へ (đọc e) đứng sau danh từ chỉ địa điểm để biểu thị phương hướng di chuyển.",
+      "examples": [
+        {
+          "japanese": "京都へ 行きます。",
+          "vietnamese": "Tôi đi Kyoto."
+        },
+        {
+          "japanese": "日本へ 来ました。",
+          "vietnamese": "Tôi đã đến Nhật Bản."
+        },
+        {
+          "japanese": "うちへ 帰ります。",
+          "vietnamese": "Tôi về nhà."
+        }
+      ]
+    },
+    {
+      "grammarId": 502,
+      "lessonId": 5,
+      "title": "N(乗り物) で 行きます",
+      "structure": "N で いきます/きます/かえります",
+      "explanation": "Trợ từ で chỉ phương tiện. Lưu ý: đi bộ không dùng で → 歩いて 行きます.",
+      "examples": [
+        {
+          "japanese": "電車で 会社へ 行きます。",
+          "vietnamese": "Tôi đi làm bằng tàu điện."
+        },
+        {
+          "japanese": "歩いて 学校へ 行きます。",
+          "vietnamese": "Tôi đi bộ đến trường."
+        }
+      ]
+    },
+    {
+      "grammarId": 503,
+      "lessonId": 5,
+      "title": "N(人/動物) と V",
+      "structure": "N と V",
+      "explanation": "Trợ từ と chỉ người/động vật cùng làm hành động. Một mình → 一人で.",
+      "examples": [
+        {
+          "japanese": "友達と 京都へ 行きます。",
+          "vietnamese": "Tôi đi Kyoto cùng bạn."
+        },
+        {
+          "japanese": "家族と ベトナムへ 帰ります。",
+          "vietnamese": "Tôi về Việt Nam với gia đình."
+        }
+      ]
+    },
+    {
+      "grammarId": 504,
+      "lessonId": 5,
+      "title": "いつ V",
+      "structure": "いつ V ますか",
+      "explanation": "いつ = khi nào. Dùng để hỏi thời gian xảy ra hành động. Trả lời không cần đi kèm trợ từ に khi nói các từ như 今日/明日.",
+      "examples": [
+        {
+          "japanese": "いつ 日本へ 来ましたか。",
+          "vietnamese": "Bạn đến Nhật khi nào?"
+        },
+        {
+          "japanese": "3月25日に 来ました。",
+          "vietnamese": "Tôi đến vào ngày 25 tháng 3."
+        }
+      ]
+    }
+  ],
+  "kanji": [
+    {
+      "kanjiId": 501,
+      "lessonId": 5,
+      "character": "行",
+      "onyomi": "コウ",
+      "kunyomi": "い.く",
+      "meaning": "Đi",
+      "strokeCount": 6
+    },
+    {
+      "kanjiId": 502,
+      "lessonId": 5,
+      "character": "来",
+      "onyomi": "ライ",
+      "kunyomi": "く.る",
+      "meaning": "Đến",
+      "strokeCount": 7
+    },
+    {
+      "kanjiId": 503,
+      "lessonId": 5,
+      "character": "帰",
+      "onyomi": "キ",
+      "kunyomi": "かえ.る",
+      "meaning": "Về",
+      "strokeCount": 10
+    },
+    {
+      "kanjiId": 504,
+      "lessonId": 5,
+      "character": "電",
+      "onyomi": "デン",
+      "kunyomi": "",
+      "meaning": "Điện",
+      "strokeCount": 13
+    },
+    {
+      "kanjiId": 505,
+      "lessonId": 5,
+      "character": "車",
+      "onyomi": "シャ",
+      "kunyomi": "くるま",
+      "meaning": "Xe",
+      "strokeCount": 7
+    },
+    {
+      "kanjiId": 506,
+      "lessonId": 5,
+      "character": "駅",
+      "onyomi": "エキ",
+      "kunyomi": "",
+      "meaning": "Ga",
+      "strokeCount": 14
+    },
+    {
+      "kanjiId": 507,
+      "lessonId": 5,
+      "character": "友",
+      "onyomi": "ユウ",
+      "kunyomi": "とも",
+      "meaning": "Bạn",
+      "strokeCount": 4
+    },
+    {
+      "kanjiId": 508,
+      "lessonId": 5,
+      "character": "達",
+      "onyomi": "タツ",
+      "kunyomi": "",
+      "meaning": "Đạt, đám đông",
+      "strokeCount": 12
+    }
+  ]
+}

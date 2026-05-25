@@ -1,0 +1,427 @@
+{
+  "lesson": {
+    "id": 13,
+    "title": "～たいです",
+    "description": "Mong muốn, ý định, mục đích di chuyển"
+  },
+  "vocabulary": [
+    {
+      "wordId": 1301,
+      "lessonId": 13,
+      "kanji": "遊びます",
+      "furigana": "あそびます",
+      "romaji": "asobimasu",
+      "meaning": "Chơi",
+      "type": "verb"
+    },
+    {
+      "wordId": 1302,
+      "lessonId": 13,
+      "kanji": "泳ぎます",
+      "furigana": "およぎます",
+      "romaji": "oyogimasu",
+      "meaning": "Bơi",
+      "type": "verb"
+    },
+    {
+      "wordId": 1303,
+      "lessonId": 13,
+      "kanji": "迎えます",
+      "furigana": "むかえます",
+      "romaji": "mukaemasu",
+      "meaning": "Đi đón",
+      "type": "verb"
+    },
+    {
+      "wordId": 1304,
+      "lessonId": 13,
+      "kanji": "送ります",
+      "furigana": "おくります",
+      "romaji": "okurimasu",
+      "meaning": "Gửi, tiễn",
+      "type": "verb"
+    },
+    {
+      "wordId": 1305,
+      "lessonId": 13,
+      "kanji": "結婚します",
+      "furigana": "けっこんします",
+      "romaji": "kekkon shimasu",
+      "meaning": "Kết hôn",
+      "type": "verb"
+    },
+    {
+      "wordId": 1306,
+      "lessonId": 13,
+      "kanji": "買い物します",
+      "furigana": "かいものします",
+      "romaji": "kaimono shimasu",
+      "meaning": "Mua sắm",
+      "type": "verb"
+    },
+    {
+      "wordId": 1307,
+      "lessonId": 13,
+      "kanji": "散歩します",
+      "furigana": "さんぽします",
+      "romaji": "sanpo shimasu",
+      "meaning": "Đi dạo",
+      "type": "verb"
+    },
+    {
+      "wordId": 1308,
+      "lessonId": 13,
+      "kanji": "食事します",
+      "furigana": "しょくじします",
+      "romaji": "shokuji shimasu",
+      "meaning": "Dùng bữa",
+      "type": "verb"
+    },
+    {
+      "wordId": 1309,
+      "lessonId": 13,
+      "kanji": "疲れます",
+      "furigana": "つかれます",
+      "romaji": "tsukaremasu",
+      "meaning": "Mệt",
+      "type": "verb"
+    },
+    {
+      "wordId": 1310,
+      "lessonId": 13,
+      "kanji": "海",
+      "furigana": "うみ",
+      "romaji": "umi",
+      "meaning": "Biển",
+      "type": "noun"
+    },
+    {
+      "wordId": 1311,
+      "lessonId": 13,
+      "kanji": "山",
+      "furigana": "やま",
+      "romaji": "yama",
+      "meaning": "Núi",
+      "type": "noun"
+    },
+    {
+      "wordId": 1312,
+      "lessonId": 13,
+      "kanji": "川",
+      "furigana": "かわ",
+      "romaji": "kawa",
+      "meaning": "Sông",
+      "type": "noun"
+    },
+    {
+      "wordId": 1313,
+      "lessonId": 13,
+      "kanji": "公園",
+      "furigana": "こうえん",
+      "romaji": "kouen",
+      "meaning": "Công viên",
+      "type": "noun"
+    },
+    {
+      "wordId": 1314,
+      "lessonId": 13,
+      "kanji": "美術館",
+      "furigana": "びじゅつかん",
+      "romaji": "bijutsukan",
+      "meaning": "Bảo tàng mỹ thuật",
+      "type": "noun"
+    },
+    {
+      "wordId": 1315,
+      "lessonId": 13,
+      "kanji": "動物園",
+      "furigana": "どうぶつえん",
+      "romaji": "doubutsuen",
+      "meaning": "Sở thú",
+      "type": "noun"
+    },
+    {
+      "wordId": 1316,
+      "lessonId": 13,
+      "kanji": "遊園地",
+      "furigana": "ゆうえんち",
+      "romaji": "yuuenchi",
+      "meaning": "Công viên giải trí",
+      "type": "noun"
+    },
+    {
+      "wordId": 1317,
+      "lessonId": 13,
+      "kanji": "温泉",
+      "furigana": "おんせん",
+      "romaji": "onsen",
+      "meaning": "Suối nước nóng",
+      "type": "noun"
+    },
+    {
+      "wordId": 1318,
+      "lessonId": 13,
+      "kanji": "週末",
+      "furigana": "しゅうまつ",
+      "romaji": "shuumatsu",
+      "meaning": "Cuối tuần",
+      "type": "noun"
+    },
+    {
+      "wordId": 1319,
+      "lessonId": 13,
+      "kanji": "夏休み",
+      "furigana": "なつやすみ",
+      "romaji": "natsuyasumi",
+      "meaning": "Kỳ nghỉ hè",
+      "type": "noun"
+    },
+    {
+      "wordId": 1320,
+      "lessonId": 13,
+      "kanji": "正月",
+      "furigana": "しょうがつ",
+      "romaji": "shougatsu",
+      "meaning": "Tết",
+      "type": "noun"
+    },
+    {
+      "wordId": 1321,
+      "lessonId": 13,
+      "kanji": "結婚式",
+      "furigana": "けっこんしき",
+      "romaji": "kekkonshiki",
+      "meaning": "Lễ cưới",
+      "type": "noun"
+    },
+    {
+      "wordId": 1322,
+      "lessonId": 13,
+      "kanji": "",
+      "furigana": "何か",
+      "romaji": "nanika",
+      "meaning": "Cái gì đó",
+      "type": "pronoun"
+    },
+    {
+      "wordId": 1323,
+      "lessonId": 13,
+      "kanji": "",
+      "furigana": "どこか",
+      "romaji": "dokoka",
+      "meaning": "Đâu đó",
+      "type": "pronoun"
+    },
+    {
+      "wordId": 1324,
+      "lessonId": 13,
+      "kanji": "",
+      "furigana": "だれか",
+      "romaji": "dareka",
+      "meaning": "Ai đó",
+      "type": "pronoun"
+    },
+    {
+      "wordId": 1325,
+      "lessonId": 13,
+      "kanji": "",
+      "furigana": "のど",
+      "romaji": "nodo",
+      "meaning": "Cổ họng",
+      "type": "noun"
+    },
+    {
+      "wordId": 1326,
+      "lessonId": 13,
+      "kanji": "歯",
+      "furigana": "は",
+      "romaji": "ha",
+      "meaning": "Răng",
+      "type": "noun"
+    },
+    {
+      "wordId": 1327,
+      "lessonId": 13,
+      "kanji": "おなか",
+      "furigana": "おなか",
+      "romaji": "onaka",
+      "meaning": "Bụng",
+      "type": "noun"
+    },
+    {
+      "wordId": 1328,
+      "lessonId": 13,
+      "kanji": "",
+      "furigana": "ちょっと",
+      "romaji": "chotto",
+      "meaning": "Một chút",
+      "type": "adverb"
+    },
+    {
+      "wordId": 1329,
+      "lessonId": 13,
+      "kanji": "",
+      "furigana": "そう ですね",
+      "romaji": "sou desu ne",
+      "meaning": "Để xem nào…",
+      "type": "expression"
+    },
+    {
+      "wordId": 1330,
+      "lessonId": 13,
+      "kanji": "",
+      "furigana": "ぜひ",
+      "romaji": "zehi",
+      "meaning": "Nhất định",
+      "type": "adverb"
+    }
+  ],
+  "grammar": [
+    {
+      "grammarId": 1301,
+      "lessonId": 13,
+      "title": "N が ほしいです",
+      "structure": "N が ほしいです",
+      "explanation": "Diễn đạt mong muốn có một đồ vật. Đối tượng dùng が. Không dùng để hỏi cấp trên/người lạ.",
+      "examples": [
+        {
+          "japanese": "わたしは 新しい パソコンが ほしいです。",
+          "vietnamese": "Tôi muốn có máy tính mới."
+        },
+        {
+          "japanese": "今 何が いちばん ほしいですか。",
+          "vietnamese": "Bây giờ bạn muốn gì nhất?"
+        }
+      ]
+    },
+    {
+      "grammarId": 1302,
+      "lessonId": 13,
+      "title": "V(ます形) たいです",
+      "structure": "V(ます形) たいです",
+      "explanation": "Diễn đạt mong muốn cá nhân làm gì đó. Bỏ ます thêm たいです.",
+      "examples": [
+        {
+          "japanese": "海へ 行きたいです。",
+          "vietnamese": "Tôi muốn đi biển."
+        },
+        {
+          "japanese": "日本料理を 食べたいです。",
+          "vietnamese": "Tôi muốn ăn món Nhật."
+        },
+        {
+          "japanese": "疲れましたから、何も したくないです。",
+          "vietnamese": "Tôi mệt rồi nên không muốn làm gì."
+        }
+      ]
+    },
+    {
+      "grammarId": 1303,
+      "lessonId": 13,
+      "title": "N(場所) へ V(ます形)に 行きます/来ます/帰ります",
+      "structure": "N へ V(ます形) に 行きます",
+      "explanation": "Đi đến nơi nào để làm gì. Bỏ ます thêm に, sau đó là động từ di chuyển.",
+      "examples": [
+        {
+          "japanese": "デパートへ 買い物に 行きます。",
+          "vietnamese": "Tôi đến trung tâm thương mại để mua sắm."
+        },
+        {
+          "japanese": "公園へ 散歩に 行きます。",
+          "vietnamese": "Tôi đi công viên để đi dạo."
+        }
+      ]
+    },
+    {
+      "grammarId": 1304,
+      "lessonId": 13,
+      "title": "なにか / どこか / だれか (Đại từ bất định)",
+      "structure": "なにか / どこか / だれか",
+      "explanation": "Đại từ bất định: cái gì đó, ở đâu đó, ai đó. Trong câu hỏi diễn đạt 'có ~ không'.",
+      "examples": [
+        {
+          "japanese": "どこかへ 行きたいですか。",
+          "vietnamese": "Bạn có muốn đi đâu đó không?"
+        },
+        {
+          "japanese": "何か 飲みたいです。",
+          "vietnamese": "Tôi muốn uống cái gì đó."
+        }
+      ]
+    }
+  ],
+  "kanji": [
+    {
+      "kanjiId": 1301,
+      "lessonId": 13,
+      "character": "海",
+      "onyomi": "カイ",
+      "kunyomi": "うみ",
+      "meaning": "Biển",
+      "strokeCount": 9
+    },
+    {
+      "kanjiId": 1302,
+      "lessonId": 13,
+      "character": "山",
+      "onyomi": "サン",
+      "kunyomi": "やま",
+      "meaning": "Núi",
+      "strokeCount": 3
+    },
+    {
+      "kanjiId": 1303,
+      "lessonId": 13,
+      "character": "川",
+      "onyomi": "セン",
+      "kunyomi": "かわ",
+      "meaning": "Sông",
+      "strokeCount": 3
+    },
+    {
+      "kanjiId": 1304,
+      "lessonId": 13,
+      "character": "入",
+      "onyomi": "ニュウ",
+      "kunyomi": "い.る",
+      "meaning": "Vào",
+      "strokeCount": 2
+    },
+    {
+      "kanjiId": 1305,
+      "lessonId": 13,
+      "character": "出",
+      "onyomi": "シュツ",
+      "kunyomi": "で.る",
+      "meaning": "Ra",
+      "strokeCount": 5
+    },
+    {
+      "kanjiId": 1306,
+      "lessonId": 13,
+      "character": "公",
+      "onyomi": "コウ",
+      "kunyomi": "おおやけ",
+      "meaning": "Công cộng",
+      "strokeCount": 4
+    },
+    {
+      "kanjiId": 1307,
+      "lessonId": 13,
+      "character": "園",
+      "onyomi": "エン",
+      "kunyomi": "その",
+      "meaning": "Vườn, công viên",
+      "strokeCount": 13
+    },
+    {
+      "kanjiId": 1308,
+      "lessonId": 13,
+      "character": "週",
+      "onyomi": "シュウ",
+      "kunyomi": "",
+      "meaning": "Tuần",
+      "strokeCount": 11
+    }
+  ]
+}

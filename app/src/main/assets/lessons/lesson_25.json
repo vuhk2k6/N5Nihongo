@@ -1,0 +1,431 @@
+{
+  "lesson": {
+    "id": 25,
+    "title": "～たら・～ても",
+    "description": "Câu điều kiện (nếu... thì), câu nhượng bộ (dù... cũng)"
+  },
+  "vocabulary": [
+    {
+      "wordId": 2501,
+      "lessonId": 25,
+      "kanji": "考えます",
+      "furigana": "かんがえます",
+      "romaji": "kangaemasu",
+      "meaning": "Suy nghĩ",
+      "type": "verb"
+    },
+    {
+      "wordId": 2502,
+      "lessonId": 25,
+      "kanji": "着きます",
+      "furigana": "つきます",
+      "romaji": "tsukimasu",
+      "meaning": "Đến nơi",
+      "type": "verb"
+    },
+    {
+      "wordId": 2503,
+      "lessonId": 25,
+      "kanji": "留学します",
+      "furigana": "りゅうがくします",
+      "romaji": "ryuugaku shimasu",
+      "meaning": "Du học",
+      "type": "verb"
+    },
+    {
+      "wordId": 2504,
+      "lessonId": 25,
+      "kanji": "取ります",
+      "furigana": "とります",
+      "romaji": "torimasu",
+      "meaning": "Lấy (tuổi)",
+      "type": "verb"
+    },
+    {
+      "wordId": 2505,
+      "lessonId": 25,
+      "kanji": "間に合います",
+      "furigana": "まにあいます",
+      "romaji": "ma ni aimasu",
+      "meaning": "Kịp giờ",
+      "type": "verb"
+    },
+    {
+      "wordId": 2506,
+      "lessonId": 25,
+      "kanji": "やります",
+      "furigana": "やります",
+      "romaji": "yarimasu",
+      "meaning": "Làm (thân mật)",
+      "type": "verb"
+    },
+    {
+      "wordId": 2507,
+      "lessonId": 25,
+      "kanji": "出席します",
+      "furigana": "しゅっせきします",
+      "romaji": "shusseki shimasu",
+      "meaning": "Tham dự",
+      "type": "verb"
+    },
+    {
+      "wordId": 2508,
+      "lessonId": 25,
+      "kanji": "お礼",
+      "furigana": "おれい",
+      "romaji": "orei",
+      "meaning": "Lời cảm ơn",
+      "type": "noun"
+    },
+    {
+      "wordId": 2509,
+      "lessonId": 25,
+      "kanji": "田舎",
+      "furigana": "いなか",
+      "romaji": "inaka",
+      "meaning": "Quê",
+      "type": "noun"
+    },
+    {
+      "wordId": 2510,
+      "lessonId": 25,
+      "kanji": "大使館",
+      "furigana": "たいしかん",
+      "romaji": "taishikan",
+      "meaning": "Đại sứ quán",
+      "type": "noun"
+    },
+    {
+      "wordId": 2511,
+      "lessonId": 25,
+      "kanji": "億",
+      "furigana": "おく",
+      "romaji": "oku",
+      "meaning": "Một trăm triệu",
+      "type": "noun"
+    },
+    {
+      "wordId": 2512,
+      "lessonId": 25,
+      "kanji": "生活",
+      "furigana": "せいかつ",
+      "romaji": "seikatsu",
+      "meaning": "Cuộc sống",
+      "type": "noun"
+    },
+    {
+      "wordId": 2513,
+      "lessonId": 25,
+      "kanji": "社長",
+      "furigana": "しゃちょう",
+      "romaji": "shachou",
+      "meaning": "Giám đốc",
+      "type": "noun"
+    },
+    {
+      "wordId": 2514,
+      "lessonId": 25,
+      "kanji": "部長",
+      "furigana": "ぶちょう",
+      "romaji": "buchou",
+      "meaning": "Trưởng phòng",
+      "type": "noun"
+    },
+    {
+      "wordId": 2515,
+      "lessonId": 25,
+      "kanji": "課長",
+      "furigana": "かちょう",
+      "romaji": "kachou",
+      "meaning": "Tổ trưởng, trưởng nhóm",
+      "type": "noun"
+    },
+    {
+      "wordId": 2516,
+      "lessonId": 25,
+      "kanji": "もし",
+      "furigana": "もし",
+      "romaji": "moshi",
+      "meaning": "Nếu",
+      "type": "adverb"
+    },
+    {
+      "wordId": 2517,
+      "lessonId": 25,
+      "kanji": "いくら",
+      "furigana": "いくら",
+      "romaji": "ikura",
+      "meaning": "Cho dù... bao nhiêu",
+      "type": "adverb"
+    },
+    {
+      "wordId": 2518,
+      "lessonId": 25,
+      "kanji": "頑張ります",
+      "furigana": "がんばります",
+      "romaji": "ganbarimasu",
+      "meaning": "Cố gắng",
+      "type": "verb"
+    },
+    {
+      "wordId": 2519,
+      "lessonId": 25,
+      "kanji": "返事",
+      "furigana": "へんじ",
+      "romaji": "henji",
+      "meaning": "Trả lời, thư hồi âm",
+      "type": "noun"
+    },
+    {
+      "wordId": 2520,
+      "lessonId": 25,
+      "kanji": "後で",
+      "furigana": "あとで",
+      "romaji": "ato de",
+      "meaning": "Sau, sau này",
+      "type": "adverb"
+    },
+    {
+      "wordId": 2521,
+      "lessonId": 25,
+      "kanji": "結婚",
+      "furigana": "けっこん",
+      "romaji": "kekkon",
+      "meaning": "Kết hôn",
+      "type": "noun"
+    },
+    {
+      "wordId": 2522,
+      "lessonId": 25,
+      "kanji": "離婚",
+      "furigana": "りこん",
+      "romaji": "rikon",
+      "meaning": "Ly hôn",
+      "type": "noun"
+    },
+    {
+      "wordId": 2523,
+      "lessonId": 25,
+      "kanji": "高校生",
+      "furigana": "こうこうせい",
+      "romaji": "koukousei",
+      "meaning": "Học sinh cấp 3",
+      "type": "noun"
+    },
+    {
+      "wordId": 2524,
+      "lessonId": 25,
+      "kanji": "中学生",
+      "furigana": "ちゅうがくせい",
+      "romaji": "chuugakusei",
+      "meaning": "Học sinh cấp 2",
+      "type": "noun"
+    },
+    {
+      "wordId": 2525,
+      "lessonId": 25,
+      "kanji": "大学生",
+      "furigana": "だいがくせい",
+      "romaji": "daigakusei",
+      "meaning": "Sinh viên đại học",
+      "type": "noun"
+    },
+    {
+      "wordId": 2526,
+      "lessonId": 25,
+      "kanji": "天気",
+      "furigana": "てんき",
+      "romaji": "tenki",
+      "meaning": "Thời tiết",
+      "type": "noun"
+    },
+    {
+      "wordId": 2527,
+      "lessonId": 25,
+      "kanji": "事故",
+      "furigana": "じこ",
+      "romaji": "jiko",
+      "meaning": "Tai nạn",
+      "type": "noun"
+    },
+    {
+      "wordId": 2528,
+      "lessonId": 25,
+      "kanji": "もちろん",
+      "furigana": "もちろん",
+      "romaji": "mochiron",
+      "meaning": "Tất nhiên",
+      "type": "adverb"
+    },
+    {
+      "wordId": 2529,
+      "lessonId": 25,
+      "kanji": "良かったら",
+      "furigana": "よかったら",
+      "romaji": "yokattara",
+      "meaning": "Nếu được",
+      "type": "expression"
+    },
+    {
+      "wordId": 2530,
+      "lessonId": 25,
+      "kanji": "それでは",
+      "furigana": "それでは",
+      "romaji": "soredewa",
+      "meaning": "Vậy thì",
+      "type": "expression"
+    }
+  ],
+  "grammar": [
+    {
+      "grammarId": 2501,
+      "lessonId": 25,
+      "title": "V(た形) / い-adj / な-adj / N + ら、～",
+      "structure": "～たら、～",
+      "explanation": "Câu điều kiện. Nếu/sau khi ~ thì ~. い-adj: ～かったら. な-adj/N: ～だったら.",
+      "examples": [
+        {
+          "japanese": "雨が 降ったら、出かけません。",
+          "vietnamese": "Nếu trời mưa thì tôi không ra ngoài."
+        },
+        {
+          "japanese": "安かったら、買います。",
+          "vietnamese": "Nếu rẻ thì tôi sẽ mua."
+        },
+        {
+          "japanese": "10時に なったら、出かけましょう。",
+          "vietnamese": "Đến 10 giờ thì chúng ta đi nhé."
+        }
+      ]
+    },
+    {
+      "grammarId": 2502,
+      "lessonId": 25,
+      "title": "V て / い-adj くて / な-adj で / N で + も、～",
+      "structure": "～ても、～",
+      "explanation": "Câu nhượng bộ. Cho dù ~ thì cũng ~.",
+      "examples": [
+        {
+          "japanese": "雨が 降っても、出かけます。",
+          "vietnamese": "Cho dù trời mưa tôi cũng ra ngoài."
+        },
+        {
+          "japanese": "高くても、買います。",
+          "vietnamese": "Cho dù đắt tôi cũng sẽ mua."
+        },
+        {
+          "japanese": "日曜日でも、働きます。",
+          "vietnamese": "Cho dù chủ nhật tôi cũng làm việc."
+        }
+      ]
+    },
+    {
+      "grammarId": 2503,
+      "lessonId": 25,
+      "title": "もし～たら、～",
+      "structure": "もし + V(た形) ら、～",
+      "explanation": "Câu giả định. Nếu giả sử ~ thì ~. もし đi kèm với たら để nhấn mạnh giả định.",
+      "examples": [
+        {
+          "japanese": "もし 1億円 あったら、世界中を 旅行したいです。",
+          "vietnamese": "Nếu có 100 triệu yên, tôi muốn đi du lịch khắp thế giới."
+        },
+        {
+          "japanese": "もし 雨が 降ったら、試合は 中止です。",
+          "vietnamese": "Nếu trời mưa thì trận đấu bị huỷ."
+        }
+      ]
+    },
+    {
+      "grammarId": 2504,
+      "lessonId": 25,
+      "title": "いくら ～ても、～",
+      "structure": "いくら ～ても、～",
+      "explanation": "Cho dù ~ bao nhiêu đi nữa thì cũng ~.",
+      "examples": [
+        {
+          "japanese": "いくら 高くても、買います。",
+          "vietnamese": "Cho dù đắt bao nhiêu tôi cũng sẽ mua."
+        },
+        {
+          "japanese": "いくら 考えても、分かりません。",
+          "vietnamese": "Cho dù nghĩ thế nào cũng không hiểu."
+        }
+      ]
+    }
+  ],
+  "kanji": [
+    {
+      "kanjiId": 2501,
+      "lessonId": 25,
+      "character": "考",
+      "onyomi": "コウ",
+      "kunyomi": "かんが.える",
+      "meaning": "Suy nghĩ",
+      "strokeCount": 6
+    },
+    {
+      "kanjiId": 2502,
+      "lessonId": 25,
+      "character": "着",
+      "onyomi": "チャク",
+      "kunyomi": "つ.く",
+      "meaning": "Đến",
+      "strokeCount": 12
+    },
+    {
+      "kanjiId": 2503,
+      "lessonId": 25,
+      "character": "留",
+      "onyomi": "リュウ",
+      "kunyomi": "と.める",
+      "meaning": "Lưu lại",
+      "strokeCount": 10
+    },
+    {
+      "kanjiId": 2504,
+      "lessonId": 25,
+      "character": "学",
+      "onyomi": "ガク",
+      "kunyomi": "まな.ぶ",
+      "meaning": "Học",
+      "strokeCount": 8
+    },
+    {
+      "kanjiId": 2505,
+      "lessonId": 25,
+      "character": "館",
+      "onyomi": "カン",
+      "kunyomi": "やかた",
+      "meaning": "Quán, tòa nhà",
+      "strokeCount": 16
+    },
+    {
+      "kanjiId": 2506,
+      "lessonId": 25,
+      "character": "使",
+      "onyomi": "シ",
+      "kunyomi": "つか.う",
+      "meaning": "Sử dụng",
+      "strokeCount": 8
+    },
+    {
+      "kanjiId": 2507,
+      "lessonId": 25,
+      "character": "活",
+      "onyomi": "カツ",
+      "kunyomi": "い.きる",
+      "meaning": "Sống, hoạt động",
+      "strokeCount": 9
+    },
+    {
+      "kanjiId": 2508,
+      "lessonId": 25,
+      "character": "億",
+      "onyomi": "オク",
+      "kunyomi": "",
+      "meaning": "Trăm triệu",
+      "strokeCount": 15
+    }
+  ]
+}

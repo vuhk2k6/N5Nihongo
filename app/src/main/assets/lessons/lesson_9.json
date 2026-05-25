@@ -1,0 +1,423 @@
+{
+  "lesson": {
+    "id": 9,
+    "title": "好きです・上手です",
+    "description": "Sở thích, khả năng, lý do với から"
+  },
+  "vocabulary": [
+    {
+      "wordId": 901,
+      "lessonId": 9,
+      "kanji": "好き",
+      "furigana": "すき（な）",
+      "romaji": "suki (na)",
+      "meaning": "Thích",
+      "type": "na-adj"
+    },
+    {
+      "wordId": 902,
+      "lessonId": 9,
+      "kanji": "嫌い",
+      "furigana": "きらい（な）",
+      "romaji": "kirai (na)",
+      "meaning": "Ghét",
+      "type": "na-adj"
+    },
+    {
+      "wordId": 903,
+      "lessonId": 9,
+      "kanji": "上手",
+      "furigana": "じょうず（な）",
+      "romaji": "jouzu (na)",
+      "meaning": "Giỏi",
+      "type": "na-adj"
+    },
+    {
+      "wordId": 904,
+      "lessonId": 9,
+      "kanji": "下手",
+      "furigana": "へた（な）",
+      "romaji": "heta (na)",
+      "meaning": "Kém",
+      "type": "na-adj"
+    },
+    {
+      "wordId": 905,
+      "lessonId": 9,
+      "kanji": "",
+      "furigana": "わかります",
+      "romaji": "wakarimasu",
+      "meaning": "Hiểu, biết",
+      "type": "verb"
+    },
+    {
+      "wordId": 906,
+      "lessonId": 9,
+      "kanji": "あります",
+      "furigana": "あります",
+      "romaji": "arimasu",
+      "meaning": "Có (đồ vật)",
+      "type": "verb"
+    },
+    {
+      "wordId": 907,
+      "lessonId": 9,
+      "kanji": "料理",
+      "furigana": "りょうり",
+      "romaji": "ryouri",
+      "meaning": "Nấu ăn, món ăn",
+      "type": "noun"
+    },
+    {
+      "wordId": 908,
+      "lessonId": 9,
+      "kanji": "飲み物",
+      "furigana": "のみもの",
+      "romaji": "nomimono",
+      "meaning": "Đồ uống",
+      "type": "noun"
+    },
+    {
+      "wordId": 909,
+      "lessonId": 9,
+      "kanji": "食べ物",
+      "furigana": "たべもの",
+      "romaji": "tabemono",
+      "meaning": "Đồ ăn",
+      "type": "noun"
+    },
+    {
+      "wordId": 910,
+      "lessonId": 9,
+      "kanji": "音楽",
+      "furigana": "おんがく",
+      "romaji": "ongaku",
+      "meaning": "Âm nhạc",
+      "type": "noun"
+    },
+    {
+      "wordId": 911,
+      "lessonId": 9,
+      "kanji": "映画",
+      "furigana": "えいが",
+      "romaji": "eiga",
+      "meaning": "Phim",
+      "type": "noun"
+    },
+    {
+      "wordId": 912,
+      "lessonId": 9,
+      "kanji": "歌",
+      "furigana": "うた",
+      "romaji": "uta",
+      "meaning": "Bài hát",
+      "type": "noun"
+    },
+    {
+      "wordId": 913,
+      "lessonId": 9,
+      "kanji": "",
+      "furigana": "スポーツ",
+      "romaji": "supootsu",
+      "meaning": "Thể thao",
+      "type": "noun"
+    },
+    {
+      "wordId": 914,
+      "lessonId": 9,
+      "kanji": "",
+      "furigana": "サッカー",
+      "romaji": "sakkaa",
+      "meaning": "Bóng đá",
+      "type": "noun"
+    },
+    {
+      "wordId": 915,
+      "lessonId": 9,
+      "kanji": "野球",
+      "furigana": "やきゅう",
+      "romaji": "yakyuu",
+      "meaning": "Bóng chày",
+      "type": "noun"
+    },
+    {
+      "wordId": 916,
+      "lessonId": 9,
+      "kanji": "",
+      "furigana": "テニス",
+      "romaji": "tenisu",
+      "meaning": "Tennis",
+      "type": "noun"
+    },
+    {
+      "wordId": 917,
+      "lessonId": 9,
+      "kanji": "",
+      "furigana": "ダンス",
+      "romaji": "dansu",
+      "meaning": "Khiêu vũ",
+      "type": "noun"
+    },
+    {
+      "wordId": 918,
+      "lessonId": 9,
+      "kanji": "旅行",
+      "furigana": "りょこう",
+      "romaji": "ryokou",
+      "meaning": "Du lịch",
+      "type": "noun"
+    },
+    {
+      "wordId": 919,
+      "lessonId": 9,
+      "kanji": "",
+      "furigana": "クラシック",
+      "romaji": "kurashikku",
+      "meaning": "Nhạc cổ điển",
+      "type": "noun"
+    },
+    {
+      "wordId": 920,
+      "lessonId": 9,
+      "kanji": "",
+      "furigana": "ジャズ",
+      "romaji": "jazu",
+      "meaning": "Nhạc Jazz",
+      "type": "noun"
+    },
+    {
+      "wordId": 921,
+      "lessonId": 9,
+      "kanji": "",
+      "furigana": "コンサート",
+      "romaji": "konsaato",
+      "meaning": "Buổi hoà nhạc",
+      "type": "noun"
+    },
+    {
+      "wordId": 922,
+      "lessonId": 9,
+      "kanji": "",
+      "furigana": "カラオケ",
+      "romaji": "karaoke",
+      "meaning": "Karaoke",
+      "type": "noun"
+    },
+    {
+      "wordId": 923,
+      "lessonId": 9,
+      "kanji": "漢字",
+      "furigana": "かんじ",
+      "romaji": "kanji",
+      "meaning": "Chữ Hán",
+      "type": "noun"
+    },
+    {
+      "wordId": 924,
+      "lessonId": 9,
+      "kanji": "ひらがな",
+      "furigana": "ひらがな",
+      "romaji": "hiragana",
+      "meaning": "Hiragana",
+      "type": "noun"
+    },
+    {
+      "wordId": 925,
+      "lessonId": 9,
+      "kanji": "",
+      "furigana": "よく",
+      "romaji": "yoku",
+      "meaning": "Thường xuyên, rõ",
+      "type": "adverb"
+    },
+    {
+      "wordId": 926,
+      "lessonId": 9,
+      "kanji": "",
+      "furigana": "だいたい",
+      "romaji": "daitai",
+      "meaning": "Đại khái",
+      "type": "adverb"
+    },
+    {
+      "wordId": 927,
+      "lessonId": 9,
+      "kanji": "",
+      "furigana": "たくさん",
+      "romaji": "takusan",
+      "meaning": "Nhiều",
+      "type": "adverb"
+    },
+    {
+      "wordId": 928,
+      "lessonId": 9,
+      "kanji": "少し",
+      "furigana": "すこし",
+      "romaji": "sukoshi",
+      "meaning": "Một chút",
+      "type": "adverb"
+    },
+    {
+      "wordId": 929,
+      "lessonId": 9,
+      "kanji": "全然",
+      "furigana": "ぜんぜん",
+      "romaji": "zenzen",
+      "meaning": "Hoàn toàn không (+ phủ định)",
+      "type": "adverb"
+    },
+    {
+      "wordId": 930,
+      "lessonId": 9,
+      "kanji": "",
+      "furigana": "どうして",
+      "romaji": "doushite",
+      "meaning": "Tại sao",
+      "type": "adverb"
+    }
+  ],
+  "grammar": [
+    {
+      "grammarId": 901,
+      "lessonId": 9,
+      "title": "N が 好きです / 嫌いです",
+      "structure": "N が すき / きらい です",
+      "explanation": "Diễn đạt thích/ghét cái gì. が chỉ đối tượng của tính từ.",
+      "examples": [
+        {
+          "japanese": "わたしは 音楽が 好きです。",
+          "vietnamese": "Tôi thích âm nhạc."
+        },
+        {
+          "japanese": "野菜が 嫌いです。",
+          "vietnamese": "Tôi ghét rau."
+        }
+      ]
+    },
+    {
+      "grammarId": 902,
+      "lessonId": 9,
+      "title": "N が 上手です / 下手です",
+      "structure": "N が じょうず / へた です",
+      "explanation": "Diễn đạt giỏi/kém ở lĩnh vực nào đó.",
+      "examples": [
+        {
+          "japanese": "ミラーさんは 日本語が 上手です。",
+          "vietnamese": "Anh Miller giỏi tiếng Nhật."
+        },
+        {
+          "japanese": "わたしは 料理が 下手です。",
+          "vietnamese": "Tôi nấu ăn kém."
+        }
+      ]
+    },
+    {
+      "grammarId": 903,
+      "lessonId": 9,
+      "title": "N が わかります / N が あります",
+      "structure": "N が わかります / あります",
+      "explanation": "わかります = hiểu, biết; あります = có (đồ vật / sự kiện). Đối tượng dùng が.",
+      "examples": [
+        {
+          "japanese": "日本語が わかります。",
+          "vietnamese": "Tôi hiểu tiếng Nhật."
+        },
+        {
+          "japanese": "明日 テストが あります。",
+          "vietnamese": "Ngày mai có bài kiểm tra."
+        }
+      ]
+    },
+    {
+      "grammarId": 904,
+      "lessonId": 9,
+      "title": "～から、～ (Lý do)",
+      "structure": "S1 から、S2",
+      "explanation": "から đặt sau câu lý do để giải thích. S1 là lý do, S2 là kết quả.",
+      "examples": [
+        {
+          "japanese": "時間が ありませんから、新聞を 読みません。",
+          "vietnamese": "Vì không có thời gian nên tôi không đọc báo."
+        },
+        {
+          "japanese": "どうして 京都へ 行きますか。…きれいな お寺が ありますから。",
+          "vietnamese": "Tại sao bạn đến Kyoto? – Vì có những ngôi chùa đẹp."
+        }
+      ]
+    }
+  ],
+  "kanji": [
+    {
+      "kanjiId": 901,
+      "lessonId": 9,
+      "character": "好",
+      "onyomi": "コウ",
+      "kunyomi": "す.き",
+      "meaning": "Thích",
+      "strokeCount": 6
+    },
+    {
+      "kanjiId": 902,
+      "lessonId": 9,
+      "character": "音",
+      "onyomi": "オン",
+      "kunyomi": "おと",
+      "meaning": "Âm thanh",
+      "strokeCount": 9
+    },
+    {
+      "kanjiId": 903,
+      "lessonId": 9,
+      "character": "楽",
+      "onyomi": "ガク/ラク",
+      "kunyomi": "たの.しい",
+      "meaning": "Nhạc, vui",
+      "strokeCount": 13
+    },
+    {
+      "kanjiId": 904,
+      "lessonId": 9,
+      "character": "映",
+      "onyomi": "エイ",
+      "kunyomi": "うつ.る",
+      "meaning": "Phản chiếu",
+      "strokeCount": 9
+    },
+    {
+      "kanjiId": 905,
+      "lessonId": 9,
+      "character": "画",
+      "onyomi": "ガ",
+      "kunyomi": "",
+      "meaning": "Tranh, hoạ",
+      "strokeCount": 8
+    },
+    {
+      "kanjiId": 906,
+      "lessonId": 9,
+      "character": "歌",
+      "onyomi": "カ",
+      "kunyomi": "うた",
+      "meaning": "Hát",
+      "strokeCount": 14
+    },
+    {
+      "kanjiId": 907,
+      "lessonId": 9,
+      "character": "上",
+      "onyomi": "ジョウ",
+      "kunyomi": "うえ",
+      "meaning": "Trên, giỏi",
+      "strokeCount": 3
+    },
+    {
+      "kanjiId": 908,
+      "lessonId": 9,
+      "character": "下",
+      "onyomi": "カ",
+      "kunyomi": "した",
+      "meaning": "Dưới, kém",
+      "strokeCount": 3
+    }
+  ]
+}

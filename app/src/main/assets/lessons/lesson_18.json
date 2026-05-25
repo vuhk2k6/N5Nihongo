@@ -1,0 +1,431 @@
+{
+  "lesson": {
+    "id": 18,
+    "title": "辞書形・ことが できます",
+    "description": "Dạng từ điển, khả năng, sở thích, trình tự trước"
+  },
+  "vocabulary": [
+    {
+      "wordId": 1801,
+      "lessonId": 18,
+      "kanji": "弾きます",
+      "furigana": "ひきます",
+      "romaji": "hikimasu",
+      "meaning": "Chơi (đàn)",
+      "type": "verb"
+    },
+    {
+      "wordId": 1802,
+      "lessonId": 18,
+      "kanji": "歌います",
+      "furigana": "うたいます",
+      "romaji": "utaimasu",
+      "meaning": "Hát",
+      "type": "verb"
+    },
+    {
+      "wordId": 1803,
+      "lessonId": 18,
+      "kanji": "集めます",
+      "furigana": "あつめます",
+      "romaji": "atsumemasu",
+      "meaning": "Thu thập, tập hợp",
+      "type": "verb"
+    },
+    {
+      "wordId": 1804,
+      "lessonId": 18,
+      "kanji": "捨てます",
+      "furigana": "すてます",
+      "romaji": "sutemasu",
+      "meaning": "Vứt bỏ",
+      "type": "verb"
+    },
+    {
+      "wordId": 1805,
+      "lessonId": 18,
+      "kanji": "換えます",
+      "furigana": "かえます",
+      "romaji": "kaemasu",
+      "meaning": "Đổi",
+      "type": "verb"
+    },
+    {
+      "wordId": 1806,
+      "lessonId": 18,
+      "kanji": "運転します",
+      "furigana": "うんてんします",
+      "romaji": "unten shimasu",
+      "meaning": "Lái xe",
+      "type": "verb"
+    },
+    {
+      "wordId": 1807,
+      "lessonId": 18,
+      "kanji": "予約します",
+      "furigana": "よやくします",
+      "romaji": "yoyaku shimasu",
+      "meaning": "Đặt trước",
+      "type": "verb"
+    },
+    {
+      "wordId": 1808,
+      "lessonId": 18,
+      "kanji": "見物します",
+      "furigana": "けんぶつします",
+      "romaji": "kenbutsu shimasu",
+      "meaning": "Tham quan",
+      "type": "verb"
+    },
+    {
+      "wordId": 1809,
+      "lessonId": 18,
+      "kanji": "修理します",
+      "furigana": "しゅうりします",
+      "romaji": "shuuri shimasu",
+      "meaning": "Sửa chữa",
+      "type": "verb"
+    },
+    {
+      "wordId": 1810,
+      "lessonId": 18,
+      "kanji": "",
+      "furigana": "ピアノ",
+      "romaji": "piano",
+      "meaning": "Đàn piano",
+      "type": "noun"
+    },
+    {
+      "wordId": 1811,
+      "lessonId": 18,
+      "kanji": "",
+      "furigana": "ギター",
+      "romaji": "gitaa",
+      "meaning": "Đàn guitar",
+      "type": "noun"
+    },
+    {
+      "wordId": 1812,
+      "lessonId": 18,
+      "kanji": "趣味",
+      "furigana": "しゅみ",
+      "romaji": "shumi",
+      "meaning": "Sở thích",
+      "type": "noun"
+    },
+    {
+      "wordId": 1813,
+      "lessonId": 18,
+      "kanji": "日記",
+      "furigana": "にっき",
+      "romaji": "nikki",
+      "meaning": "Nhật ký",
+      "type": "noun"
+    },
+    {
+      "wordId": 1814,
+      "lessonId": 18,
+      "kanji": "お祈り",
+      "furigana": "おいのり",
+      "romaji": "oinori",
+      "meaning": "Cầu nguyện",
+      "type": "noun"
+    },
+    {
+      "wordId": 1815,
+      "lessonId": 18,
+      "kanji": "経済",
+      "furigana": "けいざい",
+      "romaji": "keizai",
+      "meaning": "Kinh tế",
+      "type": "noun"
+    },
+    {
+      "wordId": 1816,
+      "lessonId": 18,
+      "kanji": "歴史",
+      "furigana": "れきし",
+      "romaji": "rekishi",
+      "meaning": "Lịch sử",
+      "type": "noun"
+    },
+    {
+      "wordId": 1817,
+      "lessonId": 18,
+      "kanji": "文学",
+      "furigana": "ぶんがく",
+      "romaji": "bungaku",
+      "meaning": "Văn học",
+      "type": "noun"
+    },
+    {
+      "wordId": 1818,
+      "lessonId": 18,
+      "kanji": "医学",
+      "furigana": "いがく",
+      "romaji": "igaku",
+      "meaning": "Y học",
+      "type": "noun"
+    },
+    {
+      "wordId": 1819,
+      "lessonId": 18,
+      "kanji": "",
+      "furigana": "メートル",
+      "romaji": "meetoru",
+      "meaning": "Mét",
+      "type": "noun"
+    },
+    {
+      "wordId": 1820,
+      "lessonId": 18,
+      "kanji": "",
+      "furigana": "インターネット",
+      "romaji": "intaanetto",
+      "meaning": "Internet",
+      "type": "noun"
+    },
+    {
+      "wordId": 1821,
+      "lessonId": 18,
+      "kanji": "国際",
+      "furigana": "こくさい",
+      "romaji": "kokusai",
+      "meaning": "Quốc tế",
+      "type": "noun"
+    },
+    {
+      "wordId": 1822,
+      "lessonId": 18,
+      "kanji": "暗証番号",
+      "furigana": "あんしょうばんごう",
+      "romaji": "anshou bangou",
+      "meaning": "Mật khẩu",
+      "type": "noun"
+    },
+    {
+      "wordId": 1823,
+      "lessonId": 18,
+      "kanji": "",
+      "furigana": "カード",
+      "romaji": "kaado",
+      "meaning": "Thẻ",
+      "type": "noun"
+    },
+    {
+      "wordId": 1824,
+      "lessonId": 18,
+      "kanji": "夢",
+      "furigana": "ゆめ",
+      "romaji": "yume",
+      "meaning": "Giấc mơ",
+      "type": "noun"
+    },
+    {
+      "wordId": 1825,
+      "lessonId": 18,
+      "kanji": "ペット",
+      "furigana": "ペット",
+      "romaji": "petto",
+      "meaning": "Thú cưng",
+      "type": "noun"
+    },
+    {
+      "wordId": 1826,
+      "lessonId": 18,
+      "kanji": "",
+      "furigana": "できます",
+      "romaji": "dekimasu",
+      "meaning": "Có thể, làm được",
+      "type": "verb"
+    },
+    {
+      "wordId": 1827,
+      "lessonId": 18,
+      "kanji": "本当に",
+      "furigana": "ほんとうに",
+      "romaji": "hontou ni",
+      "meaning": "Thật sự",
+      "type": "adverb"
+    },
+    {
+      "wordId": 1828,
+      "lessonId": 18,
+      "kanji": "特に",
+      "furigana": "とくに",
+      "romaji": "toku ni",
+      "meaning": "Đặc biệt",
+      "type": "adverb"
+    },
+    {
+      "wordId": 1829,
+      "lessonId": 18,
+      "kanji": "夜",
+      "furigana": "よる",
+      "romaji": "yoru",
+      "meaning": "Đêm",
+      "type": "noun"
+    },
+    {
+      "wordId": 1830,
+      "lessonId": 18,
+      "kanji": "ロビー",
+      "furigana": "ロビー",
+      "romaji": "robii",
+      "meaning": "Sảnh",
+      "type": "noun"
+    }
+  ],
+  "grammar": [
+    {
+      "grammarId": 1801,
+      "lessonId": 18,
+      "title": "Cách chia 辞書形 (V dictionary form)",
+      "structure": "Nhóm I / II / III",
+      "explanation": "Nhóm I: ます → cột う (買います→買う). Nhóm II: bỏ ます thêm る (食べる). Nhóm III: します→する, きます→くる.",
+      "examples": [
+        {
+          "japanese": "読みます → 読む",
+          "vietnamese": "yomimasu → yomu"
+        },
+        {
+          "japanese": "食べます → 食べる",
+          "vietnamese": "tabemasu → taberu"
+        },
+        {
+          "japanese": "します → する",
+          "vietnamese": "shimasu → suru"
+        }
+      ]
+    },
+    {
+      "grammarId": 1802,
+      "lessonId": 18,
+      "title": "N / V(辞書形) ことが できます",
+      "structure": "N / V(辞書形) こと が できます",
+      "explanation": "Diễn đạt khả năng hoặc hoàn cảnh cho phép. Có thể ~.",
+      "examples": [
+        {
+          "japanese": "ミラーさんは 漢字を 読む ことが できます。",
+          "vietnamese": "Anh Miller có thể đọc chữ Hán."
+        },
+        {
+          "japanese": "カードで 払う ことが できます。",
+          "vietnamese": "Có thể trả bằng thẻ."
+        },
+        {
+          "japanese": "日本語を 話す ことが できますか。",
+          "vietnamese": "Bạn nói được tiếng Nhật không?"
+        }
+      ]
+    },
+    {
+      "grammarId": 1803,
+      "lessonId": 18,
+      "title": "わたしの 趣味は V(辞書形) ことです",
+      "structure": "しゅみは V(辞書形) こと です",
+      "explanation": "Diễn đạt sở thích bằng động từ.",
+      "examples": [
+        {
+          "japanese": "わたしの 趣味は 映画を 見る ことです。",
+          "vietnamese": "Sở thích của tôi là xem phim."
+        },
+        {
+          "japanese": "趣味は 写真を 撮る ことです。",
+          "vietnamese": "Sở thích của tôi là chụp ảnh."
+        }
+      ]
+    },
+    {
+      "grammarId": 1804,
+      "lessonId": 18,
+      "title": "V(辞書形) / N の 前に、V",
+      "structure": "V(辞書形) / N の まえに、V",
+      "explanation": "Trước khi làm V1 hoặc trước thời điểm N, làm V2.",
+      "examples": [
+        {
+          "japanese": "寝る 前に、本を 読みます。",
+          "vietnamese": "Trước khi ngủ, tôi đọc sách."
+        },
+        {
+          "japanese": "食事の 前に、手を 洗います。",
+          "vietnamese": "Trước bữa ăn, tôi rửa tay."
+        }
+      ]
+    }
+  ],
+  "kanji": [
+    {
+      "kanjiId": 1801,
+      "lessonId": 18,
+      "character": "歌",
+      "onyomi": "カ",
+      "kunyomi": "うた",
+      "meaning": "Hát",
+      "strokeCount": 14
+    },
+    {
+      "kanjiId": 1802,
+      "lessonId": 18,
+      "character": "集",
+      "onyomi": "シュウ",
+      "kunyomi": "あつ.める",
+      "meaning": "Thu thập",
+      "strokeCount": 12
+    },
+    {
+      "kanjiId": 1803,
+      "lessonId": 18,
+      "character": "運",
+      "onyomi": "ウン",
+      "kunyomi": "はこ.ぶ",
+      "meaning": "Vận chuyển",
+      "strokeCount": 12
+    },
+    {
+      "kanjiId": 1804,
+      "lessonId": 18,
+      "character": "転",
+      "onyomi": "テン",
+      "kunyomi": "ころ.がる",
+      "meaning": "Lăn, chuyển",
+      "strokeCount": 11
+    },
+    {
+      "kanjiId": 1805,
+      "lessonId": 18,
+      "character": "予",
+      "onyomi": "ヨ",
+      "kunyomi": "",
+      "meaning": "Trước, dự",
+      "strokeCount": 4
+    },
+    {
+      "kanjiId": 1806,
+      "lessonId": 18,
+      "character": "約",
+      "onyomi": "ヤク",
+      "kunyomi": "",
+      "meaning": "Hẹn, ước",
+      "strokeCount": 9
+    },
+    {
+      "kanjiId": 1807,
+      "lessonId": 18,
+      "character": "趣",
+      "onyomi": "シュ",
+      "kunyomi": "おもむき",
+      "meaning": "Thú vị",
+      "strokeCount": 15
+    },
+    {
+      "kanjiId": 1808,
+      "lessonId": 18,
+      "character": "味",
+      "onyomi": "ミ",
+      "kunyomi": "あじ",
+      "meaning": "Vị",
+      "strokeCount": 8
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1057697712823",
+    "project_id": "n5-nihongo",
+    "storage_bucket": "n5-nihongo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057697712823:android:cc99d879ee4d55b8729b32",
+        "android_client_info": {
+          "package_name": "com.vunv.n5nihongo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr-f20YXVj17SV7Tbu2EkXxDDNbIrbxZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

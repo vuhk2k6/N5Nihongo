@@ -1,0 +1,161 @@
+{
+  "days": [
+    {
+      "value": 1,
+      "reading": "ついたち",
+      "isException": true
+    },
+    {
+      "value": 2,
+      "reading": "ふつか",
+      "isException": true
+    },
+    {
+      "value": 3,
+      "reading": "みっか",
+      "isException": true
+    },
+    {
+      "value": 4,
+      "reading": "よっか",
+      "isException": true
+    },
+    {
+      "value": 5,
+      "reading": "いつか",
+      "isException": true
+    },
+    {
+      "value": 6,
+      "reading": "むいか",
+      "isException": true
+    },
+    {
+      "value": 7,
+      "reading": "なのか",
+      "isException": true
+    },
+    {
+      "value": 8,
+      "reading": "ようか",
+      "isException": true
+    },
+    {
+      "value": 9,
+      "reading": "ここのか",
+      "isException": true
+    },
+    {
+      "value": 10,
+      "reading": "とおか",
+      "isException": true
+    },
+    {
+      "value": 11,
+      "reading": "11にち",
+      "isException": false
+    },
+    {
+      "value": 12,
+      "reading": "12にち",
+      "isException": false
+    },
+    {
+      "value": 13,
+      "reading": "13にち",
+      "isException": false
+    },
+    {
+      "value": 14,
+      "reading": "じゅうよっか",
+      "isException": true
+    },
+    {
+      "value": 15,
+      "reading": "15にち",
+      "isException": false
+    },
+    {
+      "value": 16,
+      "reading": "16にち",
+      "isException": false
+    },
+    {
+      "value": 17,
+      "reading": "17にち",
+      "isException": false
+    },
+    {
+      "value": 18,
+      "reading": "18にち",
+      "isException": false
+    },
+    {
+      "value": 19,
+      "reading": "19にち",
+      "isException": false
+    },
+    {
+      "value": 20,
+      "reading": "はつか",
+      "isException": true
+    },
+    {
+      "value": 21,
+      "reading": "21にち",
+      "isException": false
+    },
+    {
+      "value": 22,
+      "reading": "22にち",
+      "isException": false
+    },
+    {
+      "value": 23,
+      "reading": "23にち",
+      "isException": false
+    },
+    {
+      "value": 24,
+      "reading": "にじゅうよっか",
+      "isException": true
+    },
+    {
+      "value": 25,
+      "reading": "25にち",
+      "isException": false
+    },
+    {
+      "value": 26,
+      "reading": "26にち",
+      "isException": false
+    },
+    {
+      "value": 27,
+      "reading": "27にち",
+      "isException": false
+    },
+    {
+      "value": 28,
+      "reading": "28にち",
+      "isException": false
+    },
+    {
+      "value": 29,
+      "reading": "29にち",
+      "isException": false
+    },
+    {
+      "value": 30,
+      "reading": "30にち",
+      "isException": false
+    },
+    {
+      "value": 31,
+      "reading": "31にち",
+      "isException": false
+    }
+  ],
+  "months": [],
+  "weekdays": []
+}

@@ -1,0 +1,423 @@
+{
+  "lesson": {
+    "id": 8,
+    "title": "形容詞",
+    "description": "Tính từ đuôi い và đuôi な, mô tả người và đồ vật"
+  },
+  "vocabulary": [
+    {
+      "wordId": 801,
+      "lessonId": 8,
+      "kanji": "大きい",
+      "furigana": "おおきい",
+      "romaji": "ookii",
+      "meaning": "To, lớn",
+      "type": "i-adj"
+    },
+    {
+      "wordId": 802,
+      "lessonId": 8,
+      "kanji": "小さい",
+      "furigana": "ちいさい",
+      "romaji": "chiisai",
+      "meaning": "Nhỏ, bé",
+      "type": "i-adj"
+    },
+    {
+      "wordId": 803,
+      "lessonId": 8,
+      "kanji": "新しい",
+      "furigana": "あたらしい",
+      "romaji": "atarashii",
+      "meaning": "Mới",
+      "type": "i-adj"
+    },
+    {
+      "wordId": 804,
+      "lessonId": 8,
+      "kanji": "古い",
+      "furigana": "ふるい",
+      "romaji": "furui",
+      "meaning": "Cũ",
+      "type": "i-adj"
+    },
+    {
+      "wordId": 805,
+      "lessonId": 8,
+      "kanji": "高い",
+      "furigana": "たかい",
+      "romaji": "takai",
+      "meaning": "Cao, đắt",
+      "type": "i-adj"
+    },
+    {
+      "wordId": 806,
+      "lessonId": 8,
+      "kanji": "安い",
+      "furigana": "やすい",
+      "romaji": "yasui",
+      "meaning": "Rẻ",
+      "type": "i-adj"
+    },
+    {
+      "wordId": 807,
+      "lessonId": 8,
+      "kanji": "低い",
+      "furigana": "ひくい",
+      "romaji": "hikui",
+      "meaning": "Thấp",
+      "type": "i-adj"
+    },
+    {
+      "wordId": 808,
+      "lessonId": 8,
+      "kanji": "暑い",
+      "furigana": "あつい",
+      "romaji": "atsui",
+      "meaning": "Nóng (thời tiết)",
+      "type": "i-adj"
+    },
+    {
+      "wordId": 809,
+      "lessonId": 8,
+      "kanji": "寒い",
+      "furigana": "さむい",
+      "romaji": "samui",
+      "meaning": "Lạnh",
+      "type": "i-adj"
+    },
+    {
+      "wordId": 810,
+      "lessonId": 8,
+      "kanji": "熱い",
+      "furigana": "あつい",
+      "romaji": "atsui",
+      "meaning": "Nóng (đồ vật)",
+      "type": "i-adj"
+    },
+    {
+      "wordId": 811,
+      "lessonId": 8,
+      "kanji": "冷たい",
+      "furigana": "つめたい",
+      "romaji": "tsumetai",
+      "meaning": "Lạnh (đồ vật)",
+      "type": "i-adj"
+    },
+    {
+      "wordId": 812,
+      "lessonId": 8,
+      "kanji": "難しい",
+      "furigana": "むずかしい",
+      "romaji": "muzukashii",
+      "meaning": "Khó",
+      "type": "i-adj"
+    },
+    {
+      "wordId": 813,
+      "lessonId": 8,
+      "kanji": "易しい",
+      "furigana": "やさしい",
+      "romaji": "yasashii",
+      "meaning": "Dễ",
+      "type": "i-adj"
+    },
+    {
+      "wordId": 814,
+      "lessonId": 8,
+      "kanji": "",
+      "furigana": "おいしい",
+      "romaji": "oishii",
+      "meaning": "Ngon",
+      "type": "i-adj"
+    },
+    {
+      "wordId": 815,
+      "lessonId": 8,
+      "kanji": "",
+      "furigana": "まずい",
+      "romaji": "mazui",
+      "meaning": "Dở (ăn)",
+      "type": "i-adj"
+    },
+    {
+      "wordId": 816,
+      "lessonId": 8,
+      "kanji": "面白い",
+      "furigana": "おもしろい",
+      "romaji": "omoshiroi",
+      "meaning": "Thú vị, hay",
+      "type": "i-adj"
+    },
+    {
+      "wordId": 817,
+      "lessonId": 8,
+      "kanji": "良い",
+      "furigana": "いい / よい",
+      "romaji": "ii / yoi",
+      "meaning": "Tốt, hay",
+      "type": "i-adj"
+    },
+    {
+      "wordId": 818,
+      "lessonId": 8,
+      "kanji": "悪い",
+      "furigana": "わるい",
+      "romaji": "warui",
+      "meaning": "Xấu, tệ",
+      "type": "i-adj"
+    },
+    {
+      "wordId": 819,
+      "lessonId": 8,
+      "kanji": "忙しい",
+      "furigana": "いそがしい",
+      "romaji": "isogashii",
+      "meaning": "Bận rộn",
+      "type": "i-adj"
+    },
+    {
+      "wordId": 820,
+      "lessonId": 8,
+      "kanji": "",
+      "furigana": "きれい（な）",
+      "romaji": "kirei (na)",
+      "meaning": "Đẹp, sạch",
+      "type": "na-adj"
+    },
+    {
+      "wordId": 821,
+      "lessonId": 8,
+      "kanji": "有名",
+      "furigana": "ゆうめい（な）",
+      "romaji": "yuumei (na)",
+      "meaning": "Nổi tiếng",
+      "type": "na-adj"
+    },
+    {
+      "wordId": 822,
+      "lessonId": 8,
+      "kanji": "親切",
+      "furigana": "しんせつ（な）",
+      "romaji": "shinsetsu (na)",
+      "meaning": "Tử tế",
+      "type": "na-adj"
+    },
+    {
+      "wordId": 823,
+      "lessonId": 8,
+      "kanji": "元気",
+      "furigana": "げんき（な）",
+      "romaji": "genki (na)",
+      "meaning": "Khoẻ mạnh",
+      "type": "na-adj"
+    },
+    {
+      "wordId": 824,
+      "lessonId": 8,
+      "kanji": "静か",
+      "furigana": "しずか（な）",
+      "romaji": "shizuka (na)",
+      "meaning": "Yên tĩnh",
+      "type": "na-adj"
+    },
+    {
+      "wordId": 825,
+      "lessonId": 8,
+      "kanji": "",
+      "furigana": "にぎやか（な）",
+      "romaji": "nigiyaka (na)",
+      "meaning": "Nhộn nhịp",
+      "type": "na-adj"
+    },
+    {
+      "wordId": 826,
+      "lessonId": 8,
+      "kanji": "暇",
+      "furigana": "ひま（な）",
+      "romaji": "hima (na)",
+      "meaning": "Rảnh rỗi",
+      "type": "na-adj"
+    },
+    {
+      "wordId": 827,
+      "lessonId": 8,
+      "kanji": "便利",
+      "furigana": "べんり（な）",
+      "romaji": "benri (na)",
+      "meaning": "Tiện lợi",
+      "type": "na-adj"
+    },
+    {
+      "wordId": 828,
+      "lessonId": 8,
+      "kanji": "町",
+      "furigana": "まち",
+      "romaji": "machi",
+      "meaning": "Thành phố, phố",
+      "type": "noun"
+    },
+    {
+      "wordId": 829,
+      "lessonId": 8,
+      "kanji": "とても",
+      "furigana": "とても",
+      "romaji": "totemo",
+      "meaning": "Rất",
+      "type": "adverb"
+    },
+    {
+      "wordId": 830,
+      "lessonId": 8,
+      "kanji": "あまり",
+      "furigana": "あまり",
+      "romaji": "amari",
+      "meaning": "Không... lắm",
+      "type": "adverb"
+    }
+  ],
+  "grammar": [
+    {
+      "grammarId": 801,
+      "lessonId": 8,
+      "title": "N は い-adj いです / な-adj です",
+      "structure": "N は い-adj いです / な-adj です",
+      "explanation": "Câu dùng tính từ làm vị ngữ. い-adj giữ nguyên. な-adj bỏ な.",
+      "examples": [
+        {
+          "japanese": "富士山は 高いです。",
+          "vietnamese": "Núi Phú Sĩ cao."
+        },
+        {
+          "japanese": "奈良は 静かです。",
+          "vietnamese": "Nara yên tĩnh."
+        }
+      ]
+    },
+    {
+      "grammarId": 802,
+      "lessonId": 8,
+      "title": "Phủ định và quá khứ của tính từ trong thì hiện tại/quá khứ",
+      "structure": "い-adj → くないです / な-adj → じゃ ありません",
+      "explanation": "い-adj: bỏ い thêm くないです. な-adj: bỏ な thêm じゃ ありません. いい thành よくない (bất quy tắc).",
+      "examples": [
+        {
+          "japanese": "この 部屋は 広くないです。",
+          "vietnamese": "Phòng này không rộng."
+        },
+        {
+          "japanese": "ここは 静かじゃ ありません。",
+          "vietnamese": "Chỗ này không yên tĩnh."
+        }
+      ]
+    },
+    {
+      "grammarId": 803,
+      "lessonId": 8,
+      "title": "い-adj い + N / な-adj な + N",
+      "structure": "い-adj い N / な-adj な N",
+      "explanation": "Tính từ bổ nghĩa trực tiếp cho danh từ. い-adj giữ nguyên. な-adj giữ な.",
+      "examples": [
+        {
+          "japanese": "大きい かばんです。",
+          "vietnamese": "Cái cặp to."
+        },
+        {
+          "japanese": "きれいな 花です。",
+          "vietnamese": "Bông hoa đẹp."
+        }
+      ]
+    },
+    {
+      "grammarId": 804,
+      "lessonId": 8,
+      "title": "N は どうですか / どんな N ですか",
+      "structure": "N は どうですか / どんな N ですか",
+      "explanation": "どう = thế nào (hỏi cảm nhận). どんな + N = loại ~ nào (hỏi tính chất).",
+      "examples": [
+        {
+          "japanese": "日本の 生活は どうですか。",
+          "vietnamese": "Cuộc sống ở Nhật thế nào?"
+        },
+        {
+          "japanese": "奈良は どんな 町ですか。",
+          "vietnamese": "Nara là thành phố như thế nào?"
+        }
+      ]
+    }
+  ],
+  "kanji": [
+    {
+      "kanjiId": 801,
+      "lessonId": 8,
+      "character": "大",
+      "onyomi": "ダイ",
+      "kunyomi": "おお.きい",
+      "meaning": "To, lớn",
+      "strokeCount": 3
+    },
+    {
+      "kanjiId": 802,
+      "lessonId": 8,
+      "character": "小",
+      "onyomi": "ショウ",
+      "kunyomi": "ちい.さい",
+      "meaning": "Nhỏ",
+      "strokeCount": 3
+    },
+    {
+      "kanjiId": 803,
+      "lessonId": 8,
+      "character": "高",
+      "onyomi": "コウ",
+      "kunyomi": "たか.い",
+      "meaning": "Cao, đắt",
+      "strokeCount": 10
+    },
+    {
+      "kanjiId": 804,
+      "lessonId": 8,
+      "character": "安",
+      "onyomi": "アン",
+      "kunyomi": "やす.い",
+      "meaning": "Rẻ, yên",
+      "strokeCount": 6
+    },
+    {
+      "kanjiId": 805,
+      "lessonId": 8,
+      "character": "元",
+      "onyomi": "ゲン",
+      "kunyomi": "もと",
+      "meaning": "Gốc, nguyên",
+      "strokeCount": 4
+    },
+    {
+      "kanjiId": 806,
+      "lessonId": 8,
+      "character": "気",
+      "onyomi": "キ",
+      "kunyomi": "",
+      "meaning": "Khí, không khí",
+      "strokeCount": 6
+    },
+    {
+      "kanjiId": 807,
+      "lessonId": 8,
+      "character": "古",
+      "onyomi": "コ",
+      "kunyomi": "ふる.い",
+      "meaning": "Cũ, cổ",
+      "strokeCount": 5
+    },
+    {
+      "kanjiId": 808,
+      "lessonId": 8,
+      "character": "町",
+      "onyomi": "チョウ",
+      "kunyomi": "まち",
+      "meaning": "Phố",
+      "strokeCount": 7
+    }
+  ]
+}
