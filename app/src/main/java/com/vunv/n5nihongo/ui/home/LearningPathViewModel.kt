@@ -35,9 +35,11 @@ class LearningPathViewModel(application: Application) : AndroidViewModel(applica
         kanjiDao = database.kanjiDao()
     )
 
+    private val userId = com.vunv.n5nihongo.data.auth.getCurrentUserId(application)
+
     val lessonsUiState: StateFlow<List<LessonUiModel>> = combine(
         lessonDao.getAllLessons(),
-        userProgressDao.getAllProgress()
+        userProgressDao.getAllProgress(userId)
     ) { lessons, progressList ->
         lessons.toUiModels(progressList)
     }.stateIn(

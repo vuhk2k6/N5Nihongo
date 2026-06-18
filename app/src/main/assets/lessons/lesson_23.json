@@ -352,76 +352,49 @@
   ],
   "kanji": [
     {
-      "kanjiId": 2301,
+      "kanjiId": 1,
       "lessonId": 23,
-      "character": "引",
-      "onyomi": "イン",
-      "kunyomi": "ひ.く",
-      "meaning": "Kéo",
-      "strokeCount": 4
-    },
-    {
-      "kanjiId": 2302,
-      "lessonId": 23,
-      "character": "動",
-      "onyomi": "ドウ",
-      "kunyomi": "うご.く",
-      "meaning": "Động, chuyển động",
-      "strokeCount": 11
-    },
-    {
-      "kanjiId": 2303,
-      "lessonId": 23,
-      "character": "歩",
-      "onyomi": "ホ",
-      "kunyomi": "ある.く",
-      "meaning": "Đi bộ",
+      "character": "空",
+      "onyomi": "クウ",
+      "kunyomi": "so.ra / a.ku / ka.ra",
+      "meaning": "Không, bầu trời, trống rỗng",
       "strokeCount": 8
     },
     {
-      "kanjiId": 2304,
+      "kanjiId": 2,
       "lessonId": 23,
-      "character": "交",
-      "onyomi": "コウ",
-      "kunyomi": "まじ.わる",
-      "meaning": "Giao nhau",
-      "strokeCount": 6
+      "character": "天",
+      "onyomi": "テン",
+      "kunyomi": "a.me / a.ma",
+      "meaning": "Thiên, bầu trời, ông trời",
+      "strokeCount": 4
     },
     {
-      "kanjiId": 2305,
+      "kanjiId": 3,
       "lessonId": 23,
-      "character": "道",
-      "onyomi": "ドウ",
-      "kunyomi": "みち",
-      "meaning": "Đường",
-      "strokeCount": 12
+      "character": "雨",
+      "onyomi": "ウ",
+      "kunyomi": "a.me",
+      "meaning": "Vũ, mưa",
+      "strokeCount": 8
     },
     {
-      "kanjiId": 2306,
+      "kanjiId": 4,
       "lessonId": 23,
-      "character": "信",
-      "onyomi": "シン",
-      "kunyomi": "",
-      "meaning": "Tin, tín hiệu",
-      "strokeCount": 9
-    },
-    {
-      "kanjiId": 2307,
-      "lessonId": 23,
-      "character": "号",
-      "onyomi": "ゴウ",
-      "kunyomi": "",
-      "meaning": "Hiệu, số",
+      "character": "出",
+      "onyomi": "シュツ",
+      "kunyomi": "de.r / da.su",
+      "meaning": "Xuất, ra ngoài, đưa ra",
       "strokeCount": 5
     },
     {
-      "kanjiId": 2308,
+      "kanjiId": 5,
       "lessonId": 23,
-      "character": "曲",
-      "onyomi": "キョク",
-      "kunyomi": "ま.がる",
-      "meaning": "Cong, bài hát",
-      "strokeCount": 6
+      "character": "入",
+      "onyomi": "ニュウ",
+      "kunyomi": "hai.ru / i.re.ru",
+      "meaning": "Nhập, đi vào, cho vào",
+      "strokeCount": 2
     }
   ]
 }

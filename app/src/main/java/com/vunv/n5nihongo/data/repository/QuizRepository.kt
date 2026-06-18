@@ -61,6 +61,7 @@ class QuizRepository(
     }
 
     suspend fun updateLessonScore(
+        userId: String,
         lessonId: Int,
         correctCount: Int,
         totalQuestions: Int
@@ -69,6 +70,7 @@ class QuizRepository(
         val now = System.currentTimeMillis()
         userProgressDao.upsertProgress(
             UserProgress(
+                userId = userId,
                 lessonId = lessonId,
                 score = scorePercent,
                 isCompleted = scorePercent >= LESSON_QUIZ_PASS_PERCENT,

@@ -7,6 +7,8 @@ import androidx.lifecycle.ViewModelProvider
 import androidx.lifecycle.viewModelScope
 import com.vunv.n5nihongo.data.local.AppDatabaseProvider
 import com.vunv.n5nihongo.data.quiz.LessonQuizGenerator
+import com.vunv.n5nihongo.data.quiz.LESSON_QUIZ_PASS_PERCENT
+import com.vunv.n5nihongo.data.model.UserProgress
 import com.vunv.n5nihongo.data.repository.AiRepository
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
@@ -192,10 +194,13 @@ class AiQuizViewModel(
 
         val nextIndex = state.currentIndex + 1
         if (nextIndex >= state.questions.size) {
+            val finalCorrect = state.correctCount
+            val total = state.questions.size
             _uiState.update {
                 it.copy(isFinished = true)
             }
-            fetchAiEvaluation(state.correctCount + if (state.isCorrect) 1 else 0, state.questions.size)
+            saveQuizProgress(finalCorrect, total)
+            fetchAiEvaluation(finalCorrect, total)
         } else {
             _uiState.update {
                 it.copy(
@@ -204,6 +209,29 @@ class AiQuizViewModel(
                     isAnswered = false,
                     isCorrect = false
                 )
+            }
+        }
+    }
+
+    private fun saveQuizProgress(correctCount: Int, total: Int) {
+        viewModelScope.launch {
+            try {
+                val lessonId = extractLessonId(prompt)
+                val scorePercent = if (total == 0) 0 else ((correctCount * 100f) / total).toInt()
+                val now = System.currentTimeMillis()
+                val userId = com.vunv.n5nihongo.data.auth.getCurrentUserId(getApplication())
+                val userProgressDao = database.userProgressDao()
+                userProgressDao.upsertProgress(
+                    UserProgress(
+                        userId = userId,
+                        lessonId = lessonId,
+                        score = scorePercent,
+                        isCompleted = scorePercent >= LESSON_QUIZ_PASS_PERCENT,
+                        lastUpdated = now
+                    )
+                )
+            } catch (e: Exception) {
+                // Ignore silent db failure
             }
         }
     }

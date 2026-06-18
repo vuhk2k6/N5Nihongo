@@ -348,76 +348,40 @@
   ],
   "kanji": [
     {
-      "kanjiId": 1601,
+      "kanjiId": 1,
       "lessonId": 16,
-      "character": "体",
-      "onyomi": "タイ",
-      "kunyomi": "からだ",
-      "meaning": "Cơ thể",
-      "strokeCount": 7
-    },
-    {
-      "kanjiId": 1602,
-      "lessonId": 16,
-      "character": "目",
-      "onyomi": "モク",
-      "kunyomi": "め",
-      "meaning": "Mắt",
+      "character": "母",
+      "onyomi": "ボ",
+      "kunyomi": "ha.ha",
+      "meaning": "Mẫu, mẹ",
       "strokeCount": 5
     },
     {
-      "kanjiId": 1603,
+      "kanjiId": 2,
       "lessonId": 16,
-      "character": "耳",
-      "onyomi": "ジ",
-      "kunyomi": "みみ",
-      "meaning": "Tai",
+      "character": "毎",
+      "onyomi": "マイ",
+      "kunyomi": "tsu.ne",
+      "meaning": "Mỗi, mỗi ngày/mỗi lần",
       "strokeCount": 6
     },
     {
-      "kanjiId": 1604,
+      "kanjiId": 3,
       "lessonId": 16,
-      "character": "口",
-      "onyomi": "コウ",
-      "kunyomi": "くち",
-      "meaning": "Miệng",
-      "strokeCount": 3
+      "character": "何",
+      "onyomi": "カ",
+      "kunyomi": "na.ni / nan",
+      "meaning": "Hà, cái gì",
+      "strokeCount": 7
     },
     {
-      "kanjiId": 1605,
+      "kanjiId": 4,
       "lessonId": 16,
-      "character": "長",
-      "onyomi": "チョウ",
-      "kunyomi": "なが.い",
-      "meaning": "Dài",
-      "strokeCount": 8
-    },
-    {
-      "kanjiId": 1606,
-      "lessonId": 16,
-      "character": "短",
-      "onyomi": "タン",
-      "kunyomi": "みじか.い",
-      "meaning": "Ngắn",
-      "strokeCount": 12
-    },
-    {
-      "kanjiId": 1607,
-      "lessonId": 16,
-      "character": "白",
-      "onyomi": "ハク",
-      "kunyomi": "しろ.い",
-      "meaning": "Trắng",
-      "strokeCount": 5
-    },
-    {
-      "kanjiId": 1608,
-      "lessonId": 16,
-      "character": "黒",
-      "onyomi": "コク",
-      "kunyomi": "くろ.い",
-      "meaning": "Đen",
-      "strokeCount": 11
+      "character": "車",
+      "onyomi": "シャ",
+      "kunyomi": "ku.ru.ma",
+      "meaning": "Xa, xe cộ",
+      "strokeCount": 7
     }
   ]
 }

@@ -352,75 +352,39 @@
   ],
   "kanji": [
     {
-      "kanjiId": 401,
+      "kanjiId": 1,
       "lessonId": 4,
-      "character": "時",
-      "onyomi": "ジ",
-      "kunyomi": "とき",
-      "meaning": "Giờ, thời gian",
-      "strokeCount": 10
+      "character": "万",
+      "onyomi": "マン / バン",
+      "kunyomi": "よろず",
+      "meaning": "Vạn, mười nghìn",
+      "strokeCount": 3
     },
     {
-      "kanjiId": 402,
+      "kanjiId": 2,
       "lessonId": 4,
-      "character": "分",
-      "onyomi": "フン/プン",
-      "kunyomi": "わ.かる",
-      "meaning": "Phút, hiểu",
+      "character": "円",
+      "onyomi": "エン",
+      "kunyomi": "まる.い",
+      "meaning": "Yên, tròn",
       "strokeCount": 4
     },
     {
-      "kanjiId": 403,
+      "kanjiId": 3,
       "lessonId": 4,
-      "character": "今",
-      "onyomi": "コン",
-      "kunyomi": "いま",
-      "meaning": "Bây giờ",
+      "character": "日",
+      "onyomi": "ニチ / ジツ",
+      "kunyomi": "ひ / -び / -か",
+      "meaning": "Nhật, ngày, mặt trời",
       "strokeCount": 4
     },
     {
-      "kanjiId": 404,
+      "kanjiId": 4,
       "lessonId": 4,
-      "character": "朝",
-      "onyomi": "チョウ",
-      "kunyomi": "あさ",
-      "meaning": "Sáng",
-      "strokeCount": 12
-    },
-    {
-      "kanjiId": 405,
-      "lessonId": 4,
-      "character": "夜",
-      "onyomi": "ヤ",
-      "kunyomi": "よる",
-      "meaning": "Đêm",
-      "strokeCount": 8
-    },
-    {
-      "kanjiId": 406,
-      "lessonId": 4,
-      "character": "毎",
-      "onyomi": "マイ",
-      "kunyomi": "ごと",
-      "meaning": "Mỗi",
-      "strokeCount": 6
-    },
-    {
-      "kanjiId": 407,
-      "lessonId": 4,
-      "character": "曜",
-      "onyomi": "ヨウ",
-      "kunyomi": "",
-      "meaning": "Thứ (trong tuần)",
-      "strokeCount": 18
-    },
-    {
-      "kanjiId": 408,
-      "lessonId": 4,
-      "character": "午",
-      "onyomi": "ゴ",
-      "kunyomi": "",
-      "meaning": "Trưa, ngọ",
+      "character": "月",
+      "onyomi": "ゲツ / ガツ",
+      "kunyomi": "つき",
+      "meaning": "Nguyệt, tháng, mặt trăng",
       "strokeCount": 4
     }
   ]

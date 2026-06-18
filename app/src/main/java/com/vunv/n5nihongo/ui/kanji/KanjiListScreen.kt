@@ -93,8 +93,7 @@ fun KanjiListScreen(
                         )
                     }
                 },
-                colors = TopAppBarDefaults.topAppBarColors(containerColor = SurfaceWhite),
-                windowInsets = androidx.compose.foundation.layout.WindowInsets(0, 0, 0, 0)
+                colors = TopAppBarDefaults.topAppBarColors(containerColor = SurfaceWhite)
             )
         }
     ) { innerPadding ->

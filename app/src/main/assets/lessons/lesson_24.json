@@ -348,76 +348,49 @@
   ],
   "kanji": [
     {
-      "kanjiId": 2401,
+      "kanjiId": 1,
       "lessonId": 24,
-      "character": "送",
-      "onyomi": "ソウ",
-      "kunyomi": "おく.る",
-      "meaning": "Gửi, tiễn",
-      "strokeCount": 9
+      "character": "気",
+      "onyomi": "キ / ケ",
+      "kunyomi": "i.ki",
+      "meaning": "Khí, khí chất, tinh thần, không khí",
+      "strokeCount": 6
     },
     {
-      "kanjiId": 2402,
+      "kanjiId": 2,
       "lessonId": 24,
-      "character": "説",
-      "onyomi": "セツ",
-      "kunyomi": "と.く",
-      "meaning": "Giải thích",
-      "strokeCount": 14
+      "character": "花",
+      "onyomi": "カ",
+      "kunyomi": "ha.na",
+      "meaning": "Hoa, bông hoa",
+      "strokeCount": 7
     },
     {
-      "kanjiId": 2403,
+      "kanjiId": 3,
       "lessonId": 24,
-      "character": "明",
-      "onyomi": "メイ",
-      "kunyomi": "あか.るい",
-      "meaning": "Sáng",
-      "strokeCount": 8
+      "character": "名",
+      "onyomi": "メイ / ミョウ",
+      "kunyomi": "na",
+      "meaning": "Danh, tên, danh tiếng",
+      "strokeCount": 6
     },
     {
-      "kanjiId": 2404,
+      "kanjiId": 4,
       "lessonId": 24,
-      "character": "準",
-      "onyomi": "ジュン",
-      "kunyomi": "",
-      "meaning": "Chuẩn",
-      "strokeCount": 13
-    },
-    {
-      "kanjiId": 2405,
-      "lessonId": 24,
-      "character": "備",
-      "onyomi": "ビ",
-      "kunyomi": "そな.える",
-      "meaning": "Chuẩn bị",
+      "character": "間",
+      "onyomi": "カン / ケン",
+      "kunyomi": "a.i.da / ma",
+      "meaning": "Gian, ở giữa, khoảng thời gian",
       "strokeCount": 12
     },
     {
-      "kanjiId": 2406,
+      "kanjiId": 5,
       "lessonId": 24,
-      "character": "案",
-      "onyomi": "アン",
-      "kunyomi": "",
-      "meaning": "Án, đề án",
+      "character": "家",
+      "onyomi": "カ",
+      "kunyomi": "i.e / ya",
+      "meaning": "Gia, nhà",
       "strokeCount": 10
-    },
-    {
-      "kanjiId": 2407,
-      "lessonId": 24,
-      "character": "内",
-      "onyomi": "ナイ",
-      "kunyomi": "うち",
-      "meaning": "Trong, nội",
-      "strokeCount": 4
-    },
-    {
-      "kanjiId": 2408,
-      "lessonId": 24,
-      "character": "紹",
-      "onyomi": "ショウ",
-      "kunyomi": "",
-      "meaning": "Giới thiệu",
-      "strokeCount": 11
     }
   ]
 }

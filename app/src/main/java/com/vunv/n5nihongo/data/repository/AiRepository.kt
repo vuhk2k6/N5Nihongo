@@ -66,4 +66,23 @@ class AiRepository {
             emit(chunk)
         }
     }.flowOn(Dispatchers.IO)
+
+    /**
+     * Gửi yêu cầu hội thoại Kaiwa với System Instruction được tùy biến động cho từng bài học.
+     */
+    fun askKaiwaStream(
+        systemInstructionText: String,
+        prompt: String
+    ): Flow<GenerateContentResponse> = flow {
+        val customModel = Firebase.ai(backend = GenerativeBackend.googleAI()).generativeModel(
+            modelName = "gemini-2.5-flash",
+            systemInstruction = content {
+                text(systemInstructionText)
+            }
+        )
+        customModel.generateContentStream(prompt).collect { chunk ->
+            emit(chunk)
+        }
+    }.flowOn(Dispatchers.IO)
 }
+

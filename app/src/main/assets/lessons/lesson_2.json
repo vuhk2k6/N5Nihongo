@@ -356,67 +356,40 @@
   ],
   "kanji": [
     {
-      "kanjiId": 201,
+      "kanjiId": 1,
       "lessonId": 2,
-      "character": "本",
-      "onyomi": "ホン",
-      "kunyomi": "もと",
-      "meaning": "Sách, gốc",
-      "strokeCount": 5
+      "character": "五",
+      "onyomi": "ゴ",
+      "kunyomi": "いつ.つ",
+      "meaning": "Năm",
+      "strokeCount": 4
     },
     {
-      "kanjiId": 202,
+      "kanjiId": 2,
       "lessonId": 2,
-      "character": "何",
-      "onyomi": "カ",
-      "kunyomi": "なに/なん",
-      "meaning": "Cái gì",
-      "strokeCount": 7
+      "character": "六",
+      "onyomi": "ロク",
+      "kunyomi": "むっ.つ",
+      "meaning": "Sáu",
+      "strokeCount": 4
     },
     {
-      "kanjiId": 203,
+      "kanjiId": 3,
       "lessonId": 2,
-      "character": "新",
-      "onyomi": "シン",
-      "kunyomi": "あたら.しい",
-      "meaning": "Mới",
-      "strokeCount": 13
+      "character": "七",
+      "onyomi": "シチ",
+      "kunyomi": "なな.つ",
+      "meaning": "Bảy",
+      "strokeCount": 2
     },
     {
-      "kanjiId": 204,
+      "kanjiId": 4,
       "lessonId": 2,
-      "character": "聞",
-      "onyomi": "ブン",
-      "kunyomi": "き.く",
-      "meaning": "Nghe, hỏi",
-      "strokeCount": 14
-    },
-    {
-      "kanjiId": 205,
-      "lessonId": 2,
-      "character": "書",
-      "onyomi": "ショ",
-      "kunyomi": "か.く",
-      "meaning": "Viết",
-      "strokeCount": 10
-    },
-    {
-      "kanjiId": 206,
-      "lessonId": 2,
-      "character": "辞",
-      "onyomi": "ジ",
-      "kunyomi": "",
-      "meaning": "Từ (điển)",
-      "strokeCount": 13
-    },
-    {
-      "kanjiId": 207,
-      "lessonId": 2,
-      "character": "雑",
-      "onyomi": "ザツ",
-      "kunyomi": "",
-      "meaning": "Tạp",
-      "strokeCount": 14
+      "character": "八",
+      "onyomi": "ハチ",
+      "kunyomi": "やっ.つ",
+      "meaning": "Tám",
+      "strokeCount": 2
     }
   ]
 }

@@ -356,76 +356,49 @@
   ],
   "kanji": [
     {
-      "kanjiId": 2501,
+      "kanjiId": 1,
       "lessonId": 25,
-      "character": "考",
-      "onyomi": "コウ",
-      "kunyomi": "かんが.える",
-      "meaning": "Suy nghĩ",
+      "character": "休",
+      "onyomi": "キュウ",
+      "kunyomi": "ya.su.mu",
+      "meaning": "Hưu, nghỉ ngơi",
       "strokeCount": 6
     },
     {
-      "kanjiId": 2502,
+      "kanjiId": 2,
       "lessonId": 25,
-      "character": "着",
-      "onyomi": "チャク",
-      "kunyomi": "つ.く",
-      "meaning": "Đến",
-      "strokeCount": 12
+      "character": "立",
+      "onyomi": "リツ",
+      "kunyomi": "ta.tsu",
+      "meaning": "Lập, đứng",
+      "strokeCount": 5
     },
     {
-      "kanjiId": 2503,
+      "kanjiId": 3,
       "lessonId": 25,
-      "character": "留",
-      "onyomi": "リュウ",
-      "kunyomi": "と.める",
-      "meaning": "Lưu lại",
-      "strokeCount": 10
-    },
-    {
-      "kanjiId": 2504,
-      "lessonId": 25,
-      "character": "学",
-      "onyomi": "ガク",
-      "kunyomi": "まな.ぶ",
-      "meaning": "Học",
-      "strokeCount": 8
-    },
-    {
-      "kanjiId": 2505,
-      "lessonId": 25,
-      "character": "館",
-      "onyomi": "カン",
-      "kunyomi": "やかた",
-      "meaning": "Quán, tòa nhà",
-      "strokeCount": 16
-    },
-    {
-      "kanjiId": 2506,
-      "lessonId": 25,
-      "character": "使",
-      "onyomi": "シ",
-      "kunyomi": "つか.う",
-      "meaning": "Sử dụng",
-      "strokeCount": 8
-    },
-    {
-      "kanjiId": 2507,
-      "lessonId": 25,
-      "character": "活",
-      "onyomi": "カツ",
-      "kunyomi": "い.きる",
-      "meaning": "Sống, hoạt động",
-      "strokeCount": 9
-    },
-    {
-      "kanjiId": 2508,
-      "lessonId": 25,
-      "character": "億",
-      "onyomi": "オク",
+      "character": "週",
+      "onyomi": "シュウ",
       "kunyomi": "",
-      "meaning": "Trăm triệu",
-      "strokeCount": 15
+      "meaning": "Chu, tuần",
+      "strokeCount": 11
+    },
+    {
+      "kanjiId": 4,
+      "lessonId": 25,
+      "character": "魚",
+      "onyomi": "ギョ",
+      "kunyomi": "sa.ka.na",
+      "meaning": "Ngư, cá",
+      "strokeCount": 11
+    },
+    {
+      "kanjiId": 5,
+      "lessonId": 25,
+      "character": "犬",
+      "onyomi": "ケン",
+      "kunyomi": "i.nu",
+      "meaning": "Khuyển, chó",
+      "strokeCount": 4
     }
   ]
 }

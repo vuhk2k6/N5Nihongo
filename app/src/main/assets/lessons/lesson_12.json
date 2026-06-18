@@ -352,76 +352,40 @@
   ],
   "kanji": [
     {
-      "kanjiId": 1201,
+      "kanjiId": 1,
       "lessonId": 12,
-      "character": "春",
-      "onyomi": "シュン",
-      "kunyomi": "はる",
-      "meaning": "Mùa xuân",
-      "strokeCount": 9
-    },
-    {
-      "kanjiId": 1202,
-      "lessonId": 12,
-      "character": "夏",
-      "onyomi": "カ",
-      "kunyomi": "なつ",
-      "meaning": "Mùa hè",
-      "strokeCount": 10
-    },
-    {
-      "kanjiId": 1203,
-      "lessonId": 12,
-      "character": "秋",
-      "onyomi": "シュウ",
-      "kunyomi": "あき",
-      "meaning": "Mùa thu",
-      "strokeCount": 9
-    },
-    {
-      "kanjiId": 1204,
-      "lessonId": 12,
-      "character": "冬",
-      "onyomi": "トウ",
-      "kunyomi": "ふゆ",
-      "meaning": "Mùa đông",
+      "character": "左",
+      "onyomi": "サ",
+      "kunyomi": "hi.da.ri",
+      "meaning": "Tả, bên trái",
       "strokeCount": 5
     },
     {
-      "kanjiId": 1205,
+      "kanjiId": 2,
       "lessonId": 12,
-      "character": "雨",
-      "onyomi": "ウ",
-      "kunyomi": "あめ",
-      "meaning": "Mưa",
+      "character": "大",
+      "onyomi": "ダイ / タイ",
+      "kunyomi": "oo.ki.i",
+      "meaning": "Đại, to lớn",
+      "strokeCount": 3
+    },
+    {
+      "kanjiId": 3,
+      "lessonId": 12,
+      "character": "小",
+      "onyomi": "ショウ",
+      "kunyomi": "chi.i.sa.i / ko",
+      "meaning": "Tiểu, nhỏ bé",
+      "strokeCount": 3
+    },
+    {
+      "kanjiId": 4,
+      "lessonId": 12,
+      "character": "長",
+      "onyomi": "チョウ",
+      "kunyomi": "na.ga.i",
+      "meaning": "Trường, dài",
       "strokeCount": 8
-    },
-    {
-      "kanjiId": 1206,
-      "lessonId": 12,
-      "character": "雪",
-      "onyomi": "セツ",
-      "kunyomi": "ゆき",
-      "meaning": "Tuyết",
-      "strokeCount": 11
-    },
-    {
-      "kanjiId": 1207,
-      "lessonId": 12,
-      "character": "天",
-      "onyomi": "テン",
-      "kunyomi": "あめ",
-      "meaning": "Trời",
-      "strokeCount": 4
-    },
-    {
-      "kanjiId": 1208,
-      "lessonId": 12,
-      "character": "多",
-      "onyomi": "タ",
-      "kunyomi": "おお.い",
-      "meaning": "Nhiều",
-      "strokeCount": 6
     }
   ]
 }

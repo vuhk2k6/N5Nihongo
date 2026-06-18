@@ -348,76 +348,40 @@
   ],
   "kanji": [
     {
-      "kanjiId": 901,
+      "kanjiId": 1,
       "lessonId": 9,
-      "character": "好",
-      "onyomi": "コウ",
-      "kunyomi": "す.き",
-      "meaning": "Thích",
-      "strokeCount": 6
-    },
-    {
-      "kanjiId": 902,
-      "lessonId": 9,
-      "character": "音",
-      "onyomi": "オン",
-      "kunyomi": "おと",
-      "meaning": "Âm thanh",
-      "strokeCount": 9
-    },
-    {
-      "kanjiId": 903,
-      "lessonId": 9,
-      "character": "楽",
-      "onyomi": "ガク/ラク",
-      "kunyomi": "たの.しい",
-      "meaning": "Nhạc, vui",
-      "strokeCount": 13
-    },
-    {
-      "kanjiId": 904,
-      "lessonId": 9,
-      "character": "映",
-      "onyomi": "エイ",
-      "kunyomi": "うつ.る",
-      "meaning": "Phản chiếu",
-      "strokeCount": 9
-    },
-    {
-      "kanjiId": 905,
-      "lessonId": 9,
-      "character": "画",
-      "onyomi": "ガ",
-      "kunyomi": "",
-      "meaning": "Tranh, hoạ",
+      "character": "学",
+      "onyomi": "ガク",
+      "kunyomi": "ma.na.bu",
+      "meaning": "Học, học tập",
       "strokeCount": 8
     },
     {
-      "kanjiId": 906,
+      "kanjiId": 2,
       "lessonId": 9,
-      "character": "歌",
-      "onyomi": "カ",
-      "kunyomi": "うた",
-      "meaning": "Hát",
-      "strokeCount": 14
+      "character": "校",
+      "onyomi": "コウ",
+      "kunyomi": "",
+      "meaning": "Hiệu, trường học",
+      "strokeCount": 10
     },
     {
-      "kanjiId": 907,
+      "kanjiId": 3,
       "lessonId": 9,
-      "character": "上",
-      "onyomi": "ジョウ",
-      "kunyomi": "うえ",
-      "meaning": "Trên, giỏi",
-      "strokeCount": 3
+      "character": "友",
+      "onyomi": "ユウ",
+      "kunyomi": "to.mo",
+      "meaning": "Hữu, bạn bè",
+      "strokeCount": 4
     },
     {
-      "kanjiId": 908,
+      "kanjiId": 4,
       "lessonId": 9,
-      "character": "下",
-      "onyomi": "カ",
-      "kunyomi": "した",
-      "meaning": "Dưới, kém",
-      "strokeCount": 3
+      "character": "本",
+      "onyomi": "ホン",
+      "kunyomi": "mo.to",
+      "meaning": "Bản, sách, nguồn gốc",
+      "strokeCount": 5
     }
   ]
 }

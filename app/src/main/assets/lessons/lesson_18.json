@@ -356,76 +356,40 @@
   ],
   "kanji": [
     {
-      "kanjiId": 1801,
+      "kanjiId": 1,
       "lessonId": 18,
-      "character": "歌",
-      "onyomi": "カ",
-      "kunyomi": "うた",
-      "meaning": "Hát",
+      "character": "聞",
+      "onyomi": "ブン / モン",
+      "kunyomi": "ki.ku",
+      "meaning": "Văn, nghe, hỏi",
       "strokeCount": 14
     },
     {
-      "kanjiId": 1802,
+      "kanjiId": 2,
       "lessonId": 18,
-      "character": "集",
-      "onyomi": "シュウ",
-      "kunyomi": "あつ.める",
-      "meaning": "Thu thập",
-      "strokeCount": 12
+      "character": "読",
+      "onyomi": "ドク",
+      "kunyomi": "yo.mu",
+      "meaning": "Độc, đọc sách",
+      "strokeCount": 14
     },
     {
-      "kanjiId": 1803,
+      "kanjiId": 3,
       "lessonId": 18,
-      "character": "運",
-      "onyomi": "ウン",
-      "kunyomi": "はこ.ぶ",
-      "meaning": "Vận chuyển",
-      "strokeCount": 12
+      "character": "書",
+      "onyomi": "ショ",
+      "kunyomi": "ka.ku",
+      "meaning": "Thư, viết, sách",
+      "strokeCount": 10
     },
     {
-      "kanjiId": 1804,
+      "kanjiId": 4,
       "lessonId": 18,
-      "character": "転",
-      "onyomi": "テン",
-      "kunyomi": "ころ.がる",
-      "meaning": "Lăn, chuyển",
-      "strokeCount": 11
-    },
-    {
-      "kanjiId": 1805,
-      "lessonId": 18,
-      "character": "予",
-      "onyomi": "ヨ",
-      "kunyomi": "",
-      "meaning": "Trước, dự",
-      "strokeCount": 4
-    },
-    {
-      "kanjiId": 1806,
-      "lessonId": 18,
-      "character": "約",
-      "onyomi": "ヤク",
-      "kunyomi": "",
-      "meaning": "Hẹn, ước",
-      "strokeCount": 9
-    },
-    {
-      "kanjiId": 1807,
-      "lessonId": 18,
-      "character": "趣",
-      "onyomi": "シュ",
-      "kunyomi": "おもむき",
-      "meaning": "Thú vị",
-      "strokeCount": 15
-    },
-    {
-      "kanjiId": 1808,
-      "lessonId": 18,
-      "character": "味",
-      "onyomi": "ミ",
-      "kunyomi": "あじ",
-      "meaning": "Vị",
-      "strokeCount": 8
+      "character": "見",
+      "onyomi": "ケン",
+      "kunyomi": "mi.ru",
+      "meaning": "Kiến, nhìn, xem",
+      "strokeCount": 7
     }
   ]
 }

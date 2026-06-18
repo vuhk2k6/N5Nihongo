@@ -352,75 +352,39 @@
   ],
   "kanji": [
     {
-      "kanjiId": 1401,
+      "kanjiId": 1,
       "lessonId": 14,
-      "character": "作",
-      "onyomi": "サク",
-      "kunyomi": "つく.る",
-      "meaning": "Làm, tạo",
-      "strokeCount": 7
+      "character": "多",
+      "onyomi": "タ",
+      "kunyomi": "oo.i",
+      "meaning": "Đa, nhiều",
+      "strokeCount": 6
     },
     {
-      "kanjiId": 1402,
+      "kanjiId": 2,
       "lessonId": 14,
-      "character": "使",
-      "onyomi": "シ",
-      "kunyomi": "つか.う",
-      "meaning": "Sử dụng",
-      "strokeCount": 8
+      "character": "少",
+      "onyomi": "ショウ",
+      "kunyomi": "su.ku.na.i / su.ko.si",
+      "meaning": "Thiểu, ít",
+      "strokeCount": 4
     },
     {
-      "kanjiId": 1403,
+      "kanjiId": 3,
       "lessonId": 14,
-      "character": "開",
-      "onyomi": "カイ",
-      "kunyomi": "あ.ける",
-      "meaning": "Mở",
-      "strokeCount": 12
+      "character": "行",
+      "onyomi": "コウ / ギョウ",
+      "kunyomi": "i.ku / o.ko.na.u",
+      "meaning": "Hành, đi",
+      "strokeCount": 6
     },
     {
-      "kanjiId": 1404,
+      "kanjiId": 4,
       "lessonId": 14,
-      "character": "閉",
-      "onyomi": "ヘイ",
-      "kunyomi": "し.める",
-      "meaning": "Đóng",
-      "strokeCount": 11
-    },
-    {
-      "kanjiId": 1405,
-      "lessonId": 14,
-      "character": "待",
-      "onyomi": "タイ",
-      "kunyomi": "ま.つ",
-      "meaning": "Chờ",
-      "strokeCount": 9
-    },
-    {
-      "kanjiId": 1406,
-      "lessonId": 14,
-      "character": "持",
-      "onyomi": "ジ",
-      "kunyomi": "も.つ",
-      "meaning": "Cầm",
-      "strokeCount": 9
-    },
-    {
-      "kanjiId": 1407,
-      "lessonId": 14,
-      "character": "立",
-      "onyomi": "リツ",
-      "kunyomi": "た.つ",
-      "meaning": "Đứng",
-      "strokeCount": 5
-    },
-    {
-      "kanjiId": 1408,
-      "lessonId": 14,
-      "character": "売",
-      "onyomi": "バイ",
-      "kunyomi": "う.る",
-      "meaning": "Bán",
+      "character": "来",
+      "onyomi": "ライ",
+      "kunyomi": "ku.ru",
+      "meaning": "Lai, đến",
       "strokeCount": 7
     }
   ]

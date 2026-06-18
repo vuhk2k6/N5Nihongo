@@ -49,7 +49,8 @@ class AiAssistantViewModel(
     fun refreshGreeting() {
         viewModelScope.launch {
             try {
-                val progressList = userProgressDao.getAllProgressOnce()
+                val userId = com.vunv.n5nihongo.data.auth.getCurrentUserId(getApplication())
+                val progressList = userProgressDao.getAllProgressOnce(userId)
                 val completedLessons = progressList.filter { it.isCompleted }.map { it.lessonId }.toSet()
 
                 val nextStepRoute: String

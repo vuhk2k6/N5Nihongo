@@ -356,75 +356,39 @@
   ],
   "kanji": [
     {
-      "kanjiId": 2001,
+      "kanjiId": 1,
       "lessonId": 20,
-      "character": "忙",
-      "onyomi": "ボウ",
-      "kunyomi": "いそが.しい",
-      "meaning": "Bận rộn",
-      "strokeCount": 6
-    },
-    {
-      "kanjiId": 2002,
-      "lessonId": 20,
-      "character": "便",
-      "onyomi": "ベン",
-      "kunyomi": "たよ.り",
-      "meaning": "Tiện, thư",
-      "strokeCount": 9
-    },
-    {
-      "kanjiId": 2003,
-      "lessonId": 20,
-      "character": "利",
-      "onyomi": "リ",
-      "kunyomi": "き.く",
-      "meaning": "Lợi",
+      "character": "赤",
+      "onyomi": "セキ",
+      "kunyomi": "a.ka.i",
+      "meaning": "Xích, màu đỏ",
       "strokeCount": 7
     },
     {
-      "kanjiId": 2004,
+      "kanjiId": 2,
       "lessonId": 20,
-      "character": "暇",
-      "onyomi": "カ",
-      "kunyomi": "ひま",
-      "meaning": "Rảnh",
-      "strokeCount": 13
+      "character": "青",
+      "onyomi": "セイ",
+      "kunyomi": "a.o.i",
+      "meaning": "Thanh, màu xanh da trời/lá cây",
+      "strokeCount": 8
     },
     {
-      "kanjiId": 2005,
+      "kanjiId": 3,
       "lessonId": 20,
-      "character": "会",
-      "onyomi": "カイ",
-      "kunyomi": "あ.う",
-      "meaning": "Hội, gặp",
-      "strokeCount": 6
+      "character": "黒",
+      "onyomi": "コク",
+      "kunyomi": "ku.ro.i",
+      "meaning": "Hắc, màu đen",
+      "strokeCount": 11
     },
     {
-      "kanjiId": 2006,
+      "kanjiId": 4,
       "lessonId": 20,
-      "character": "議",
-      "onyomi": "ギ",
-      "kunyomi": "",
-      "meaning": "Nghị, bàn bạc",
-      "strokeCount": 20
-    },
-    {
-      "kanjiId": 2007,
-      "lessonId": 20,
-      "character": "用",
-      "onyomi": "ヨウ",
-      "kunyomi": "もち.いる",
-      "meaning": "Việc, dùng",
-      "strokeCount": 5
-    },
-    {
-      "kanjiId": 2008,
-      "lessonId": 20,
-      "character": "事",
-      "onyomi": "ジ",
-      "kunyomi": "こと",
-      "meaning": "Việc, sự",
+      "character": "東",
+      "onyomi": "トウ",
+      "kunyomi": "hi.ga.si",
+      "meaning": "Đông, phía Đông",
       "strokeCount": 8
     }
   ]

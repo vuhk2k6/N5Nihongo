@@ -348,76 +348,40 @@
   ],
   "kanji": [
     {
-      "kanjiId": 1001,
+      "kanjiId": 1,
+      "lessonId": 10,
+      "character": "川",
+      "onyomi": "セン",
+      "kunyomi": "ka.wa",
+      "meaning": "Xuyên, sông",
+      "strokeCount": 3
+    },
+    {
+      "kanjiId": 2,
+      "lessonId": 10,
+      "character": "山",
+      "onyomi": "サン",
+      "kunyomi": "ya.ma",
+      "meaning": "Sơn, núi",
+      "strokeCount": 3
+    },
+    {
+      "kanjiId": 3,
+      "lessonId": 10,
+      "character": "田",
+      "onyomi": "デン",
+      "kunyomi": "ta",
+      "meaning": "Điền, ruộng lúa",
+      "strokeCount": 5
+    },
+    {
+      "kanjiId": 4,
       "lessonId": 10,
       "character": "上",
       "onyomi": "ジョウ",
-      "kunyomi": "うえ",
-      "meaning": "Trên",
+      "kunyomi": "u.e / a.ge.ru",
+      "meaning": "Thượng, trên",
       "strokeCount": 3
-    },
-    {
-      "kanjiId": 1002,
-      "lessonId": 10,
-      "character": "下",
-      "onyomi": "カ",
-      "kunyomi": "した",
-      "meaning": "Dưới",
-      "strokeCount": 3
-    },
-    {
-      "kanjiId": 1003,
-      "lessonId": 10,
-      "character": "右",
-      "onyomi": "ウ",
-      "kunyomi": "みぎ",
-      "meaning": "Phải",
-      "strokeCount": 5
-    },
-    {
-      "kanjiId": 1004,
-      "lessonId": 10,
-      "character": "左",
-      "onyomi": "サ",
-      "kunyomi": "ひだり",
-      "meaning": "Trái",
-      "strokeCount": 5
-    },
-    {
-      "kanjiId": 1005,
-      "lessonId": 10,
-      "character": "中",
-      "onyomi": "チュウ",
-      "kunyomi": "なか",
-      "meaning": "Trong",
-      "strokeCount": 4
-    },
-    {
-      "kanjiId": 1006,
-      "lessonId": 10,
-      "character": "外",
-      "onyomi": "ガイ",
-      "kunyomi": "そと",
-      "meaning": "Ngoài",
-      "strokeCount": 5
-    },
-    {
-      "kanjiId": 1007,
-      "lessonId": 10,
-      "character": "前",
-      "onyomi": "ゼン",
-      "kunyomi": "まえ",
-      "meaning": "Trước",
-      "strokeCount": 9
-    },
-    {
-      "kanjiId": 1008,
-      "lessonId": 10,
-      "character": "後",
-      "onyomi": "ゴ/コウ",
-      "kunyomi": "うし.ろ",
-      "meaning": "Sau",
-      "strokeCount": 9
     }
   ]
 }

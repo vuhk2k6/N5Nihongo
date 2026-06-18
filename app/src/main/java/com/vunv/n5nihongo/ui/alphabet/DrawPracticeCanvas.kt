@@ -108,20 +108,27 @@ class DrawingView(context: Context) : View(context) {
     }
 }
 
-private fun svgXmlWithoutDoctype(xml: String): String =
-    xml.replaceFirst(Regex("<!DOCTYPE\\s+[\\s\\S]*?\\]\\s*>\\s*", RegexOption.IGNORE_CASE), "")
-
 private fun sanitizeKanjiVgSvg(xml: String): String {
-    var s = svgXmlWithoutDoctype(xml)
-    s = s.replace(Regex("paint-order:\\s*[^;]+;?", RegexOption.IGNORE_CASE), "")
-    return s
+    val svgIndex = xml.indexOf("<svg", ignoreCase = true)
+    if (svgIndex == -1) return xml
+    var cleanSvg = xml.substring(svgIndex)
+
+    // Add xmlns:kvg namespace declaration to root <svg> element to prevent namespace unbound parser crash
+    if (!cleanSvg.contains("xmlns:kvg")) {
+        cleanSvg = cleanSvg.replaceFirst("<svg", "<svg xmlns:kvg=\"http://kanjivg.tagaini.net\"", ignoreCase = true)
+    }
+
+    // Remove the style containing paint-order and white stroke to let numbers render in sharp bold red
+    cleanSvg = cleanSvg.replace(Regex("style=\"paint-order:[^\"]*\"", RegexOption.IGNORE_CASE), "")
+
+    return cleanSvg
 }
 
-internal suspend fun loadKanjiVgPictureDrawable(context: Context, character: String) =
+internal suspend fun loadKanjiVgPictureDrawable(context: Context, character: String): PictureDrawable? =
     withContext(Dispatchers.IO) {
-        runCatching {
+        try {
             val t = character.trim()
-            if (t.isEmpty()) return@runCatching null
+            if (t.isEmpty()) return@withContext null
             val cp = Character.codePointAt(t, 0)
             val hex = "%05x".format(cp)
             val raw =
@@ -129,7 +136,10 @@ internal suspend fun loadKanjiVgPictureDrawable(context: Context, character: Str
             val cleaned = sanitizeKanjiVgSvg(raw)
             val svg = SVG.getFromString(cleaned)
             PictureDrawable(svg.renderToPicture())
-        }.getOrNull()
+        } catch (e: Exception) {
+            android.util.Log.e("SVG_LOAD", "Error loading SVG for character '$character'", e)
+            null
+        }
     }
 
 /**
@@ -205,55 +215,18 @@ fun DrawPracticeCanvas(
     val context = LocalContext.current
     val drawingView = remember { DrawingView(context) }
 
-    var guideDrawable by remember(guideCharacter) { mutableStateOf<PictureDrawable?>(null) }
-    var guideFinished by remember(guideCharacter) { mutableStateOf(false) }
-
-    LaunchedEffect(guideCharacter) {
-        guideDrawable = null
-        guideFinished = false
-        if (guideCharacter.isNullOrBlank()) {
-            guideFinished = true
-            return@LaunchedEffect
-        }
-        guideDrawable = loadKanjiVgPictureDrawable(context, guideCharacter)
-        guideFinished = true
-    }
-
     val showGuide = !guideCharacter.isNullOrBlank()
 
     Box(modifier = modifier) {
         if (showGuide) {
             val ch = guideCharacter!!
-            val drawable = guideDrawable
-            if (drawable != null) {
-                AndroidView(
-                    modifier = Modifier.fillMaxSize(),
-                    factory = { ctx ->
-                        ImageView(ctx).apply {
-                            scaleType = ImageView.ScaleType.FIT_CENTER
-                            setBackgroundColor(AndroidColor.WHITE)
-                            importantForAccessibility = View.IMPORTANT_FOR_ACCESSIBILITY_NO
-                        }
-                    },
-                    update = { it.setImageDrawable(drawable) }
-                )
-            } else if (guideFinished) {
-                Text(
-                    text = ch,
-                    fontSize = 160.sp,
-                    fontWeight = FontWeight.Bold,
-                    color = MaterialTheme.colorScheme.primary.copy(alpha = 0.18f),
-                    modifier = Modifier.align(Alignment.Center)
-                )
-            } else {
-                Text(
-                    text = ch,
-                    fontSize = 160.sp,
-                    fontWeight = FontWeight.Bold,
-                    color = MaterialTheme.colorScheme.primary.copy(alpha = 0.12f),
-                    modifier = Modifier.align(Alignment.Center)
-                )
-            }
+            Text(
+                text = ch,
+                fontSize = 120.sp,
+                fontWeight = FontWeight.Bold,
+                color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.08f),
+                modifier = Modifier.align(Alignment.Center)
+            )
         }
 
         AndroidView(

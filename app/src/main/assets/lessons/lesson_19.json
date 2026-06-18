@@ -356,76 +356,40 @@
   ],
   "kanji": [
     {
-      "kanjiId": 1901,
+      "kanjiId": 1,
       "lessonId": 19,
-      "character": "走",
-      "onyomi": "ソウ",
-      "kunyomi": "はし.る",
-      "meaning": "Chạy",
-      "strokeCount": 7
+      "character": "食",
+      "onyomi": "ショク",
+      "kunyomi": "ta.be.ru / ku.u",
+      "meaning": "Thực, ăn",
+      "strokeCount": 9
     },
     {
-      "kanjiId": 1902,
+      "kanjiId": 2,
       "lessonId": 19,
-      "character": "登",
-      "onyomi": "トウ",
-      "kunyomi": "のぼ.る",
-      "meaning": "Leo",
+      "character": "飲",
+      "onyomi": "イン",
+      "kunyomi": "no.mu",
+      "meaning": "Ẩm, uống",
       "strokeCount": 12
     },
     {
-      "kanjiId": 1903,
+      "kanjiId": 3,
       "lessonId": 19,
-      "character": "寺",
-      "onyomi": "ジ",
-      "kunyomi": "てら",
-      "meaning": "Chùa",
-      "strokeCount": 6
+      "character": "買",
+      "onyomi": "バイ",
+      "kunyomi": "ka.u",
+      "meaning": "Mãi, mua",
+      "strokeCount": 12
     },
     {
-      "kanjiId": 1904,
+      "kanjiId": 4,
       "lessonId": 19,
-      "character": "城",
-      "onyomi": "ジョウ",
-      "kunyomi": "しろ",
-      "meaning": "Lâu đài",
-      "strokeCount": 9
-    },
-    {
-      "kanjiId": 1905,
-      "lessonId": 19,
-      "character": "験",
-      "onyomi": "ケン",
-      "kunyomi": "",
-      "meaning": "Nghiệm, thử",
-      "strokeCount": 18
-    },
-    {
-      "kanjiId": 1906,
-      "lessonId": 19,
-      "character": "経",
-      "onyomi": "ケイ",
-      "kunyomi": "へ.る",
-      "meaning": "Trải qua, kinh",
-      "strokeCount": 11
-    },
-    {
-      "kanjiId": 1907,
-      "lessonId": 19,
-      "character": "馬",
-      "onyomi": "バ",
-      "kunyomi": "うま",
-      "meaning": "Ngựa",
-      "strokeCount": 10
-    },
-    {
-      "kanjiId": 1908,
-      "lessonId": 19,
-      "character": "度",
-      "onyomi": "ド",
-      "kunyomi": "たび",
-      "meaning": "Độ, lần",
-      "strokeCount": 9
+      "character": "白",
+      "onyomi": "ハク",
+      "kunyomi": "si.ro.i",
+      "meaning": "Bạch, màu trắng",
+      "strokeCount": 5
     }
   ]
 }

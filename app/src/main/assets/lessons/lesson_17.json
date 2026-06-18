@@ -352,76 +352,40 @@
   ],
   "kanji": [
     {
-      "kanjiId": 1701,
+      "kanjiId": 1,
       "lessonId": 17,
-      "character": "忘",
-      "onyomi": "ボウ",
-      "kunyomi": "わす.れる",
-      "meaning": "Quên",
-      "strokeCount": 7
-    },
-    {
-      "kanjiId": 1702,
-      "lessonId": 17,
-      "character": "着",
-      "onyomi": "チャク",
-      "kunyomi": "き.る",
-      "meaning": "Mặc, đến",
-      "strokeCount": 12
-    },
-    {
-      "kanjiId": 1703,
-      "lessonId": 17,
-      "character": "薬",
-      "onyomi": "ヤク",
-      "kunyomi": "くすり",
-      "meaning": "Thuốc",
-      "strokeCount": 16
-    },
-    {
-      "kanjiId": 1704,
-      "lessonId": 17,
-      "character": "払",
-      "onyomi": "フツ",
-      "kunyomi": "はら.う",
-      "meaning": "Trả tiền",
-      "strokeCount": 5
-    },
-    {
-      "kanjiId": 1705,
-      "lessonId": 17,
-      "character": "返",
-      "onyomi": "ヘン",
-      "kunyomi": "かえ.す",
-      "meaning": "Trả lại",
-      "strokeCount": 7
-    },
-    {
-      "kanjiId": 1706,
-      "lessonId": 17,
-      "character": "出",
-      "onyomi": "シュツ",
-      "kunyomi": "で.る",
-      "meaning": "Ra",
-      "strokeCount": 5
-    },
-    {
-      "kanjiId": 1707,
-      "lessonId": 17,
-      "character": "約",
-      "onyomi": "ヤク",
+      "character": "駅",
+      "onyomi": "エキ",
       "kunyomi": "",
-      "meaning": "Hẹn, ước",
-      "strokeCount": 9
+      "meaning": "Dịch, nhà ga",
+      "strokeCount": 14
     },
     {
-      "kanjiId": 1708,
+      "kanjiId": 2,
       "lessonId": 17,
-      "character": "束",
-      "onyomi": "ソク",
-      "kunyomi": "たば",
-      "meaning": "Bó, chùm",
-      "strokeCount": 7
+      "character": "電",
+      "onyomi": "デン",
+      "kunyomi": "",
+      "meaning": "Điện, điện năng",
+      "strokeCount": 13
+    },
+    {
+      "kanjiId": 3,
+      "lessonId": 17,
+      "character": "話",
+      "onyomi": "ワ",
+      "kunyomi": "ha.na.su / ha.na.si",
+      "meaning": "Thoại, nói chuyện",
+      "strokeCount": 13
+    },
+    {
+      "kanjiId": 4,
+      "lessonId": 17,
+      "character": "語",
+      "onyomi": "ゴ",
+      "kunyomi": "ka.ta.ru",
+      "meaning": "Ngôn/Ngữ, ngôn ngữ",
+      "strokeCount": 14
     }
   ]
 }

@@ -110,6 +110,8 @@ private suspend fun loadStrokeOrderData(context: android.content.Context, charac
             strokeEntries.sortBy { it.first }
             val paths = strokeEntries.mapNotNull { (_, d) -> androidPathFromSvgPathData(d) }
             Triple(vw, vh, paths)
+        }.onFailure { e ->
+            android.util.Log.e("SVG_LOAD", "Failed to parse stroke meta for character '$character'", e)
         }.getOrNull()
 
         val result = if (meta != null) {

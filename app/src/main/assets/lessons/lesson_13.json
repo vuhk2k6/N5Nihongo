@@ -352,76 +352,40 @@
   ],
   "kanji": [
     {
-      "kanjiId": 1301,
+      "kanjiId": 1,
       "lessonId": 13,
-      "character": "海",
-      "onyomi": "カイ",
-      "kunyomi": "うみ",
-      "meaning": "Biển",
-      "strokeCount": 9
-    },
-    {
-      "kanjiId": 1302,
-      "lessonId": 13,
-      "character": "山",
-      "onyomi": "サン",
-      "kunyomi": "やま",
-      "meaning": "Núi",
-      "strokeCount": 3
-    },
-    {
-      "kanjiId": 1303,
-      "lessonId": 13,
-      "character": "川",
-      "onyomi": "セン",
-      "kunyomi": "かわ",
-      "meaning": "Sông",
-      "strokeCount": 3
-    },
-    {
-      "kanjiId": 1304,
-      "lessonId": 13,
-      "character": "入",
-      "onyomi": "ニュウ",
-      "kunyomi": "い.る",
-      "meaning": "Vào",
-      "strokeCount": 2
-    },
-    {
-      "kanjiId": 1305,
-      "lessonId": 13,
-      "character": "出",
-      "onyomi": "シュツ",
-      "kunyomi": "で.る",
-      "meaning": "Ra",
-      "strokeCount": 5
-    },
-    {
-      "kanjiId": 1306,
-      "lessonId": 13,
-      "character": "公",
+      "character": "高",
       "onyomi": "コウ",
-      "kunyomi": "おおやけ",
-      "meaning": "Công cộng",
-      "strokeCount": 4
+      "kunyomi": "ta.ka.i",
+      "meaning": "Cao, đắt",
+      "strokeCount": 10
     },
     {
-      "kanjiId": 1307,
+      "kanjiId": 2,
       "lessonId": 13,
-      "character": "園",
-      "onyomi": "エン",
-      "kunyomi": "その",
-      "meaning": "Vườn, công viên",
+      "character": "安",
+      "onyomi": "アン",
+      "kunyomi": "ya.su.i",
+      "meaning": "An, rẻ, an toàn",
+      "strokeCount": 6
+    },
+    {
+      "kanjiId": 3,
+      "lessonId": 13,
+      "character": "新",
+      "onyomi": "シン",
+      "kunyomi": "a.ta.ra.si.i",
+      "meaning": "Tân, mới",
       "strokeCount": 13
     },
     {
-      "kanjiId": 1308,
+      "kanjiId": 4,
       "lessonId": 13,
-      "character": "週",
-      "onyomi": "シュウ",
-      "kunyomi": "",
-      "meaning": "Tuần",
-      "strokeCount": 11
+      "character": "古",
+      "onyomi": "コ",
+      "kunyomi": "fu.ru.i",
+      "meaning": "Cổ, cũ",
+      "strokeCount": 5
     }
   ]
 }

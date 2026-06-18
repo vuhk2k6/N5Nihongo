@@ -14,6 +14,7 @@ import com.vunv.n5nihongo.data.quiz.LESSON_QUIZ_PASS_PERCENT
 import com.vunv.n5nihongo.data.quiz.QuizCategory
 import com.vunv.n5nihongo.data.quiz.QuizPromptType
 import com.vunv.n5nihongo.data.repository.QuizRepository
+import com.vunv.n5nihongo.data.repository.UserProgressSyncRepository
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
@@ -164,20 +165,34 @@ class QuizViewModel(
         val state = _uiState.value
         val scorePercent = if (state.totalQuestions == 0) 0
         else (state.correctAnswers * 100) / state.totalQuestions
-        val passed = scorePercent >= LESSON_QUIZ_PASS_PERCENT
+        // Only mark lesson as passed if it's a standard full lesson exam
+        val passed = selectedWordIds.isEmpty() && scorePercent >= LESSON_QUIZ_PASS_PERCENT
 
         _uiState.value = state.copy(
             isFinished = true,
             lessonPassed = passed
         )
         viewModelScope.launch {
-            repository.updateLessonScore(
-                lessonId = lessonId,
-                correctCount = state.correctAnswers,
-                totalQuestions = state.totalQuestions
-            )
+            val userId = com.vunv.n5nihongo.data.auth.getCurrentUserId(getApplication())
+            if (selectedWordIds.isEmpty()) {
+                repository.updateLessonScore(
+                    userId = userId,
+                    lessonId = lessonId,
+                    correctCount = state.correctAnswers,
+                    totalQuestions = state.totalQuestions
+                )
+                // Trigger immediate cloud sync of lesson progress to Firestore if logged in
+                if (userId.isNotBlank()) {
+                    try {
+                        val syncRepository = UserProgressSyncRepository(database.userProgressDao())
+                        syncRepository.syncProgressForUser(userId)
+                    } catch (e: Exception) {
+                        android.util.Log.e("QuizViewModel", "Lỗi đồng bộ: ${e.message}", e)
+                    }
+                }
+            }
             if (state.correctAnswers > 0) {
-                authRepository.updateUserProgress(state.correctAnswers * 10)
+                authRepository.updateUserProgress(state.correctAnswers * 10, getApplication())
             }
         }
     }

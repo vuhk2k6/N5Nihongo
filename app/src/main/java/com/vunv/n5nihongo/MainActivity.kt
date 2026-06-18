@@ -228,16 +228,15 @@ private fun AppRoot() {
         composable("leaderboard") {
             com.vunv.n5nihongo.ui.quiz.QuizSelectionScreen(
                 onQuizSelected = { lessonId ->
-                    if (lessonId in 3..28) {
-                        val prompt = if (lessonId == 3) {
-                            "Trắc nghiệm số đếm, giờ giấc, ngày tháng tiếng Nhật N5"
-                        } else {
-                            "trắc nghiệm từ vựng ngữ pháp chữ hán tiếng Nhật N5 Bài $lessonId"
-                        }
-                        navController.navigate("aiQuiz?prompt=$prompt")
+                    navController.navigate("lessonQuiz/$lessonId?selectedIds=")
+                },
+                onAiQuizSelected = { lessonId ->
+                    val prompt = if (lessonId == 3) {
+                        "Trắc nghiệm số đếm, giờ giấc, ngày tháng tiếng Nhật N5"
                     } else {
-                        navController.navigate("lessonQuiz/$lessonId?selectedIds=")
+                        "trắc nghiệm từ vựng ngữ pháp chữ hán tiếng Nhật N5 Bài $lessonId"
                     }
+                    navController.navigate("aiQuiz?prompt=$prompt")
                 },
                 onStartMockExam = { navController.navigate("mockExam") }
             )
@@ -262,7 +261,7 @@ private fun MainBottomNavigationApp(
         BottomNavItem(route = "aiAssistant", title = "AI Sensei", icon = Icons.Default.AutoAwesome),
         BottomNavItem(route = "home", title = "Lộ trình", icon = Icons.Filled.Home),
         BottomNavItem(route = "kanji", title = "Chữ Hán", icon = Icons.Filled.Edit),
-        BottomNavItem(route = "leaderboard", title = "Bài kiểm tra", icon = Icons.Filled.Star),
+        BottomNavItem(route = "leaderboard", title = "Luyện thi", icon = Icons.Filled.Star),
         BottomNavItem(route = "profile", title = "Hồ sơ", icon = Icons.Filled.Person)
     )
 
@@ -465,16 +464,15 @@ private fun LeaderboardScreen(
 ) {
     com.vunv.n5nihongo.ui.quiz.QuizSelectionScreen(
         onQuizSelected = { lessonId ->
-            if (lessonId in 3..28) {
-                val prompt = if (lessonId == 3) {
-                    "Trắc nghiệm số đếm, giờ giấc, ngày tháng tiếng Nhật N5"
-                } else {
-                    "trắc nghiệm từ vựng ngữ pháp chữ hán tiếng Nhật N5 Bài $lessonId"
-                }
-                navController.navigate("aiQuiz?prompt=$prompt")
+            navController.navigate("lessonQuiz/$lessonId?selectedIds=")
+        },
+        onAiQuizSelected = { lessonId ->
+            val prompt = if (lessonId == 3) {
+                "Trắc nghiệm số đếm, giờ giấc, ngày tháng tiếng Nhật N5"
             } else {
-                navController.navigate("lessonQuiz/$lessonId?selectedIds=")
+                "trắc nghiệm từ vựng ngữ pháp chữ hán tiếng Nhật N5 Bài $lessonId"
             }
+            navController.navigate("aiQuiz?prompt=$prompt")
         },
         onStartMockExam = onStartMockExam
     )

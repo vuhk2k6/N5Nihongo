@@ -22,10 +22,13 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.alpha
 import androidx.compose.ui.draw.scale
+import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
+import com.google.firebase.auth.FirebaseAuth
 import com.vunv.n5nihongo.R
+import com.vunv.n5nihongo.data.auth.AuthRepository
 import com.vunv.n5nihongo.ui.theme.LightBackground
 import com.vunv.n5nihongo.ui.theme.MintPrimary
 import kotlinx.coroutines.delay
@@ -35,6 +38,7 @@ fun SplashRoute(
     onNavigateToLogin: () -> Unit,
     onNavigateToHome: () -> Unit
 ) {
+    val context = LocalContext.current
     var startAnimation by remember { mutableStateOf(false) }
     val alphaAnim by animateFloatAsState(
         targetValue = if (startAnimation) 1f else 0f,
@@ -50,7 +54,15 @@ fun SplashRoute(
     LaunchedEffect(Unit) {
         startAnimation = true
         delay(1500)
-        onNavigateToHome()
+        // Check if user is logged in (Firebase account or Guest mode)
+        val firebaseUser = FirebaseAuth.getInstance().currentUser
+        val authRepository = AuthRepository()
+        val isGuest = authRepository.isGuestMode(context)
+        if (firebaseUser != null || isGuest) {
+            onNavigateToHome()
+        } else {
+            onNavigateToLogin()
+        }
     }
 
     Column(

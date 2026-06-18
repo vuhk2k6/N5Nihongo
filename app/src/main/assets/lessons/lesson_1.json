@@ -356,76 +356,40 @@
   ],
   "kanji": [
     {
-      "kanjiId": 101,
+      "kanjiId": 1,
       "lessonId": 1,
-      "character": "私",
-      "onyomi": "シ",
-      "kunyomi": "わたし",
-      "meaning": "Tôi, riêng tư",
-      "strokeCount": 7
+      "character": "一",
+      "onyomi": "イチ",
+      "kunyomi": "ひと.つ",
+      "meaning": "Một",
+      "strokeCount": 1
     },
     {
-      "kanjiId": 102,
+      "kanjiId": 2,
       "lessonId": 1,
-      "character": "学",
-      "onyomi": "ガク",
-      "kunyomi": "まな.ぶ",
-      "meaning": "Học",
-      "strokeCount": 8
-    },
-    {
-      "kanjiId": 103,
-      "lessonId": 1,
-      "character": "生",
-      "onyomi": "セイ",
-      "kunyomi": "い.きる",
-      "meaning": "Sinh, sống",
-      "strokeCount": 5
-    },
-    {
-      "kanjiId": 104,
-      "lessonId": 1,
-      "character": "先",
-      "onyomi": "セン",
-      "kunyomi": "さき",
-      "meaning": "Trước",
-      "strokeCount": 6
-    },
-    {
-      "kanjiId": 105,
-      "lessonId": 1,
-      "character": "会",
-      "onyomi": "カイ",
-      "kunyomi": "あ.う",
-      "meaning": "Hội, gặp",
-      "strokeCount": 6
-    },
-    {
-      "kanjiId": 106,
-      "lessonId": 1,
-      "character": "社",
-      "onyomi": "シャ",
-      "kunyomi": "やしろ",
-      "meaning": "Xã, công ty",
-      "strokeCount": 7
-    },
-    {
-      "kanjiId": 107,
-      "lessonId": 1,
-      "character": "員",
-      "onyomi": "イン",
-      "kunyomi": "",
-      "meaning": "Người, viên (đếm người)",
-      "strokeCount": 10
-    },
-    {
-      "kanjiId": 108,
-      "lessonId": 1,
-      "character": "人",
-      "onyomi": "ジン/ニン",
-      "kunyomi": "ひと",
-      "meaning": "Người",
+      "character": "二",
+      "onyomi": "ニ",
+      "kunyomi": "ふた.つ",
+      "meaning": "Hai",
       "strokeCount": 2
+    },
+    {
+      "kanjiId": 3,
+      "lessonId": 1,
+      "character": "三",
+      "onyomi": "サン",
+      "kunyomi": "みっ.つ",
+      "meaning": "Ba",
+      "strokeCount": 3
+    },
+    {
+      "kanjiId": 4,
+      "lessonId": 1,
+      "character": "四",
+      "onyomi": "シ",
+      "kunyomi": "よん / よっ.つ",
+      "meaning": "Bốn",
+      "strokeCount": 5
     }
   ]
 }

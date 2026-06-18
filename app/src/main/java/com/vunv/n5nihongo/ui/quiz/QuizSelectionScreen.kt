@@ -12,6 +12,10 @@ import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.AutoAwesome
 import androidx.compose.material.icons.filled.Timer
 import androidx.compose.material3.*
+import androidx.compose.runtime.*
+import androidx.compose.foundation.shape.CircleShape
+import androidx.compose.material.icons.filled.MenuBook
+import com.vunv.n5nihongo.ui.theme.TextSecondary
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
@@ -31,8 +35,10 @@ import com.vunv.n5nihongo.ui.theme.LightBackground
 @Composable
 fun QuizSelectionScreen(
     onQuizSelected: (Int) -> Unit,
+    onAiQuizSelected: (Int) -> Unit,
     onStartMockExam: () -> Unit
 ) {
+    var selectedLessonIdForDialog by remember { mutableStateOf<Int?>(null) }
     Scaffold(
         topBar = {
             TopAppBar(
@@ -188,7 +194,13 @@ fun QuizSelectionScreen(
                     modifier = Modifier
                         .aspectRatio(1.1f)
                         .fillMaxWidth()
-                        .clickable { onQuizSelected(lessonId) }
+                        .clickable {
+                            if (lessonId in 1..2) {
+                                onQuizSelected(lessonId)
+                            } else {
+                                selectedLessonIdForDialog = lessonId
+                            }
+                        }
                 ) {
                     Box(
                         modifier = Modifier.fillMaxSize(),
@@ -220,5 +232,49 @@ fun QuizSelectionScreen(
                 Spacer(modifier = Modifier.height(24.dp))
             }
         }
+    }
+
+    selectedLessonIdForDialog?.let { lessonId ->
+        AlertDialog(
+            onDismissRequest = { selectedLessonIdForDialog = null },
+            title = {
+                Text(
+                    text = "Luyện tập Bài $lessonId 📝",
+                    fontWeight = FontWeight.Bold,
+                    color = TextPrimary
+                )
+            },
+            text = {
+                Text(
+                    text = "Hãy chọn hình thức kiểm tra/luyện tập phù hợp cho Bài học này:",
+                    color = TextSecondary
+                )
+            },
+            confirmButton = {
+                Button(
+                    onClick = {
+                        onQuizSelected(lessonId)
+                        selectedLessonIdForDialog = null
+                    },
+                    colors = ButtonDefaults.buttonColors(containerColor = MintPrimary)
+                ) {
+                    Text("Luyện tập Offline", color = Color.White)
+                }
+            },
+            dismissButton = {
+                OutlinedButton(
+                    onClick = {
+                        onAiQuizSelected(lessonId)
+                        selectedLessonIdForDialog = null
+                    },
+                    colors = ButtonDefaults.outlinedButtonColors(contentColor = MintPrimary),
+                    border = androidx.compose.foundation.BorderStroke(1.dp, MintPrimary)
+                ) {
+                    Text("Luyện tập với AI")
+                }
+            },
+            shape = RoundedCornerShape(16.dp),
+            containerColor = SurfaceWhite
+        )
     }
 }

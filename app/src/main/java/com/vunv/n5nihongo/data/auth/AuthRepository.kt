@@ -20,7 +20,8 @@ data class UserDocument(
     val photoUrl: String = "",
     val authProvider: String = "",
     val totalXp: Int = 0,
-    val streak: Int = 0
+    val streak: Int = 0,
+    val lastActiveDate: Long = 0L
 )
 
 class AuthRepository(
@@ -120,7 +121,97 @@ class AuthRepository(
         }.mapError()
     }
 
-    suspend fun updateUserProgress(xpToAdd: Int): Result<Unit> {
+    fun isGuestMode(context: android.content.Context): Boolean {
+        val prefs = context.getSharedPreferences("nihongo_guest_prefs", android.content.Context.MODE_PRIVATE)
+        return prefs.getBoolean("guest_active", false)
+    }
+
+    fun getGuestUserDocument(context: android.content.Context): UserDocument? {
+        val prefs = context.getSharedPreferences("nihongo_guest_prefs", android.content.Context.MODE_PRIVATE)
+        val name = prefs.getString("guest_nickname", null) ?: return null
+        var uid = prefs.getString("guest_uid", null)
+        if (uid == null) {
+            uid = "GUEST_" + java.util.UUID.randomUUID().toString()
+            prefs.edit().putString("guest_uid", uid).apply()
+        }
+        val xp = prefs.getInt("guest_xp", 0)
+        val streak = prefs.getInt("guest_streak", 0)
+        val lastActive = prefs.getLong("guest_last_active", 0L)
+        return UserDocument(
+            uid = uid,
+            displayName = name,
+            email = "local_guest@nihongo.local",
+            photoUrl = "",
+            authProvider = "local_guest",
+            totalXp = xp,
+            streak = streak,
+            lastActiveDate = lastActive
+        )
+    }
+
+    fun saveGuestNickname(context: android.content.Context, nickname: String) {
+        val prefs = context.getSharedPreferences("nihongo_guest_prefs", android.content.Context.MODE_PRIVATE)
+        var uid = prefs.getString("guest_uid", null)
+        if (uid == null) {
+            uid = "GUEST_" + java.util.UUID.randomUUID().toString()
+        }
+        prefs.edit()
+            .putString("guest_nickname", nickname)
+            .putString("guest_uid", uid)
+            .putBoolean("guest_active", true)
+            .apply()
+
+        // Also asynchronously save/sync guest profile to Firebase Firestore users database
+        val guestDoc = getGuestUserDocument(context)
+        if (guestDoc != null) {
+            val firestore = getFirestoreOrNull()
+            firestore?.collection(USERS_COLLECTION)?.document(guestDoc.uid)?.set(guestDoc)
+        }
+    }
+
+    fun clearGuestMode(context: android.content.Context) {
+        val prefs = context.getSharedPreferences("nihongo_guest_prefs", android.content.Context.MODE_PRIVATE)
+        // Set guest_active to false so session is inactive on logout, but keep all progress & data!
+        prefs.edit().putBoolean("guest_active", false).apply()
+    }
+
+    suspend fun updateUserProgress(xpToAdd: Int, context: android.content.Context? = null): Result<Unit> {
+        if (context != null && isGuestMode(context)) {
+            val prefs = context.getSharedPreferences("nihongo_guest_prefs", android.content.Context.MODE_PRIVATE)
+            val currentXp = prefs.getInt("guest_xp", 0)
+            val currentStreak = prefs.getInt("guest_streak", 0)
+            val lastActive = prefs.getLong("guest_last_active", 0L)
+            
+            val now = System.currentTimeMillis()
+            val sdf = java.text.SimpleDateFormat("yyyyMMdd", java.util.Locale.getDefault())
+            val todayStr = sdf.format(java.util.Date(now))
+            val lastStr = if (lastActive > 0) sdf.format(java.util.Date(lastActive)) else ""
+            
+            val yesterdayCal = java.util.Calendar.getInstance()
+            yesterdayCal.add(java.util.Calendar.DAY_OF_YEAR, -1)
+            val yesterdayStr = sdf.format(yesterdayCal.time)
+            
+            val newStreak = when (lastStr) {
+                todayStr -> currentStreak
+                yesterdayStr -> currentStreak + 1
+                else -> 1
+            }
+            
+            prefs.edit()
+                .putInt("guest_xp", currentXp + xpToAdd)
+                .putInt("guest_streak", newStreak)
+                .putLong("guest_last_active", now)
+                .apply()
+
+            // Asynchronously sync the updated guest progress to the online database
+            val guestDoc = getGuestUserDocument(context)
+            if (guestDoc != null) {
+                val firestore = getFirestoreOrNull()
+                firestore?.collection(USERS_COLLECTION)?.document(guestDoc.uid)?.set(guestDoc)
+            }
+            return Result.success(Unit)
+        }
+
         val user = getCurrentUser() ?: return Result.failure(IllegalStateException("User not logged in"))
         val firestore = getFirestoreOrNull()
             ?: return Result.failure(IllegalStateException("Firestore chưa được khởi tạo"))
@@ -129,13 +220,59 @@ class AuthRepository(
             val docRef = firestore.collection(USERS_COLLECTION).document(user.uid)
             firestore.runTransaction { transaction ->
                 val snapshot = transaction.get(docRef)
-                val currentXp = snapshot.getLong("totalXp")?.toInt() ?: 0
+                val now = System.currentTimeMillis()
                 
-                transaction.update(docRef, "totalXp", currentXp + xpToAdd)
-                // Basic streak logic: just increment for now, or you could add date checks
-                // For now let's just keep it simple as requested
+                // Formatted date check in local timezone
+                val sdf = java.text.SimpleDateFormat("yyyyMMdd", java.util.Locale.getDefault())
+                val todayStr = sdf.format(java.util.Date(now))
+                
+                if (!snapshot.exists()) {
+                    val resolvedName = resolveDisplayName(user)
+                    val email = user.email.orEmpty()
+                    val photoUrl = user.photoUrl?.toString().orEmpty()
+                    
+                    val created = UserDocument(
+                        uid = user.uid,
+                        displayName = resolvedName,
+                        email = email,
+                        photoUrl = photoUrl,
+                        authProvider = user.authProviderLabel(),
+                        totalXp = xpToAdd,
+                        streak = 1,
+                        lastActiveDate = now
+                    )
+                    transaction.set(docRef, created)
+                } else {
+                    val currentXp = snapshot.getLong("totalXp")?.toInt() ?: 0
+                    val currentStreak = snapshot.getLong("streak")?.toInt() ?: 0
+                    val lastActive = snapshot.getLong("lastActiveDate") ?: 0L
+                    val lastStr = if (lastActive > 0) sdf.format(java.util.Date(lastActive)) else ""
+                    
+                    val yesterdayCal = java.util.Calendar.getInstance()
+                    yesterdayCal.add(java.util.Calendar.DAY_OF_YEAR, -1)
+                    val yesterdayStr = sdf.format(yesterdayCal.time)
+                    
+                    val newStreak = when (lastStr) {
+                        todayStr -> currentStreak // Already practiced today, keep streak
+                        yesterdayStr -> currentStreak + 1 // Practiced yesterday, increment
+                        else -> 1 // Gap or first time, reset/start with 1
+                    }
+                    
+                    transaction.update(docRef, "totalXp", currentXp + xpToAdd)
+                    transaction.update(docRef, "streak", newStreak)
+                    transaction.update(docRef, "lastActiveDate", now)
+                }
             }.await()
             Unit
+        }
+    }
+
+    private fun FirebaseUser.authProviderLabel(): String {
+        val providerId = providerData.firstOrNull()?.providerId.orEmpty()
+        return when {
+            providerId.contains("google", ignoreCase = true) -> AUTH_PROVIDER_GOOGLE
+            providerId.contains("facebook", ignoreCase = true) -> AUTH_PROVIDER_FACEBOOK
+            else -> AUTH_PROVIDER_EMAIL
         }
     }
 

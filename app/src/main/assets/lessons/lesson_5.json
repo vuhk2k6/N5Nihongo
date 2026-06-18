@@ -352,76 +352,40 @@
   ],
   "kanji": [
     {
-      "kanjiId": 501,
+      "kanjiId": 1,
       "lessonId": 5,
-      "character": "行",
-      "onyomi": "コウ",
-      "kunyomi": "い.く",
-      "meaning": "Đi",
-      "strokeCount": 6
-    },
-    {
-      "kanjiId": 502,
-      "lessonId": 5,
-      "character": "来",
-      "onyomi": "ライ",
-      "kunyomi": "く.る",
-      "meaning": "Đến",
-      "strokeCount": 7
-    },
-    {
-      "kanjiId": 503,
-      "lessonId": 5,
-      "character": "帰",
-      "onyomi": "キ",
-      "kunyomi": "かえ.る",
-      "meaning": "Về",
-      "strokeCount": 10
-    },
-    {
-      "kanjiId": 504,
-      "lessonId": 5,
-      "character": "電",
-      "onyomi": "デン",
-      "kunyomi": "",
-      "meaning": "Điện",
-      "strokeCount": 13
-    },
-    {
-      "kanjiId": 505,
-      "lessonId": 5,
-      "character": "車",
-      "onyomi": "シャ",
-      "kunyomi": "くるま",
-      "meaning": "Xe",
-      "strokeCount": 7
-    },
-    {
-      "kanjiId": 506,
-      "lessonId": 5,
-      "character": "駅",
-      "onyomi": "エキ",
-      "kunyomi": "",
-      "meaning": "Ga",
-      "strokeCount": 14
-    },
-    {
-      "kanjiId": 507,
-      "lessonId": 5,
-      "character": "友",
-      "onyomi": "ユウ",
-      "kunyomi": "とも",
-      "meaning": "Bạn",
+      "character": "火",
+      "onyomi": "カ",
+      "kunyomi": "ひ / -び",
+      "meaning": "Hỏa, lửa",
       "strokeCount": 4
     },
     {
-      "kanjiId": 508,
+      "kanjiId": 2,
       "lessonId": 5,
-      "character": "達",
-      "onyomi": "タツ",
-      "kunyomi": "",
-      "meaning": "Đạt, đám đông",
-      "strokeCount": 12
+      "character": "水",
+      "onyomi": "スイ",
+      "kunyomi": "みず",
+      "meaning": "Thủy, nước",
+      "strokeCount": 4
+    },
+    {
+      "kanjiId": 3,
+      "lessonId": 5,
+      "character": "木",
+      "onyomi": "モク / ボク",
+      "kunyomi": "き",
+      "meaning": "Mộc, cây",
+      "strokeCount": 4
+    },
+    {
+      "kanjiId": 4,
+      "lessonId": 5,
+      "character": "金",
+      "onyomi": "キン / コン",
+      "kunyomi": "かね",
+      "meaning": "Kim, vàng, tiền",
+      "strokeCount": 8
     }
   ]
 }

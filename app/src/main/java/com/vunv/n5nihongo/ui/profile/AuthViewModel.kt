@@ -60,11 +60,23 @@ class AuthViewModel : ViewModel() {
         }
     }
 
-    fun checkCurrentUser() {
-        val current = authRepository.getCurrentUser()
-        _uiState.update { it.copy(currentUser = current) }
-        if (current != null) {
-            refreshUserProfile(current)
+    fun checkCurrentUser(context: android.content.Context? = null) {
+
+        if (context != null && authRepository.isGuestMode(context)) {
+            val guestDoc = authRepository.getGuestUserDocument(context)
+            _uiState.update {
+                it.copy(
+                    currentUser = null,
+                    userDocument = guestDoc,
+                    isLoading = false
+                )
+            }
+        } else {
+            val current = authRepository.getCurrentUser()
+            _uiState.update { it.copy(currentUser = current) }
+            if (current != null) {
+                refreshUserProfile(current)
+            }
         }
     }
 
@@ -159,13 +171,32 @@ class AuthViewModel : ViewModel() {
         }
     }
 
-    fun logout() {
+    fun logout(context: android.content.Context? = null) {
         authRepository.signOut()
+        if (context != null) {
+            authRepository.clearGuestMode(context)
+        }
         _uiState.update {
             it.copy(
                 currentUser = null,
                 userDocument = null,
                 successMessage = "Đã đăng xuất"
+            )
+        }
+    }
+
+    fun loginAsGuest(context: android.content.Context, nickname: String) {
+        if (nickname.isBlank()) {
+            _uiState.update { it.copy(errorMessage = "Vui lòng nhập tên khách") }
+            return
+        }
+        authRepository.saveGuestNickname(context, nickname.trim())
+        val guestDoc = authRepository.getGuestUserDocument(context)
+        _uiState.update {
+            it.copy(
+                currentUser = null,
+                userDocument = guestDoc,
+                successMessage = "Đăng nhập khách thành công"
             )
         }
     }
@@ -203,5 +234,9 @@ class AuthViewModel : ViewModel() {
             providerId.contains("facebook", ignoreCase = true) -> AuthRepository.AUTH_PROVIDER_FACEBOOK
             else -> AuthRepository.AUTH_PROVIDER_EMAIL
         }
+    }
+
+    fun getSavedGuestNickname(context: android.content.Context): String? {
+        return authRepository.getGuestUserDocument(context)?.displayName
     }
 }

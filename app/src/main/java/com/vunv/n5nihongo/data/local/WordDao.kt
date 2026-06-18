@@ -97,7 +97,7 @@ interface WordDao {
     @Query(
         """
         SELECT * FROM words
-        WHERE kanji LIKE '%' || :chr || '%' OR furigana LIKE '%' || :chr || '%'
+        WHERE level = 'n5' AND kanji LIKE '%' || :chr || '%'
         ORDER BY lessonId ASC, id ASC
         """
     )

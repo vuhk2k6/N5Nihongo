@@ -42,6 +42,14 @@ import com.vunv.n5nihongo.ui.theme.LightBackground
 import com.vunv.n5nihongo.ui.theme.MintPrimary
 import com.vunv.n5nihongo.ui.theme.SkySecondary
 import androidx.compose.material3.HorizontalDivider
+import androidx.compose.runtime.remember
+import androidx.compose.runtime.mutableStateOf
+import androidx.compose.runtime.setValue
+import androidx.compose.ui.window.Dialog
+import androidx.compose.ui.window.DialogProperties
+import androidx.compose.material3.Surface
+import androidx.compose.material3.IconButton
+import androidx.compose.material.icons.filled.Close
 
 private data class BadgeUi(val title: String, val achieved: Boolean)
 
@@ -51,11 +59,46 @@ fun ProfileRoute(
     onNavigateToAi: () -> Unit = {},
     authViewModel: AuthViewModel = viewModel()
 ) {
+    val context = androidx.compose.ui.platform.LocalContext.current
     val uiState by authViewModel.uiState.collectAsStateWithLifecycle()
     val userName = uiState.userDocument?.displayName?.takeIf { it.isNotBlank() } ?: uiState.currentUser?.displayName ?: "Bạn học Nihongo"
     val photoUrl = uiState.userDocument?.photoUrl?.takeIf { it.isNotBlank() } ?: uiState.currentUser?.photoUrl?.toString().orEmpty()
     val xp = uiState.userDocument?.totalXp ?: 0
     val streak = uiState.userDocument?.streak ?: 0
+
+    var showLeaderboard by remember { mutableStateOf(false) }
+
+    if (showLeaderboard) {
+        Dialog(
+            onDismissRequest = { showLeaderboard = false },
+            properties = DialogProperties(usePlatformDefaultWidth = false)
+        ) {
+            Surface(
+                modifier = Modifier.fillMaxSize(),
+                color = MaterialTheme.colorScheme.background
+            ) {
+                Box(modifier = Modifier.fillMaxSize()) {
+                    com.vunv.n5nihongo.ui.leaderboard.LeaderboardScreen(
+                        onStartMockExam = {}
+                    )
+                    IconButton(
+                        onClick = { showLeaderboard = false },
+                        modifier = Modifier
+                            .padding(top = 48.dp, start = 16.dp)
+                            .background(Color.Black.copy(alpha = 0.5f), CircleShape)
+                            .size(40.dp)
+                            .align(Alignment.TopStart)
+                    ) {
+                        Icon(
+                            imageVector = Icons.Default.Close,
+                            contentDescription = "Đóng",
+                            tint = Color.White
+                        )
+                    }
+                }
+            }
+        }
+    }
 
     Column(
         modifier = Modifier
@@ -76,8 +119,9 @@ fun ProfileRoute(
         )
         SettingsList(
             onNavigateToAi = onNavigateToAi,
+            onShowLeaderboard = { showLeaderboard = true },
             onLogout = {
-                authViewModel.logout()
+                authViewModel.logout(context)
                 onLogoutSuccess()
             }
         )
@@ -179,9 +223,15 @@ private fun AchievementSection(badges: List<BadgeUi>) {
 }
 
 @Composable
-private fun SettingsList(onNavigateToAi: () -> Unit, onLogout: () -> Unit) {
+private fun SettingsList(
+    onNavigateToAi: () -> Unit,
+    onShowLeaderboard: () -> Unit,
+    onLogout: () -> Unit
+) {
     Card(shape = RoundedCornerShape(16.dp), modifier = Modifier.fillMaxWidth()) {
         Column {
+            SettingRow("Bảng xếp hạng cao thủ 🏆", onClick = onShowLeaderboard)
+            HorizontalDivider(color = MaterialTheme.colorScheme.outlineVariant)
             SettingRow("Trợ lý AI Sensei 🌸", onClick = onNavigateToAi)
             HorizontalDivider(color = MaterialTheme.colorScheme.outlineVariant)
             SettingRow("Đăng xuất", onClick = onLogout)

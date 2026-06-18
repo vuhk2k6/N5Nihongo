@@ -352,76 +352,40 @@
   ],
   "kanji": [
     {
-      "kanjiId": 701,
+      "kanjiId": 1,
       "lessonId": 7,
-      "character": "花",
-      "onyomi": "カ",
-      "kunyomi": "はな",
-      "meaning": "Hoa",
-      "strokeCount": 7
-    },
-    {
-      "kanjiId": 702,
-      "lessonId": 7,
-      "character": "父",
-      "onyomi": "フ",
-      "kunyomi": "ちち",
-      "meaning": "Bố",
-      "strokeCount": 4
-    },
-    {
-      "kanjiId": 703,
-      "lessonId": 7,
-      "character": "母",
-      "onyomi": "ボ",
-      "kunyomi": "はは",
-      "meaning": "Mẹ",
-      "strokeCount": 5
-    },
-    {
-      "kanjiId": 704,
-      "lessonId": 7,
-      "character": "手",
-      "onyomi": "シュ",
-      "kunyomi": "て",
-      "meaning": "Tay",
-      "strokeCount": 4
-    },
-    {
-      "kanjiId": 705,
-      "lessonId": 7,
-      "character": "紙",
-      "onyomi": "シ",
-      "kunyomi": "かみ",
-      "meaning": "Giấy",
+      "character": "時",
+      "onyomi": "ジ",
+      "kunyomi": "とき",
+      "meaning": "Thời, thời gian, giờ",
       "strokeCount": 10
     },
     {
-      "kanjiId": 706,
+      "kanjiId": 2,
       "lessonId": 7,
-      "character": "電",
-      "onyomi": "デン",
-      "kunyomi": "",
-      "meaning": "Điện",
-      "strokeCount": 13
+      "character": "分",
+      "onyomi": "ブン / フン / ブ",
+      "kunyomi": "わ.かる / わ.ける",
+      "meaning": "Phân, phút, phân chia",
+      "strokeCount": 4
     },
     {
-      "kanjiId": 707,
+      "kanjiId": 3,
       "lessonId": 7,
-      "character": "話",
-      "onyomi": "ワ",
-      "kunyomi": "はな.す",
-      "meaning": "Nói chuyện",
-      "strokeCount": 13
+      "character": "半",
+      "onyomi": "ハン",
+      "kunyomi": "なか.ba",
+      "meaning": "Bán, một nửa",
+      "strokeCount": 5
     },
     {
-      "kanjiId": 708,
+      "kanjiId": 4,
       "lessonId": 7,
-      "character": "教",
-      "onyomi": "キョウ",
-      "kunyomi": "おし.える",
-      "meaning": "Dạy",
-      "strokeCount": 11
+      "character": "前",
+      "onyomi": "ゼン",
+      "kunyomi": "まえ",
+      "meaning": "Tiền, trước",
+      "strokeCount": 9
     }
   ]
 }

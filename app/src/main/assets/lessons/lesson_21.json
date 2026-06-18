@@ -352,76 +352,40 @@
   ],
   "kanji": [
     {
-      "kanjiId": 2101,
+      "kanjiId": 1,
       "lessonId": 21,
-      "character": "思",
-      "onyomi": "シ",
-      "kunyomi": "おも.う",
-      "meaning": "Nghĩ",
+      "character": "西",
+      "onyomi": "セイ / サイ",
+      "kunyomi": "ni.si",
+      "meaning": "Tây, phía Tây",
+      "strokeCount": 6
+    },
+    {
+      "kanjiId": 2,
+      "lessonId": 21,
+      "character": "南",
+      "onyomi": "ナン",
+      "kunyomi": "mi.na.mi",
+      "meaning": "Nam, phía Nam",
       "strokeCount": 9
     },
     {
-      "kanjiId": 2102,
+      "kanjiId": 3,
       "lessonId": 21,
-      "character": "言",
-      "onyomi": "ゲン",
-      "kunyomi": "い.う",
-      "meaning": "Nói",
-      "strokeCount": 7
-    },
-    {
-      "kanjiId": 2103,
-      "lessonId": 21,
-      "character": "夢",
-      "onyomi": "ム",
-      "kunyomi": "ゆめ",
-      "meaning": "Giấc mơ",
-      "strokeCount": 13
-    },
-    {
-      "kanjiId": 2104,
-      "lessonId": 21,
-      "character": "正",
-      "onyomi": "セイ",
-      "kunyomi": "ただ.しい",
-      "meaning": "Đúng, chính",
+      "character": "北",
+      "onyomi": "ホク",
+      "kunyomi": "ki.ta",
+      "meaning": "Bắc, phía Bắc",
       "strokeCount": 5
     },
     {
-      "kanjiId": 2105,
+      "kanjiId": 4,
       "lessonId": 21,
-      "character": "勝",
-      "onyomi": "ショウ",
-      "kunyomi": "か.つ",
-      "meaning": "Thắng",
-      "strokeCount": 12
-    },
-    {
-      "kanjiId": 2106,
-      "lessonId": 21,
-      "character": "負",
-      "onyomi": "フ",
-      "kunyomi": "ま.ける",
-      "meaning": "Thua",
-      "strokeCount": 9
-    },
-    {
-      "kanjiId": 2107,
-      "lessonId": 21,
-      "character": "意",
-      "onyomi": "イ",
-      "kunyomi": "",
-      "meaning": "Ý",
-      "strokeCount": 13
-    },
-    {
-      "kanjiId": 2108,
-      "lessonId": 21,
-      "character": "見",
-      "onyomi": "ケン",
-      "kunyomi": "み.る",
-      "meaning": "Nhìn, xem",
-      "strokeCount": 7
+      "character": "口",
+      "onyomi": "コウ / ク",
+      "kunyomi": "ku.chi",
+      "meaning": "Khẩu, miệng, lối ra vào",
+      "strokeCount": 3
     }
   ]
 }

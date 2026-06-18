@@ -348,76 +348,40 @@
   ],
   "kanji": [
     {
-      "kanjiId": 601,
+      "kanjiId": 1,
       "lessonId": 6,
-      "character": "食",
-      "onyomi": "ショク",
-      "kunyomi": "た.べる",
-      "meaning": "Ăn",
-      "strokeCount": 9
+      "character": "土",
+      "onyomi": "ド / ト",
+      "kunyomi": "つち",
+      "meaning": "Thổ, đất",
+      "strokeCount": 3
     },
     {
-      "kanjiId": 602,
+      "kanjiId": 2,
       "lessonId": 6,
-      "character": "飲",
-      "onyomi": "イン",
-      "kunyomi": "の.む",
-      "meaning": "Uống",
-      "strokeCount": 12
+      "character": "国",
+      "onyomi": "コク",
+      "kunyomi": "くに",
+      "meaning": "Quốc, quốc gia",
+      "strokeCount": 8
     },
     {
-      "kanjiId": 603,
+      "kanjiId": 3,
       "lessonId": 6,
-      "character": "見",
-      "onyomi": "ケン",
-      "kunyomi": "み.る",
-      "meaning": "Nhìn, xem",
-      "strokeCount": 7
+      "character": "人",
+      "onyomi": "ジン / ニン",
+      "kunyomi": "ひと",
+      "meaning": "Nhân, người",
+      "strokeCount": 2
     },
     {
-      "kanjiId": 604,
+      "kanjiId": 4,
       "lessonId": 6,
-      "character": "読",
-      "onyomi": "ドク",
-      "kunyomi": "よ.む",
-      "meaning": "Đọc",
-      "strokeCount": 14
-    },
-    {
-      "kanjiId": 605,
-      "lessonId": 6,
-      "character": "買",
-      "onyomi": "バイ",
-      "kunyomi": "か.う",
-      "meaning": "Mua",
-      "strokeCount": 12
-    },
-    {
-      "kanjiId": 606,
-      "lessonId": 6,
-      "character": "魚",
-      "onyomi": "ギョ",
-      "kunyomi": "さかな",
-      "meaning": "Cá",
-      "strokeCount": 11
-    },
-    {
-      "kanjiId": 607,
-      "lessonId": 6,
-      "character": "肉",
-      "onyomi": "ニク",
-      "kunyomi": "",
-      "meaning": "Thịt",
+      "character": "年",
+      "onyomi": "ネン",
+      "kunyomi": "とし",
+      "meaning": "Niên, năm",
       "strokeCount": 6
-    },
-    {
-      "kanjiId": 608,
-      "lessonId": 6,
-      "character": "茶",
-      "onyomi": "チャ",
-      "kunyomi": "",
-      "meaning": "Trà",
-      "strokeCount": 9
     }
   ]
 }

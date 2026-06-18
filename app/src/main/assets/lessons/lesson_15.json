@@ -352,76 +352,40 @@
   ],
   "kanji": [
     {
-      "kanjiId": 1501,
+      "kanjiId": 1,
       "lessonId": 15,
-      "character": "答",
-      "onyomi": "トウ",
-      "kunyomi": "こた.える",
-      "meaning": "Trả lời",
-      "strokeCount": 12
+      "character": "子",
+      "onyomi": "シ / ス",
+      "kunyomi": "ko",
+      "meaning": "Tử, con cái",
+      "strokeCount": 3
     },
     {
-      "kanjiId": 1502,
+      "kanjiId": 2,
       "lessonId": 15,
-      "character": "問",
-      "onyomi": "モン",
-      "kunyomi": "と.う",
-      "meaning": "Hỏi",
-      "strokeCount": 11
-    },
-    {
-      "kanjiId": 1503,
-      "lessonId": 15,
-      "character": "道",
-      "onyomi": "ドウ",
-      "kunyomi": "みち",
-      "meaning": "Đường",
-      "strokeCount": 12
-    },
-    {
-      "kanjiId": 1504,
-      "lessonId": 15,
-      "character": "図",
-      "onyomi": "ズ",
-      "kunyomi": "はか.る",
-      "meaning": "Hình, sơ đồ",
+      "character": "男",
+      "onyomi": "ダン / ナン",
+      "kunyomi": "o.to.ko",
+      "meaning": "Nam, đàn ông",
       "strokeCount": 7
     },
     {
-      "kanjiId": 1505,
+      "kanjiId": 3,
       "lessonId": 15,
-      "character": "乗",
-      "onyomi": "ジョウ",
-      "kunyomi": "の.る",
-      "meaning": "Lên (xe)",
-      "strokeCount": 9
+      "character": "女",
+      "onyomi": "ジョ / ニョ",
+      "kunyomi": "on.na",
+      "meaning": "Nữ, phụ nữ",
+      "strokeCount": 3
     },
     {
-      "kanjiId": 1506,
+      "kanjiId": 4,
       "lessonId": 15,
-      "character": "住",
-      "onyomi": "ジュウ",
-      "kunyomi": "す.む",
-      "meaning": "Sống, cư trú",
-      "strokeCount": 7
-    },
-    {
-      "kanjiId": 1507,
-      "lessonId": 15,
-      "character": "知",
-      "onyomi": "チ",
-      "kunyomi": "し.る",
-      "meaning": "Biết",
-      "strokeCount": 8
-    },
-    {
-      "kanjiId": 1508,
-      "lessonId": 15,
-      "character": "勤",
-      "onyomi": "キン",
-      "kunyomi": "つと.める",
-      "meaning": "Làm việc",
-      "strokeCount": 12
+      "character": "父",
+      "onyomi": "フ",
+      "kunyomi": "chi.chi",
+      "meaning": "Phụ, bố",
+      "strokeCount": 4
     }
   ]
 }

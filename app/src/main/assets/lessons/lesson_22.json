@@ -352,76 +352,40 @@
   ],
   "kanji": [
     {
-      "kanjiId": 2201,
+      "kanjiId": 1,
       "lessonId": 22,
-      "character": "着",
-      "onyomi": "チャク",
-      "kunyomi": "き.る",
-      "meaning": "Mặc, đến",
-      "strokeCount": 12
+      "character": "耳",
+      "onyomi": "ジ",
+      "kunyomi": "mi.mi",
+      "meaning": "Nhĩ, tai",
+      "strokeCount": 6
     },
     {
-      "kanjiId": 2202,
+      "kanjiId": 2,
       "lessonId": 22,
-      "character": "服",
-      "onyomi": "フク",
-      "kunyomi": "",
-      "meaning": "Quần áo",
-      "strokeCount": 8
-    },
-    {
-      "kanjiId": 2203,
-      "lessonId": 22,
-      "character": "家",
-      "onyomi": "カ",
-      "kunyomi": "いえ",
-      "meaning": "Nhà",
-      "strokeCount": 10
-    },
-    {
-      "kanjiId": 2204,
-      "lessonId": 22,
-      "character": "物",
-      "onyomi": "ブツ",
-      "kunyomi": "もの",
-      "meaning": "Vật",
-      "strokeCount": 8
-    },
-    {
-      "kanjiId": 2205,
-      "lessonId": 22,
-      "character": "生",
-      "onyomi": "セイ",
-      "kunyomi": "う.まれる",
-      "meaning": "Sinh ra",
+      "character": "目",
+      "onyomi": "モク",
+      "kunyomi": "me",
+      "meaning": "Mục, mắt",
       "strokeCount": 5
     },
     {
-      "kanjiId": 2206,
+      "kanjiId": 3,
       "lessonId": 22,
-      "character": "時",
-      "onyomi": "ジ",
-      "kunyomi": "とき",
-      "meaning": "Thời gian",
-      "strokeCount": 10
-    },
-    {
-      "kanjiId": 2207,
-      "lessonId": 22,
-      "character": "間",
-      "onyomi": "カン",
-      "kunyomi": "あいだ",
-      "meaning": "Khoảng, gian",
-      "strokeCount": 12
-    },
-    {
-      "kanjiId": 2208,
-      "lessonId": 22,
-      "character": "予",
-      "onyomi": "ヨ",
-      "kunyomi": "",
-      "meaning": "Dự, trước",
+      "character": "手",
+      "onyomi": "シュ",
+      "kunyomi": "te",
+      "meaning": "Thủ, tay",
       "strokeCount": 4
+    },
+    {
+      "kanjiId": 4,
+      "lessonId": 22,
+      "character": "足",
+      "onyomi": "ソク",
+      "kunyomi": "a.si / ta.ri.ru",
+      "meaning": "Túc, chân, đầy đủ",
+      "strokeCount": 7
     }
   ]
 }

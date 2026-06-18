@@ -47,6 +47,7 @@ class MockExamViewModel(
     private val aiRepository: AiRepository = AiRepository()
 ) : AndroidViewModel(application) {
 
+    private val authRepository = com.vunv.n5nihongo.data.auth.AuthRepository()
     private val _uiState = MutableStateFlow(MockExamUiState())
     val uiState: StateFlow<MockExamUiState> = _uiState.asStateFlow()
 
@@ -209,6 +210,14 @@ class MockExamViewModel(
                 correctCount = correct,
                 skillsBreakdown = breakdown
             )
+        }
+
+        // Tính và cộng XP thưởng thi thử
+        val xpEarned = correct * 10 + (if (correct == state.questions.size) 50 else if (correct >= state.questions.size / 2) 30 else 0)
+        if (xpEarned > 0) {
+            viewModelScope.launch {
+                authRepository.updateUserProgress(xpEarned, getApplication())
+            }
         }
 
         fetchAiAnalysis(correct, state.questions.size, breakdown, state.questions, state.selectedAnswers)

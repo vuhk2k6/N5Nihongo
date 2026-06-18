@@ -348,76 +348,40 @@
   ],
   "kanji": [
     {
-      "kanjiId": 1101,
+      "kanjiId": 1,
       "lessonId": 11,
-      "character": "人",
-      "onyomi": "ジン/ニン",
-      "kunyomi": "ひと",
-      "meaning": "Người",
-      "strokeCount": 2
-    },
-    {
-      "kanjiId": 1102,
-      "lessonId": 11,
-      "character": "子",
-      "onyomi": "シ",
-      "kunyomi": "こ",
-      "meaning": "Trẻ con",
+      "character": "下",
+      "onyomi": "カ / ゲ",
+      "kunyomi": "si.ta / sa.ge.ru",
+      "meaning": "Hạ, dưới",
       "strokeCount": 3
     },
     {
-      "kanjiId": 1103,
+      "kanjiId": 2,
       "lessonId": 11,
-      "character": "兄",
-      "onyomi": "ケイ",
-      "kunyomi": "あに",
-      "meaning": "Anh",
+      "character": "中",
+      "onyomi": "チュウ",
+      "kunyomi": "na.ka",
+      "meaning": "Trung, ở giữa, bên trong",
+      "strokeCount": 4
+    },
+    {
+      "kanjiId": 3,
+      "lessonId": 11,
+      "character": "外",
+      "onyomi": "ガイ / ゲ",
+      "kunyomi": "so.to",
+      "meaning": "Ngoại, bên ngoài",
       "strokeCount": 5
     },
     {
-      "kanjiId": 1104,
+      "kanjiId": 4,
       "lessonId": 11,
-      "character": "姉",
-      "onyomi": "シ",
-      "kunyomi": "あね",
-      "meaning": "Chị",
-      "strokeCount": 8
-    },
-    {
-      "kanjiId": 1105,
-      "lessonId": 11,
-      "character": "弟",
-      "onyomi": "テイ",
-      "kunyomi": "おとうと",
-      "meaning": "Em trai",
-      "strokeCount": 7
-    },
-    {
-      "kanjiId": 1106,
-      "lessonId": 11,
-      "character": "妹",
-      "onyomi": "マイ",
-      "kunyomi": "いもうと",
-      "meaning": "Em gái",
-      "strokeCount": 8
-    },
-    {
-      "kanjiId": 1107,
-      "lessonId": 11,
-      "character": "家",
-      "onyomi": "カ",
-      "kunyomi": "いえ",
-      "meaning": "Nhà, gia đình",
-      "strokeCount": 10
-    },
-    {
-      "kanjiId": 1108,
-      "lessonId": 11,
-      "character": "族",
-      "onyomi": "ゾク",
-      "kunyomi": "",
-      "meaning": "Tộc",
-      "strokeCount": 11
+      "character": "右",
+      "onyomi": "ウ / ユウ",
+      "kunyomi": "mi.gi",
+      "meaning": "Hữu, bên phải",
+      "strokeCount": 5
     }
   ]
 }

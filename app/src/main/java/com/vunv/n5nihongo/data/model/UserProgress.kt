@@ -1,11 +1,10 @@
 package com.vunv.n5nihongo.data.model
 
 import androidx.room.Entity
-import androidx.room.PrimaryKey
 
-@Entity(tableName = "user_progress")
+@Entity(tableName = "user_progress", primaryKeys = ["userId", "lessonId"])
 data class UserProgress(
-    @PrimaryKey
+    val userId: String = "",
     val lessonId: Int,
     val score: Int,
     val isCompleted: Boolean,

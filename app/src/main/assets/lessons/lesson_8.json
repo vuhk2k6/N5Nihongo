@@ -348,76 +348,40 @@
   ],
   "kanji": [
     {
-      "kanjiId": 801,
+      "kanjiId": 1,
       "lessonId": 8,
-      "character": "大",
-      "onyomi": "ダイ",
-      "kunyomi": "おお.きい",
-      "meaning": "To, lớn",
-      "strokeCount": 3
+      "character": "後",
+      "onyomi": "ゴ / コウ",
+      "kunyomi": "nhi / u.si.ro / a.to",
+      "meaning": "Hậu, sau",
+      "strokeCount": 9
     },
     {
-      "kanjiId": 802,
+      "kanjiId": 2,
       "lessonId": 8,
-      "character": "小",
-      "onyomi": "ショウ",
-      "kunyomi": "ちい.さい",
-      "meaning": "Nhỏ",
-      "strokeCount": 3
-    },
-    {
-      "kanjiId": 803,
-      "lessonId": 8,
-      "character": "高",
-      "onyomi": "コウ",
-      "kunyomi": "たか.い",
-      "meaning": "Cao, đắt",
-      "strokeCount": 10
-    },
-    {
-      "kanjiId": 804,
-      "lessonId": 8,
-      "character": "安",
-      "onyomi": "アン",
-      "kunyomi": "やす.い",
-      "meaning": "Rẻ, yên",
-      "strokeCount": 6
-    },
-    {
-      "kanjiId": 805,
-      "lessonId": 8,
-      "character": "元",
-      "onyomi": "ゲン",
-      "kunyomi": "もと",
-      "meaning": "Gốc, nguyên",
+      "character": "午",
+      "onyomi": "ゴ",
+      "kunyomi": "うま",
+      "meaning": "Ngọ, trưa",
       "strokeCount": 4
     },
     {
-      "kanjiId": 806,
+      "kanjiId": 3,
       "lessonId": 8,
-      "character": "気",
-      "onyomi": "キ",
-      "kunyomi": "",
-      "meaning": "Khí, không khí",
+      "character": "先",
+      "onyomi": "セン",
+      "kunyomi": "sa.ki",
+      "meaning": "Tiên, trước",
       "strokeCount": 6
     },
     {
-      "kanjiId": 807,
+      "kanjiId": 4,
       "lessonId": 8,
-      "character": "古",
-      "onyomi": "コ",
-      "kunyomi": "ふる.い",
-      "meaning": "Cũ, cổ",
+      "character": "生",
+      "onyomi": "セイ / ショウ",
+      "kunyomi": "u.ma.re.ru / i.ki.ru",
+      "meaning": "Sinh, sống, sinh ra",
       "strokeCount": 5
-    },
-    {
-      "kanjiId": 808,
-      "lessonId": 8,
-      "character": "町",
-      "onyomi": "チョウ",
-      "kunyomi": "まち",
-      "meaning": "Phố",
-      "strokeCount": 7
     }
   ]
 }

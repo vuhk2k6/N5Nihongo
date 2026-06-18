@@ -6,6 +6,9 @@ import androidx.activity.compose.rememberLauncherForActivityResult
 import androidx.activity.result.contract.ActivityResultContracts
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
+import androidx.compose.foundation.Image
+import androidx.compose.ui.res.painterResource
+import androidx.compose.foundation.layout.statusBarsPadding
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
@@ -26,7 +29,9 @@ import androidx.compose.runtime.Composable
 import androidx.compose.runtime.DisposableEffect
 import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.getValue
+import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
+import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Brush
@@ -104,8 +109,12 @@ fun LoginRoute(
         }
     }
 
-    LaunchedEffect(uiState.currentUser?.uid) {
-        if (uiState.currentUser != null) {
+    LaunchedEffect(Unit) {
+        authViewModel.checkCurrentUser(context)
+    }
+
+    LaunchedEffect(uiState.currentUser?.uid, uiState.userDocument?.uid) {
+        if (uiState.currentUser != null || (uiState.userDocument != null && uiState.userDocument?.uid?.startsWith("GUEST") == true)) {
             onLoginSuccess()
         }
     }
@@ -115,6 +124,10 @@ fun LoginRoute(
             val appId = context.getString(R.string.facebook_app_id)
             appId.isNotBlank() && appId != "0"
         }.getOrDefault(false)
+    }
+
+    val savedGuestName = remember(context) {
+        authViewModel.getSavedGuestNickname(context) ?: ""
     }
 
     LoginScreen(
@@ -191,7 +204,9 @@ fun LoginRoute(
                 Log.e("LoginScreen", "Facebook login lỗi: ${it.message}")
                 authViewModel.showAuthMessage("Không thể khởi tạo đăng nhập Facebook")
             }
-        }
+        },
+        onGuestLogin = { nickname -> authViewModel.loginAsGuest(context, nickname) },
+        savedGuestNickname = savedGuestName
     )
 }
 
@@ -205,25 +220,34 @@ private fun LoginScreen(
     onSubmit: () -> Unit,
     onToggleMode: () -> Unit,
     onGoogleLogin: () -> Unit,
-    onFacebookLogin: () -> Unit
+    onFacebookLogin: () -> Unit,
+    onGuestLogin: (String) -> Unit,
+    savedGuestNickname: String
 ) {
     Column(
         modifier = Modifier
             .fillMaxSize()
             .background(Color.White)
+            .statusBarsPadding()
             .padding(20.dp),
-        verticalArrangement = Arrangement.spacedBy(14.dp),
+        verticalArrangement = Arrangement.spacedBy(14.dp, Alignment.CenterVertically),
         horizontalAlignment = Alignment.CenterHorizontally
     ) {
-        Text("⛩️", style = MaterialTheme.typography.displayLarge)
-        Text(
-            text = "Chào mừng Vũ trở lại!",
-            style = MaterialTheme.typography.headlineMedium,
-            fontWeight = FontWeight.Bold
+        Image(
+            painter = painterResource(id = R.drawable.splash_logo),
+            contentDescription = "Logo ứng dụng",
+            modifier = Modifier.size(100.dp)
         )
         Text(
-            text = if (uiState.isLoginMode) "Đăng nhập để tiếp tục học" else "Tạo tài khoản mới",
-            style = MaterialTheme.typography.bodyMedium
+            text = "Chào mừng bạn đến với hành trình học N5",
+            style = MaterialTheme.typography.headlineMedium,
+            fontWeight = FontWeight.Bold,
+            textAlign = androidx.compose.ui.text.style.TextAlign.Center
+        )
+        Text(
+            text = if (uiState.isLoginMode) "Đăng nhập để bắt đầu học" else "Tạo tài khoản mới",
+            style = MaterialTheme.typography.bodyMedium,
+            textAlign = androidx.compose.ui.text.style.TextAlign.Center
         )
 
         if (!uiState.isLoginMode) {
@@ -277,6 +301,51 @@ private fun LoginScreen(
             Text(
                 if (uiState.isLoginMode) "Chưa có tài khoản? Đăng ký"
                 else "Đã có tài khoản? Đăng nhập"
+            )
+        }
+
+        var showGuestDialog by remember { mutableStateOf(false) }
+        var guestNickname by remember(savedGuestNickname) { mutableStateOf(savedGuestNickname) }
+
+        TextButton(onClick = { showGuestDialog = true }) {
+            Text("Đăng nhập bằng Khách (Lưu local) 👤", color = MintPrimary, fontWeight = FontWeight.Bold)
+        }
+
+        if (showGuestDialog) {
+            androidx.compose.material3.AlertDialog(
+                onDismissRequest = { showGuestDialog = false },
+                title = { Text("Đăng nhập Khách", fontWeight = FontWeight.Bold) },
+                text = {
+                    Column(verticalArrangement = Arrangement.spacedBy(8.dp)) {
+                        Text("Tiến độ học tập và XP của bạn sẽ được lưu trực tiếp trên thiết bị này và không đồng bộ đám mây.", style = MaterialTheme.typography.bodyMedium)
+                        OutlinedTextField(
+                            value = guestNickname,
+                            onValueChange = { textValue -> guestNickname = textValue },
+                            label = { Text("Tên khách của bạn") },
+                            singleLine = true,
+                            shape = RoundedCornerShape(12.dp),
+                            modifier = Modifier.fillMaxWidth()
+                        )
+                    }
+                },
+                confirmButton = {
+                    androidx.compose.material3.Button(
+                        colors = androidx.compose.material3.ButtonDefaults.buttonColors(containerColor = MintPrimary),
+                        onClick = {
+                            if (guestNickname.isNotBlank()) {
+                                onGuestLogin(guestNickname)
+                                showGuestDialog = false
+                            }
+                        }
+                    ) {
+                        Text("Xác nhận", color = Color.White)
+                    }
+                },
+                dismissButton = {
+                    androidx.compose.material3.TextButton(onClick = { showGuestDialog = false }) {
+                        Text("Hủy")
+                    }
+                }
             )
         }
 

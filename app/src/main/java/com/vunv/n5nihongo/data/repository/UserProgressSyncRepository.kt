@@ -11,7 +11,7 @@ class UserProgressSyncRepository(
 ) {
 
     suspend fun syncProgressForUser(userId: String) {
-        val localProgress = userProgressDao.getAllProgressOnce()
+        val localProgress = userProgressDao.getAllProgressOnce(userId)
         for (localItem in localProgress) {
             syncSingleProgress(userId = userId, localItem = localItem)
         }
@@ -38,6 +38,7 @@ class UserProgressSyncRepository(
 
         userProgressDao.upsertProgress(
             UserProgress(
+                userId = userId,
                 lessonId = remote.lessonId,
                 score = remote.score,
                 isCompleted = remote.isCompleted,

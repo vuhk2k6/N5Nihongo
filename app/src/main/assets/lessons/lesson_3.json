@@ -348,76 +348,40 @@
   ],
   "kanji": [
     {
-      "kanjiId": 301,
+      "kanjiId": 1,
       "lessonId": 3,
-      "character": "国",
-      "onyomi": "コク",
-      "kunyomi": "くに",
-      "meaning": "Quốc gia",
-      "strokeCount": 8
+      "character": "九",
+      "onyomi": "キュウ / ク",
+      "kunyomi": "ここの.つ",
+      "meaning": "Chín",
+      "strokeCount": 2
     },
     {
-      "kanjiId": 302,
+      "kanjiId": 2,
       "lessonId": 3,
-      "character": "食",
-      "onyomi": "ショク",
-      "kunyomi": "た.べる",
-      "meaning": "Ăn",
-      "strokeCount": 9
+      "character": "十",
+      "onyomi": "ジュウ",
+      "kunyomi": "とお",
+      "meaning": "Mười",
+      "strokeCount": 2
     },
     {
-      "kanjiId": 303,
+      "kanjiId": 3,
       "lessonId": 3,
-      "character": "室",
-      "onyomi": "シツ",
-      "kunyomi": "むろ",
-      "meaning": "Phòng",
-      "strokeCount": 9
+      "character": "百",
+      "onyomi": "ヒャク",
+      "kunyomi": "もも",
+      "meaning": "Trăm",
+      "strokeCount": 6
     },
     {
-      "kanjiId": 304,
+      "kanjiId": 4,
       "lessonId": 3,
-      "character": "階",
-      "onyomi": "カイ",
-      "kunyomi": "きざはし",
-      "meaning": "Tầng",
-      "strokeCount": 12
-    },
-    {
-      "kanjiId": 305,
-      "lessonId": 3,
-      "character": "部",
-      "onyomi": "ブ",
-      "kunyomi": "へ",
-      "meaning": "Bộ phận, phòng",
-      "strokeCount": 11
-    },
-    {
-      "kanjiId": 306,
-      "lessonId": 3,
-      "character": "屋",
-      "onyomi": "オク",
-      "kunyomi": "や",
-      "meaning": "Tiệm, nhà",
-      "strokeCount": 9
-    },
-    {
-      "kanjiId": 307,
-      "lessonId": 3,
-      "character": "事",
-      "onyomi": "ジ",
-      "kunyomi": "こと",
-      "meaning": "Sự việc",
-      "strokeCount": 8
-    },
-    {
-      "kanjiId": 308,
-      "lessonId": 3,
-      "character": "務",
-      "onyomi": "ム",
-      "kunyomi": "つと.める",
-      "meaning": "Sự vụ, công vụ",
-      "strokeCount": 11
+      "character": "千",
+      "onyomi": "セン",
+      "kunyomi": "ち",
+      "meaning": "Nghìn",
+      "strokeCount": 3
     }
   ]
 }

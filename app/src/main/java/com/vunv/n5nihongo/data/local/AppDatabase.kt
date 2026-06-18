@@ -10,7 +10,7 @@ import com.vunv.n5nihongo.data.model.Word
 
 @Database(
     entities = [Word::class, UserProgress::class, Lesson::class, Grammar::class, Kanji::class],
-    version = 6,
+    version = 8,
     exportSchema = false
 )
 abstract class AppDatabase : RoomDatabase() {
